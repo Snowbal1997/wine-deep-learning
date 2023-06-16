@@ -11,7 +11,8 @@ import json
 import glob
 
 
-BASE_URL = "https://www.winemag.com/?s=&drink_type=wine&pub_date_web={1}&page={0}"
+#BASE_URL = "https://www.winemag.com/?s=&drink_type=wine&pub_date_web={1}&page={0}"
+BASE_URL = "https://www.wineenthusiast.com/?s={1}&search_type=ratings&page={0}"
 session = requests.Session()
 HEADERS = {
     "user-agent": (
