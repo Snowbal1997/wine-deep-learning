@@ -1,6 +1,6 @@
 import argparse
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as soup
 from multiprocessing.dummy import Pool
 import os
 import shutil
@@ -9,10 +9,14 @@ import requests
 import re
 import json
 import glob
+from urllib.request import Request, urlopen
+import pandas as pd
 
 
 #BASE_URL = "https://www.winemag.com/?s=&drink_type=wine&pub_date_web={1}&page={0}"
-BASE_URL = "https://www.wineenthusiast.com/?s={1}&search_type=ratings&page={0}"
+#BASE_URL = "https://www.wineenthusiast.com/?s={1}&search_type=ratings&page={0}"
+#BASE URL = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&drink_type=wine"
+
 session = requests.Session()
 HEADERS = {
     "user-agent": (
@@ -363,22 +367,90 @@ class ReviewFormatException(Exception):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("pages", nargs=2, type=int, help="pages range to scrape")
-    parser.add_argument("year", type=int, help="year filter")
-    parser.add_argument("clear", type=bool, help="Clear old data")
+    #parser = argparse.ArgumentParser()
+    #parser.add_argument("pages", nargs=2, type=int, help="pages range to scrape")
+    #parser.add_argument("year", type=int, help="year filter")
+    #parser.add_argument("clear", type=bool, help="Clear old data")
 
-    args = parser.parse_args()
-    # Total review results on their site are conflicting, hardcode as the max tested value for now
-    winmag_scraper = Scraper(
-        pages_to_scrape=args.pages,
-        num_jobs=10,
-        clear_old_data=args.clear,
-        year=args.year,
+    #Poging 1
+    #response = requests.get('https://www.wineenthusiast.com/?s=2018&search_type=ratings&page=1&drink_type=wine&country=France&wine_style=Red')
+    #print(response.text)
+    #Geeft 403 Forbidden
+
+    #Poging 2
+    #response = urllib.request.urlopen('https://www.wineenthusiast.com/?s=2018&search_type=ratings&page=1&drink_type=wine&country=France&wine_style=Red')
+    #html = response.read()
+    #text = html.decode()
+    #print(text)
+    #re.findall('<td class="w2p_fw">(.*?)</td>',text)
+    #Geeft 403 Forbidden
+
+    #URL_RED_2016 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page=0&drink_type=wine&country=France&wine_style=Red"
+    #URL_RED_2016 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings"
+    #url = URL_RED_2016
+    #URL_RED_2017 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=Red"
+    #URL_RED_2018 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=Red"
+    URL_WHITE_2016 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=White"
+    URL_WHITE_2017 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=White"
+    URL_WHITE_2018 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=White"
+
+    #req = Request(URL_RED_2016, headers= {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'})
+    #webpage = urlopen(req).read()
+    #webpage = urlopen(req).read()
+    #page_soup = soup(webpage, "html.parser")
+    #print(page_soup.prettify)
+
+    r = requests.get(
+        "https://www.vivino.com/api/explore/explore",
+        params = {
+            "country_code": "FR",
+            "country_codes[]":"pt",
+            "currency_code":"EUR",
+            "grape_filter":"varietal",
+            "min_rating":"1",
+            "order_by":"price",
+            "order":"asc",
+            "page": 1,
+            "price_range_max":"500",
+            "price_range_min":"0",
+            "wine_type_ids[]":"1"
+        },
+        headers= {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0"
+        }
     )
 
+    #print(r.text)
+
+
+    results = [
+        (
+            t["vintage"]["wine"]["winery"]["name"], 
+            f'{t["vintage"]["wine"]["name"]} {t["vintage"]["year"]}',
+            t["vintage"]["statistics"]["ratings_average"],
+            t["vintage"]["statistics"]["ratings_count"]
+        )
+        for t in r.json()["explore_vintage"]["matches"]
+    ]
+    dataframe = pd.DataFrame(results,columns=['Winery','Wine','Rating','num_review'])
+
+    print(dataframe)
+
+
+    #URL_RED_2018 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=Rose"
+    #URL_RED_2018 = "https://www.wineenthusiast.com/?s=2018&search_type=ratings&page={0}&drink_type=wine&country=France&wine_style=Sparkling"
+
+    #args = parser.parse_args()
+    # Total review results on their site are conflicting, hardcode as the max tested value for now
+    #winmag_scraper = Scraper(
+    #    pages_to_scrape=args.pages,
+    #    num_jobs=10,
+    #    clear_old_data=args.clear,
+    #    year=args.year,
+    #)
+
     # Step 1: scrape data
-    winmag_scraper.scrape_site()
+    #winmag_scraper.scrape_site()
 
     # Step 2: condense data
-    winmag_scraper.condense_data()
+    #winmag_scraper.condense_data()
