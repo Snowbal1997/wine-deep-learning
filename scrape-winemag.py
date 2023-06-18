@@ -21,7 +21,7 @@ if __name__ == "__main__":
                  'price', 'rating', 'no. ratings']
     wine_df = pd.DataFrame(columns=wine_cols)
 
-    for x in range(100, 200):
+    for x in range(800, 900):
 
         r = requests.get(
             "https://www.vivino.com/api/explore/explore",
@@ -92,7 +92,9 @@ if __name__ == "__main__":
     # Explore Columns To Include
     wine_dict = json.loads(json.dumps(r.json()))
 
-    wine_df.to_csv('red1.csv')
+    wine_df.to_csv('red8.csv')
 
-    with open('red1.json', 'w') as fp:
+    with open('red8.json', 'w') as fp:
         json.dump(wine_dict, fp, sort_keys=True, indent=4)
+
+        # https://stackoverflow.com/questions/71264253/web-scraping-vivino-using-python
