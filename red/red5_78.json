@@ -1,0 +1,35 @@
+{
+    "e": "eJzLLbI1VMvNzLM1NTDQMwAyEytATLXkSlu3ILVkW9fQILX8ohTbxOJktfykStuCoszkVLXykuhYW0MAHpYStg==",
+    "explore_vintage": {
+        "bottle_type_errors": [],
+        "market": {
+            "country": "fr",
+            "currency": {
+                "code": "EUR",
+                "name": "Euros",
+                "prefix": "\u20ac",
+                "suffix": null
+            }
+        },
+        "matches": [],
+        "records": [],
+        "records_matched": 0
+    },
+    "selected_filters": [
+        {
+            "items": [
+                {
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/winetypes/red.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/winetypes/thumbs/red_932x810.png"
+                        }
+                    },
+                    "id": 1,
+                    "name": "Rode wijn"
+                }
+            ],
+            "type": "wine_type_ids"
+        }
+    ]
+}

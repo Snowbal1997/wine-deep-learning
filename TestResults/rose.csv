@@ -1,0 +1,501 @@
+,wine brand name,wine name,year,region,type,winery,price,rating,no. ratings
+0,Colombard - Ugni Blanc,Colombard - Ugni Blanc 2022,2022,Côtes de Gascogne,0,Château de Millet,4.49,3.6,747
+1,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2018,2018,Côtes de Gascogne,0,Domaine du Tariquet,4.77,3.5,11944
+2,Bordeaux Blanc,Bordeaux Blanc 2021,2021,Bordeaux,0,Château Greteau Medeville,5.0,3.6,41
+3,Malicieuse Grenache Blanc,Malicieuse Grenache Blanc 2022,2022,Côtes Catalanes,0,Les Vignerons des Albères,5.05,3.8,90
+4,Muscat Sec,Muscat Sec 2022,2022,Côtes Catalanes,0,Les Vignerons des Albères,5.05,3.6,68
+5,To Bi Or Not To Bi Macabeu - Grenache,To Bi Or Not To Bi Macabeu - Grenache 2022,2022,Côtes Catalanes,0,Arnaud de Villeneuve,5.2,3.3,34
+6,Les Bastions Blanc,Les Bastions Blanc 2019,2019,Saint-Mont,0,Plaimont,5.4,3.6,58
+7,Bordeaux Blanc,Bordeaux Blanc 2017,2017,Bordeaux,0,Château Roquefort,5.4,3.6,558
+8,Bordeaux Blanc,Bordeaux Blanc 2022,2022,Bordeaux,0,Château Greteau Medeville,5.5,3.6,41
+9,Bordeaux Blanc,Bordeaux Blanc 2021,2021,Bordeaux,0,Château Boisson,5.5,3.8,187
+10,Le Petit Balthazar Viognier - Sauvignon Blanc,Le Petit Balthazar Viognier - Sauvignon Blanc 2022,2022,Pays d'Oc,0,Pierrick Harang,5.5,3.6,857
+11,4 Saisons Chardonnay,4 Saisons Chardonnay 2022,2022,Côtes Catalanes,0,Vignerons Catalans,5.6,3.7,230
+12,Chardonnay,Chardonnay 2022,2022,Côtes Catalanes,0,Les Vignerons des Albères,5.6,3.6,109
+13,Bordeaux Blanc,Bordeaux Blanc 2019,2019,Bordeaux,0,Château Saint-Florin,5.7,3.4,391
+14,Graves Blanc,Graves Blanc 2016,2016,Graves,0,Château Bousquet,5.76,3.4,52
+15,Amountanage Blanc,Amountanage Blanc 2018,2018,Luberon,0,Marrenon,5.85,3.6,265
+16,Chardonnay,Chardonnay 2019,2019,Mendoza,0,Los Medanos,5.88,3.3,191
+17,Blanc Fruité,Blanc Fruité 2021,2021,Zuidwest-Frankrijk,0,Demon Noir,5.9,3.7,221
+18,Prémices Muscat Sec,Prémices Muscat Sec 2022,2022,Côtes Catalanes,0,Deprade Jorda,5.9,3.8,32
+19,Prémices Chardonnay,Prémices Chardonnay 2022,2022,Côtes Catalanes,0,Deprade Jorda,5.9,3.4,38
+20,Esprit de Sérame Chardonnay,Esprit de Sérame Chardonnay 2015,2015,Pays d'Oc,0,Chateau de Sérame,5.94,3.3,192
+21,Varietal Range Chardonnay,Varietal Range Chardonnay 2010,2010,Zuidoost-Australië,0,Hardys,5.95,3.2,2605
+22,No. 3 Colombard - Sauvignon,No. 3 Colombard - Sauvignon 2022,2022,Côtes de Gascogne,0,Uby,5.95,4.0,11202
+23,Entre-deux-Mers,Entre-deux-Mers 2021,2021,Entre-deux-Mers,0,Château Gabelot,6.0,3.8,93
+24,Le Petit Balthazar Viognier - Sauvignon Blanc,Le Petit Balthazar Viognier - Sauvignon Blanc 2020,2020,Pays d'Oc,0,Pierrick Harang,6.0,3.6,857
+25,Entre-deux-Mers,Entre-deux-Mers 2021,2021,Entre-deux-Mers,0,Château Gabelot,6.0,3.8,93
+26,Le Petit Balthazar Viognier - Sauvignon Blanc,Le Petit Balthazar Viognier - Sauvignon Blanc 2020,2020,Pays d'Oc,0,Pierrick Harang,6.0,3.6,857
+27,Entre-deux-Mers,Entre-deux-Mers 2022,2022,Entre-deux-Mers,0,Château Gabelot,6.0,3.8,93
+28,La Croix Picot Savennières Blanc,La Croix Picot Savennières Blanc 2021,2021,Savennières,0,Château de Bellevue,6.0,3.8,197
+29,Côtes du Rhône Blanc,Côtes du Rhône Blanc 2009,2009,Côtes du Rhône,0,Domaine Martin,6.08,3.3,45
+30,Terre d'Ocres Blanc,Terre d'Ocres Blanc 2010,2010,Ventoux,0,Domaine de Tara,6.1,3.8,87
+31,Côtes de Gascogne Réserve,Côtes de Gascogne Réserve 2014,2014,Côtes de Gascogne,0,Domaine du Tariquet,6.16,3.7,1407
+32,Côtes du Rhône Blanc,Côtes du Rhône Blanc 2013,2013,Côtes du Rhône,0,Domaine Martin,6.21,3.3,45
+33,Bordeaux Blanc,Bordeaux Blanc 2018,2018,Bordeaux,0,Château Roquefort,6.21,3.6,558
+34,Blanc,Blanc 2022,2022,Ardèche,0,Orélie,6.25,3.5,305
+35,Cuvée Prestige Bordeaux Blanc Sec,Cuvée Prestige Bordeaux Blanc Sec 2020,2020,Bordeaux,0,Duchesse de Berry,6.26,3.5,42
+36,Private Gallery Chardonnay - Viognier,Private Gallery Chardonnay - Viognier 2017,2017,Méditerranée,0,Marrenon,6.32,3.5,149
+37,Entre-deux-Mers,Entre-deux-Mers 2022,2022,Entre-deux-Mers,0,Château des Léotins,6.35,3.6,412
+38,Pigmentum Ugni Blanc - Colombard,Pigmentum Ugni Blanc - Colombard 2015,2015,Zuidwest-Frankrijk,0,Georges Vigouroux,6.44,3.6,820
+39,Les Cardounettes Blanc,Les Cardounettes Blanc 2018,2018,Pays d'Oc,0,Foncalieu,6.48,3.3,79
+40,Beau Mayne Sauvignon Blanc Bordeaux,Beau Mayne Sauvignon Blanc Bordeaux 2014,2014,Bordeaux,0,Dourthe,6.48,3.3,536
+41,Vendredi,Vendredi 2017,2017,Aude,0,Maison Le Jeune,6.5,3.7,42
+42,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2022,2022,Côtes de Gascogne,0,Domaine du Tariquet,6.5,3.5,11944
+43,Bergerac Sec,Bergerac Sec 2016,2016,Bergerac Sec,0,Château Vari,6.5,3.4,164
+44,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2021,2021,Côtes de Gascogne,0,Domaine du Tariquet,6.5,3.5,11944
+45,Les Parcelles Sauvignon Blanc,Les Parcelles Sauvignon Blanc 2021,2021,Het Loiredal,0,Réthoré Davy,6.503333333333333,3.7,486
+46,Sauvignon Blanc,Sauvignon Blanc 2020,2020,Pays d'Oc,0,Côte des Roses,6.555,3.8,1172
+47,Colombard - Sauvignon (Côtes Sauvage),Colombard - Sauvignon (Côtes Sauvage) 2022,2022,Côtes de Gascogne,0,Villa Dria,6.65,3.8,1147
+48,Les Yeux dans les étotiles Blanc,Les Yeux dans les étotiles Blanc 2022,2022,Pays d'Oc,0,Alma Cersius,6.708333333333333,3.2,79
+49,Les Parcelles Chardonnay,Les Parcelles Chardonnay 2022,2022,Het Loiredal,0,Réthoré Davy,6.75,3.5,227
+50,Les Parcelles Chardonnay,Les Parcelles Chardonnay 2022,2022,Het Loiredal,0,Réthoré Davy,6.75,3.5,227
+51,Bordeaux Blanc,Bordeaux Blanc 2020,2020,Bordeaux,0,Château Roquefort,6.75,3.6,558
+52,Retsina,Retsina N.V.,N.V.,Thessaloniki,1,Malamatina,6.78,3.2,3987
+53,Ugni Blanc - Colombard Côtes De Gascogne Classic,Ugni Blanc - Colombard Côtes De Gascogne Classic 2021,2021,Côtes de Gascogne,0,Domaine du Tariquet,6.9,3.5,823
+54,Le Clandestin Sauvignon,Le Clandestin Sauvignon 2021,2021,Pays d'Oc,0,Sainte Marie des Crozes,6.9,3.5,155
+55,Le Bordeaux de Maucaillou Blanc (B),Le Bordeaux de Maucaillou Blanc (B) 2021,2021,Bordeaux,0,Château Maucaillou,6.9,3.5,429
+56,Pinot Grigio,Pinot Grigio 2021,2021,Veneto,0,Campagnola,6.9,3.8,2356
+57,Le Canon du Maréchal Muscat - Viognier,Le Canon du Maréchal Muscat - Viognier 2022,2022,Côtes Catalanes,0,Cazes,6.9,3.6,1635
+58,Tiberius Blanc,Tiberius Blanc 2022,2022,Pays d'Oc,0,Les Vignerons du Sommiérois,6.9,3.3,83
+59,Ninet de Péna Blanc,Ninet de Péna Blanc 2022,2022,Côtes Catalanes,0,Château de Péna,6.9,3.5,51
+60,Les Camines Blanc,Les Camines Blanc 2022,2022,Côtes Catalanes,0,Dom Brial,6.95,3.7,73
+61,Harmonie de Gascogne Blanc,Harmonie de Gascogne Blanc 2021,2021,Côtes de Gascogne,0,Domaine de Pellehaut,7.0,3.8,7858
+62,Crazy Blanc,Crazy Blanc 2022,2022,Côtes de Provence,0,Domaine Tropez,7.1,3.7,356
+63,Trebbiano - Chardonnay,Trebbiano - Chardonnay 2022,2022,Rubicone,0,É Gòt,7.1,3.3,356
+64,Côtes du Rhône Blanc,Côtes du Rhône Blanc 2017,2017,Côtes du Rhône,0,Domaine Martin,7.11,3.3,45
+65,Chenin Blanc (Free-Run Steen),Chenin Blanc (Free-Run Steen) 2018,2018,Kuststreek,0,MAN,7.2,3.6,6115
+66,Pecorino Sostenibile Biologico,Pecorino Sostenibile Biologico 2021,2021,Abruzzo,0,Cantina Tollo,7.2,3.6,106
+67,Terres Blanches Côtes de Gascogne,Terres Blanches Côtes de Gascogne 2020,2020,Côtes de Gascogne,0,Domaine Chiroulet,7.2,3.7,1180
+68,Clarisse Côtes Catalanes,Clarisse Côtes Catalanes 2022,2022,Côtes Catalanes,0,Domaine Piquemal,7.2,3.4,63
+69,Pigmentum Sauvignon Blanc,Pigmentum Sauvignon Blanc 2021,2021,Buzet,0,Georges Vigouroux,7.2,3.4,64
+70,Chenin Blanc (Free-Run Steen),Chenin Blanc (Free-Run Steen) 2016,2016,Kuststreek,0,MAN,7.2,3.6,6115
+71,Chardonnay,Chardonnay 2022,2022,Cevennes,0,Vignerons de Tornac,7.25,3.6,128
+72,Nomad Chardonnay,Nomad Chardonnay 2019,2019,Dealu Mare,0,Aurelia Visinescu,7.28,3.5,84
+73,Chardonnay (Padstal),Chardonnay (Padstal) 2015,2015,Kuststreek,0,MAN,7.29,3.4,1389
+74,Cuvée des Chartreux Belle Emilie Blanc,Cuvée des Chartreux Belle Emilie Blanc 2022,2022,Gard,0,Cellier des Chartreux,7.3,3.2,453
+75,Cuvée des Chartreux Belle Emilie Blanc,Cuvée des Chartreux Belle Emilie Blanc 2022,2022,Gard,0,Cellier des Chartreux,7.3,3.2,453
+76,L'Infini Blanc,L'Infini Blanc 2021,2021,Côtes Catalanes,0,Domaine du Paradis,7.3,3.6,166
+77,Soave Classico,Soave Classico 2021,2021,Soave Classico,0,Campagnola,7.35,3.5,834
+78,Sauvignon,Sauvignon 2021,2021,Côtes de Duras,0,Domaine de Laulan,7.4,3.8,229
+79,L'Été Gascon Blanc,L'Été Gascon Blanc 2022,2022,Côtes de Gascogne,0,Domaine de Pellehaut,7.4,4.1,5276
+80,Graves Blanc,Graves Blanc 2020,2020,Graves,0,Château du Mouret,7.5,3.7,271
+81,L'Impertinent Bordeaux Blanc,L'Impertinent Bordeaux Blanc 2021,2021,Bordeaux,0,Vignobles Perez,7.5,3.8,25
+82,Zangre Blanc,Zangre Blanc 2022,2022,Pays d'Oc,0,Famille Cros Pujol,7.5,3.7,29
+83,Les Vignes de Bila-Haut Côtes du Roussillon Blanc,Les Vignes de Bila-Haut Côtes du Roussillon Blanc 2021,2021,Côtes du Roussillon,0,M. Chapoutier,7.5,3.6,1762
+84,Illico Blanc,Illico Blanc 2022,2022,Côtes Catalanes,0,Domaine des Schistes,7.5,3.6,339
+85,Le Mas de Vessière Blanc,Le Mas de Vessière Blanc 2022,2022,Pays d'Oc,0,Château Vessière,7.5,3.6,98
+86,L'Indecent Blanc,L'Indecent Blanc 2019,2019,Pays d'Oc,0,Clos d'Elle,7.5,3.3,41
+87,Terres Blanches Côtes de Gascogne,Terres Blanches Côtes de Gascogne 2021,2021,Côtes de Gascogne,0,Domaine Chiroulet,7.5,3.7,1180
+88,Graves Blanc,Graves Blanc 2016,2016,Graves,0,Château Puy Boyrein,7.5,3.3,44
+89,Les Vignes Retrouvées Saint-Mont Blanc,Les Vignes Retrouvées Saint-Mont Blanc 2020,2020,Saint-Mont,0,Plaimont,7.5,3.7,1005
+90,Elise Côtes Catalanes,Elise Côtes Catalanes 2022,2022,Côtes Catalanes,0,Domaine Piquemal,7.5,3.7,55
+91,Blanc,Blanc 2022,2022,Var,0,Domaine Escaravatiers,7.5,3.7,44
+92,Riesling,Riesling 2020,2020,Elzas,0,Joseph Cattin,7.5,3.6,1552
+93,Molino a Vento Grillo,Molino a Vento Grillo 2021,2021,Terre Siciliane,0,Tenute Orestiadi,7.52,3.4,997
+94,Viña Esmeralda,Viña Esmeralda 2014,2014,Catalonië,0,Familia Torres,7.56,4.0,48231
+95,Sauvignon,Sauvignon 2021,2021,Pays d'Oc,0,Château Salitis,7.6,3.4,62
+96,Graves Blanc,Graves Blanc 2012,2012,Bordeaux,0,Château Bel Air Gallier,7.65,3.4,59
+97,Carpio Bianco,Carpio Bianco 2021,2021,Benaco Bresciano,0,Cantine La Pergola,7.68,3.6,96
+98,Collection Viognier,Collection Viognier 2022,2022,Pays d'Oc,0,Gayda,7.7,3.8,452
+99,Nomad Feteasca Regala,Nomad Feteasca Regala 2018,2018,Dealu Mare,0,Aurelia Visinescu,7.7,3.6,98
+100,Collection Viognier,Collection Viognier 2022,2022,Pays d'Oc,0,Gayda,7.7,3.8,452
+101,Nomad Feteasca Regala,Nomad Feteasca Regala 2018,2018,Dealu Mare,0,Aurelia Visinescu,7.7,3.6,98
+102,Bordeaux Blanc,Bordeaux Blanc 2018,2018,Bordeaux,0,Château La Tour Saint Blaise,7.7,3.8,61
+103,Chèvrefeuille Valençay,Chèvrefeuille Valençay 2021,2021,Valençay,0,Francis Jourdain - Domaine des Moreaux,7.75,3.8,293
+104,Chardonnay - Gros Manseng (Terre de Feu),Chardonnay - Gros Manseng (Terre de Feu) 2021,2021,Côtes de Gascogne,0,Villa Dria,7.75,3.8,311
+105,Les Grains Viognier,Les Grains Viognier 2022,2022,Méditerranée,0,Marrenon,7.75,3.6,585
+106,Chèvrefeuille Valençay,Chèvrefeuille Valençay 2022,2022,Valençay,0,Francis Jourdain - Domaine des Moreaux,7.75,3.8,293
+107,Ecceterra Blanco,Ecceterra Blanco 2022,2022,Hérault,0,Domaine du Clos Roca,7.8,3.7,116
+108,Bouquet de Blancs,Bouquet de Blancs 2020,2020,Pays d'Oc,0,Mas Montel - Mas Granier,7.8,3.6,88
+109,Entre-Deux-Mers,Entre-Deux-Mers 2020,2020,Entre-deux-Mers,0,Château Vrai Caillou,7.82,3.5,412
+110,Violon d'Ingres Blanc,Violon d'Ingres Blanc 2022,2022,Alpilles,0,Domaine le Grand Castelet,7.8966666666666665,3.8,100
+111,Dans l'air du Temps Chardonnay,Dans l'air du Temps Chardonnay 2021,2021,Languedoc-Roussillon,0,Jeff Carrel,7.9,3.8,1130
+112,La Belle Étoile Blanc,La Belle Étoile Blanc 2021,2021,Gard,0,Château de Manissy,7.9,3.3,47
+113,Marius Vermentino,Marius Vermentino 2020,2020,Pays d'Oc,0,M. Chapoutier,7.9,3.7,3764
+114,Le Petit Courselle Les Copinnes Blanc,Le Petit Courselle Les Copinnes Blanc 2021,2021,Vin de France,0,Marie & Sylvie Courselle,7.9,3.4,556
+115,Graves Blanc,Graves Blanc 2020,2020,Graves,0,Château Puy Boyrein,7.9,3.3,44
+116,Verdejo,Verdejo 2020,2020,Rueda,0,Intruso,7.9,3.7,270
+117,Insolent Blanc,Insolent Blanc 2022,2022,Côtes Catalanes,0,Deprade Jorda,7.9,4.3,71
+118,Vieille Mule Blanc,Vieille Mule Blanc 2021,2021,Côtes Catalanes,0,Jeff Carrel,7.9,3.5,1044
+119,Chardonnay,Chardonnay 2021,2021,Veneto,0,Campagnola,7.9,3.7,469
+120,Chardonnay de Pennautier,Chardonnay de Pennautier 2021,2021,Pays d'Oc,0,Château de Pennautier,7.9,3.5,625
+121,Roussanne,Roussanne 2022,2022,Pays d'Oc,0,Les Jamelles,7.95,3.6,101
+122,Riesling Kabinett Feinherb,Riesling Kabinett Feinherb 2021,2021,Rheinhessen,0,Peter Mertes Gold Edition,7.95,4.1,1382
+123,L'Eclat Côtes de Gascogne,L'Eclat Côtes de Gascogne 2022,2022,Côtes de Gascogne,0,Domaine de Joy,7.95,3.6,947
+124,El Abuelo Verdejo - Sauvignon Blanc,El Abuelo Verdejo - Sauvignon Blanc 2022,2022,Almansa,0,Bodegas Piqueras,7.95,3.9,1461
+125,Roussanne,Roussanne 2022,2022,Pays d'Oc,0,Les Jamelles,7.95,3.6,101
+126,Riesling Kabinett Feinherb,Riesling Kabinett Feinherb 2021,2021,Rheinhessen,0,Peter Mertes Gold Edition,7.95,4.1,1382
+127,L'Eclat Côtes de Gascogne,L'Eclat Côtes de Gascogne 2022,2022,Côtes de Gascogne,0,Domaine de Joy,7.95,3.6,947
+128,El Abuelo Verdejo - Sauvignon Blanc,El Abuelo Verdejo - Sauvignon Blanc 2022,2022,Almansa,0,Bodegas Piqueras,7.95,3.9,1461
+129,No 4 Côtes de Gascogne Gros - Petit Manseng,No 4 Côtes de Gascogne Gros - Petit Manseng 2022,2022,Côtes de Gascogne,0,Uby,7.96,4.2,8361
+130,Falanghina Beneventano,Falanghina Beneventano 2022,2022,Falanghina del Beneventano,0,Bellamico,7.99,3.1,72
+131,Graves de Vayres Blanc,Graves de Vayres Blanc 2018,2018,Graves de Vayres,0,Château Lesparre,8.0,3.7,44
+132,Verdeca,Verdeca 2020,2020,Puglia,0,Cantele,8.0,3.5,646
+133,Nova Ona Blanc,Nova Ona Blanc 2022,2022,Languedoc-Roussillon,0,Chateau des Hospices,8.0,3.8,29
+134,Elicio Vermentino,Elicio Vermentino 2019,2019,Méditerranée,0,Caravinserail,8.0,3.7,318
+135,Les Balmettes Blanc,Les Balmettes Blanc 2022,2022,Côtes Catalanes,0,Mas Cremat,8.0,3.3,50
+136,Voltige Gaillac,Voltige Gaillac 2016,2016,Gaillac,0,Château Adelaide,8.0,3.6,79
+137,Artisan Tamaioasa Romaneasca Sec,Artisan Tamaioasa Romaneasca Sec 2018,2018,Dealu Mare,0,Aurelia Visinescu,8.0,3.8,441
+138,Cameleon White,Cameleon White 2018,2018,Dealu Mare,0,Lacerta,8.0,3.0,33
+139,Sémillon - Chardonnay,Sémillon - Chardonnay 2020,2020,Zuid-Australië,0,Rawson's Retreat,8.0,3.4,1687
+140,C Chardonnay,C Chardonnay 2022,2022,Pays d'Oc,0,Famille Jean-Pierre  Rambier - Domaine Haut-Lirou,8.0,3.8,40
+141,Pays d'Oc 6ème Sens White,Pays d'Oc 6ème Sens White 2022,2022,Pays d'Oc,0,Gérard Bertrand,8.01,3.3,1971
+142,Viognier,Viognier 2022,2022,Pays d'Oc,0,Les Jamelles,8.05,3.7,3595
+143,Sauvignon Blanc,Sauvignon Blanc 2022,2022,Pays d'Oc,0,Les Jamelles,8.05,3.5,3810
+144,Traminer Aromatico,Traminer Aromatico 2022,2022,Venezia,0,Ca'Tullio,8.08,3.8,318
+145,Pinot Grigio,Pinot Grigio 2022,2022,Friuli-Venezia Giulia,0,Ca'Tullio,8.08,3.6,359
+146,Chardonnay,Chardonnay 2022,2022,Colli Orientali del Friuli,0,Ca'Tullio,8.08,3.3,48
+147,Sauvignon,Sauvignon 2022,2022,Colli Orientali del Friuli,0,Ca'Tullio,8.08,3.5,66
+148,Sylvaner Alsace,Sylvaner Alsace 2011,2011,Elzas,0,Gustave Lorentz,8.1,3.4,69
+149,Viognier,Viognier 2022,2022,Pays d'Oc,0,Les Vignerons du Sommiérois,8.1,3.3,39
+150,Sylvaner Alsace,Sylvaner Alsace 2011,2011,Elzas,0,Gustave Lorentz,8.1,3.4,69
+151,Viognier,Viognier 2022,2022,Pays d'Oc,0,Les Vignerons du Sommiérois,8.1,3.3,39
+152,Chardonnay,Chardonnay 2022,2022,Pays d'Oc,0,Sainte Magdelaine,8.1,3.3,345
+153,Sylvaner Alsace,Sylvaner Alsace 2010,2010,Elzas,0,Gustave Lorentz,8.1,3.4,69
+154,Chardonnay,Chardonnay 2022,2022,Languedoc-Roussillon,0,Les Vignerons du Sommiérois,8.1,3.4,29
+155,No. 1 Sauvignon Blanc,No. 1 Sauvignon Blanc 2015,2015,Bordeaux,0,Dourthe,8.1,3.6,84
+156,Pigmentum Gros Manseng,Pigmentum Gros Manseng 2021,2021,Gascogne,0,Georges Vigouroux,8.1,3.9,310
+157,Bianco (Cariddi),Bianco (Cariddi) 2020,2020,Sicilia,0,Colosi,8.18,3.6,404
+158,Le Tre Roero Arneis,Le Tre Roero Arneis 2022,2022,Roero,0,Malabaila,8.18,3.8,226
+159,Jardin des Anges Sauvignon Touraine,Jardin des Anges Sauvignon Touraine 2020,2020,Touraine,0,Oisly Thésée,8.19,3.5,79
+160,Sauvignon Blanc Val de Loire,Sauvignon Blanc Val de Loire 2021,2021,Val de Loire,0,J. de Villebois,8.2,3.8,3768
+161,Sauvignon Blanc Val de Loire,Sauvignon Blanc Val de Loire 2022,2022,Val de Loire,0,J. de Villebois,8.2,3.8,3768
+162,Cuvée Expression Costières de Nîmes Blanc,Cuvée Expression Costières de Nîmes Blanc 2022,2022,Costières-de-Nîmes,0,Château Beaubois,8.23,3.6,314
+163,Sauvignon Blanc Bordeaux,Sauvignon Blanc Bordeaux 2014,2014,Bordeaux,0,N°1 de Dourthe,8.28,3.6,3431
+164,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2021,2021,Trebbiano d'Abruzzo,0,Citra,8.28,3.2,767
+165,Gewürztraminer,Gewürztraminer 2021,2021,Pays d'Oc,0,Les Jamelles,8.3,3.8,330
+166,Pinot Grigio delle Venezie,Pinot Grigio delle Venezie 2021,2021,delle Venezie,0,Vaja,8.3,3.4,37
+167,Signature Blanc,Signature Blanc 2022,2022,Côtes de Gascogne,0,Domaine Saint-Lannes,8.3,3.8,1804
+168,Pinot Gris,Pinot Gris 2021,2021,Pays d'Oc,0,Les Jamelles,8.3,3.8,743
+169,Riesling,Riesling 2010,2010,Elzas,0,Gustave Lorentz,8.31,3.6,430
+170,Terra Sana  Sauvignon Blanc Côtes de Gascogne,Terra Sana  Sauvignon Blanc Côtes de Gascogne 2018,2018,Côtes de Gascogne,0,François Lurton,8.32,3.4,163
+171,Chardonnay,Chardonnay 2022,2022,Pays d'Oc,0,Domaine Py,8.33,3.5,304
+172,Palio Pecorino Terre di Chieti,Palio Pecorino Terre di Chieti 2022,2022,Terre di Chieti,0,Citra,8.38,3.7,540
+173,Respiro di Terra Primitivo,Respiro di Terra Primitivo 2020,2020,Puglia,0,Casa Vinicola Errico,8.38,4.0,33
+174,Cantalupi Chardonnay Salento,Cantalupi Chardonnay Salento 2022,2022,Salento,0,Conti Zecca,8.38,3.3,536
+175,Palio Pecorino Terre di Chieti,Palio Pecorino Terre di Chieti 2022,2022,Terre di Chieti,0,Citra,8.38,3.7,540
+176,Respiro di Terra Primitivo,Respiro di Terra Primitivo 2020,2020,Puglia,0,Casa Vinicola Errico,8.38,4.0,33
+177,Cantalupi Chardonnay Salento,Cantalupi Chardonnay Salento 2022,2022,Salento,0,Conti Zecca,8.38,3.3,536
+178,Gewürztraminer,Gewürztraminer 2021,2021,Pays d'Oc,0,Maison Castel,8.38,3.5,78
+179,Tyrsos Vermentino di Sardegna,Tyrsos Vermentino di Sardegna 2022,2022,Vermentino di Sardegna,0,Contini,8.38,3.6,1330
+180,Reserve Bordeaux Blanc,Reserve Bordeaux Blanc 2021,2021,Bordeaux,0,Château Lamothe-Vincent,8.4,3.8,50
+181,Cotes de Gascogne,Cotes de Gascogne 2020,2020,Côtes de Gascogne,0,Domaine du Touĵa,8.4,3.6,484
+182,Verdejo Single Vineyard Blanco,Verdejo Single Vineyard Blanco 2021,2021,Jumilla,0,Olivares,8.4,3.5,158
+183,Muscat Sec,Muscat Sec 2021,2021,Pays d'Oc,0,Les Jamelles,8.4,3.9,537
+184,Chardonnay,Chardonnay 2022,2022,Pays d'Oc,0,Côte des Roses,8.4,3.7,2138
+185,Entre-deux-Mers,Entre-deux-Mers 2022,2022,Entre-deux-Mers,0,Château Landereau,8.4,3.9,2099
+186,Closi Le Petit Muscat Sec,Closi Le Petit Muscat Sec 2022,2022,Méditerranée,0,Domaine Boudau,8.4,3.8,130
+187,Chardonnay,Chardonnay 2021,2021,Pays d'Oc,0,Les Jamelles,8.4,3.6,4397
+188,Aux 4 Vents Blanc,Aux 4 Vents Blanc 2022,2022,Hérault,0,Clos Bagatelle,8.43,3.4,75
+189,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2022,2022,Trebbiano d'Abruzzo,0,La Valentina,8.48,3.4,452
+190,Drôle d'Oiseau Blanc,Drôle d'Oiseau Blanc 2019,2019,Pays d'Oc,0,Gérard Bertrand,8.49,3.3,49
+191,Loup y es-tu,Loup y es-tu 2021,2021,Languedoc,0,Domaine de l'Hortus,8.49,3.7,900
+192,K Blanc,K Blanc 2022,2022,Vaucluse,0,Le Clos de Garaud,8.496666666666666,3.7,35
+193,Terres Blanches Muscat Sec,Terres Blanches Muscat Sec 2019,2019,Pays d'Oc,0,Cave des Vignerons de Frontignan,8.5,3.9,935
+194,L'Été Gascon Blanc,L'Été Gascon Blanc 2021,2021,Côtes de Gascogne,0,Domaine de Pellehaut,8.5,4.1,5276
+195,Côtes de Bourg Graines Blanches,Côtes de Bourg Graines Blanches 2019,2019,Côtes de Bourg,0,Château Mercier,8.5,3.8,138
+196,Sauvignon,Sauvignon 2018,2018,Hérault,0,Domaine la Colombette,8.5,3.7,932
+197,Jolie Môme Muscat Sec Perlant,Jolie Môme Muscat Sec Perlant 2022,2022,Pays d'Oc,0,Sarrat de Goundy,8.5,3.8,59
+198,Mar Blanc,Mar Blanc 2022,2022,Côtes du Roussillon,0,Clos des Vins d'Amour,8.5,3.8,186
+199,Chenin - Chardonnay Côtes De Gascogne,Chenin - Chardonnay Côtes De Gascogne 2022,2022,Côtes de Gascogne,0,Domaine du Tariquet,8.5,3.6,1056
+200,Terres Blanches Muscat Sec,Terres Blanches Muscat Sec 2019,2019,Pays d'Oc,0,Cave des Vignerons de Frontignan,8.5,3.9,935
+201,L'Été Gascon Blanc,L'Été Gascon Blanc 2021,2021,Côtes de Gascogne,0,Domaine de Pellehaut,8.5,4.1,5276
+202,Côtes de Bourg Graines Blanches,Côtes de Bourg Graines Blanches 2019,2019,Côtes de Bourg,0,Château Mercier,8.5,3.8,138
+203,Sauvignon,Sauvignon 2018,2018,Hérault,0,Domaine la Colombette,8.5,3.7,932
+204,Jolie Môme Muscat Sec Perlant,Jolie Môme Muscat Sec Perlant 2022,2022,Pays d'Oc,0,Sarrat de Goundy,8.5,3.8,59
+205,Mar Blanc,Mar Blanc 2022,2022,Côtes du Roussillon,0,Clos des Vins d'Amour,8.5,3.8,186
+206,Chenin - Chardonnay Côtes De Gascogne,Chenin - Chardonnay Côtes De Gascogne 2022,2022,Côtes de Gascogne,0,Domaine du Tariquet,8.5,3.6,1056
+207,K Ré Blanc,K Ré Blanc 2022,2022,Côtes Catalanes,0,Château Lafforgue,8.5,4.0,47
+208,Sauvignon Blanc Bordeaux,Sauvignon Blanc Bordeaux 2021,2021,Bordeaux,0,N°1 de Dourthe,8.5,3.6,3431
+209,Les Villas Villa Côte d'Argent,Les Villas Villa Côte d'Argent 2022,2022,Vin de France,0,Lionel Osmin & Cie,8.5,3.9,432
+210,Ca'Preella Soave,Ca'Preella Soave 2021,2021,Soave,0,Lamberti,8.5,3.3,81
+211,Montis Régalis,Montis Régalis 2019,2019,Vin de France,0,Dominique Andiran,8.5,3.7,182
+212,Maccabeu,Maccabeu 2022,2022,Côtes Catalanes,0,Domaine Grier,8.5,3.8,161
+213,Entre-Deux-Mers Blanc,Entre-Deux-Mers Blanc 2021,2021,Entre-deux-Mers,0,Château Turcaud,8.5,3.8,1903
+214,Blanc,Blanc 2021,2021,Méditerranée,0,Figuière,8.5,3.8,245
+215,Vermentino,Vermentino 2021,2021,Pays d'Oc,0,Les Jamelles,8.5,3.8,321
+216,Classic Graves Blanc,Classic Graves Blanc 2020,2020,Graves,0,Château de Respide,8.5,3.7,544
+217,White,White 2022,2022,West-Kaap,0,Versus,8.51,3.2,555
+218,Sauvignon,Sauvignon 2018,2018,Lazio,0,Ciù Ciù,8.53,3.6,39
+219,Domaine de Ricaud Entre-deux-Mers,Domaine de Ricaud Entre-deux-Mers 2020,2020,Entre-deux-Mers,0,Vignobles Chaigne et Fils,8.543333333333333,3.7,148
+220,Grand Marrenon Blanc,Grand Marrenon Blanc 2017,2017,Luberon,0,Marrenon,8.55,3.7,873
+221,Eaglehawk Chardonnay,Eaglehawk Chardonnay 2021,2021,Zuidoost-Australië,0,Wolf Blass,8.55,3.3,3062
+222,Grand Marrenon Blanc,Grand Marrenon Blanc 2018,2018,Luberon,0,Marrenon,8.55,3.7,873
+223,Grand Marrenon Blanc,Grand Marrenon Blanc 2016,2016,Luberon,0,Marrenon,8.55,3.7,873
+224,Blanc,Blanc 2018,2018,Cite de Carcassonne,0,Domaine de l'Estagnère,8.58,3.6,31
+225,Blanc,Blanc 2018,2018,Cite de Carcassonne,0,Domaine de l'Estagnère,8.58,3.6,31
+226,Palio Passerina Terre di Chieti,Palio Passerina Terre di Chieti 2022,2022,Terre di Chieti,0,Citra,8.58,4.0,122
+227,Oustal,Oustal 2022,2022,Limoux,0,Anne de Joyeuse,8.6,4.1,39
+228,Castelli Romani Bianco,Castelli Romani Bianco 2021,2021,Castelli Romani,0,Cantine Silvestri,8.64,3.5,333
+229,Les 100 Pas du Berger Viognier,Les 100 Pas du Berger Viognier 2016,2016,Saint-Guilhem-le-Desert,0,Bergerie du Capucin,8.64,3.7,68
+230,Cuvée Vent du Nord Saumur,Cuvée Vent du Nord Saumur 2021,2021,Saumur,0,Domaine des Guyons,8.65,3.7,1964
+231,Morillon Blanc,Morillon Blanc 2021,2021,Vin de France,0,Jeff Carrel,8.65,4.1,8053
+232,Soave Classico Colombara,Soave Classico Colombara 2019,2019,Soave,0,Zenato,8.67,3.7,962
+233,Esperandieu,Esperandieu 2018,2018,Minervois,0,Cailhol Gautran,8.7,3.7,272
+234,Essentielle Côtes du Rhône Blanc,Essentielle Côtes du Rhône Blanc 2021,2021,Côtes du Rhône,0,Nicolas Pere & Fils,8.7,3.8,73
+235,Eclat de Fruit Bergerac Sec,Eclat de Fruit Bergerac Sec 2022,2022,Bergerac Sec,0,Haut Montlong,8.7,3.7,172
+236,Riesling,Riesling 2020,2020,Elzas,0,Domaine Scheidecker,8.72,3.7,60
+237,Jardin Secret Gros Manseng,Jardin Secret Gros Manseng 2022,2022,Côtes de Gascogne,0,Villa Dria,8.75,4.0,312
+238,El Abuelo Verdejo - Sauvignon Blanc,El Abuelo Verdejo - Sauvignon Blanc 2020,2020,Almansa,0,Bodegas Piqueras,8.75,3.9,1461
+239,Pinot Grigio,Pinot Grigio 2021,2021,delle Venezie,0,SalvaTerra,8.78,3.7,235
+240,Querciantica Verdicchio dei Castelli di Jesi Classico,Querciantica Verdicchio dei Castelli di Jesi Classico 2021,2021,Verdicchio dei Castelli di Jesi,0,Velenosi,8.78,3.7,1839
+241,Discover Chenin Blanc - Chardonnay,Discover Chenin Blanc - Chardonnay 2021,2021,West-Kaap,0,Spier,8.78,3.6,687
+242,Campolongo Est! Est!! Est!!! di Montefiascone,Campolongo Est! Est!! Est!!! di Montefiascone 2022,2022,Est! Est!! Est!!! di Montefiascone,0,Stefanoni,8.78,3.5,137
+243,Classic Lugana,Classic Lugana 2018,2018,Lugana,0,Cantine Scolari,8.78,3.5,351
+244,Sospiro,Sospiro 2021,2021,Lazio,0,Gaffino,8.78,3.6,56
+245,Imprévu Riesling - Ugni Blanc,Imprévu Riesling - Ugni Blanc 2022,2022,Vin de France,0,Domaine du Tariquet,8.8,3.5,67
+246,Le Mas des Cigales Blanc,Le Mas des Cigales Blanc 2017,2017,Languedoc-Roussillon,0,Saint Preignan,8.8,3.3,50
+247,Atypique,Atypique 2022,2022,Vaucluse,0,Domaine Pique-Basse,8.8,3.8,52
+248,Giò Ribolla Gialla,Giò Ribolla Gialla 2021,2021,Venezia Giulia,0,Viticoltori Ponte,8.88,3.4,27
+249,Verona Garganega,Verona Garganega 2020,2020,Verona,0,Cantina di Negrar,8.88,3.7,958
+250,Giò Ribolla Gialla,Giò Ribolla Gialla 2021,2021,Venezia Giulia,0,Viticoltori Ponte,8.88,3.4,27
+251,Verona Garganega,Verona Garganega 2020,2020,Verona,0,Cantina di Negrar,8.88,3.7,958
+252,Diego Verdicchio dei Castelli di Jesi Classico,Diego Verdicchio dei Castelli di Jesi Classico 2021,2021,Verdicchio dei Castelli di Jesi,0,Casal Farneto,8.88,3.3,72
+253,Frida Passerina,Frida Passerina 2021,2021,Marche,0,Casal Farneto,8.88,3.4,263
+254,Custoza,Custoza 2021,2021,Bianco di Custoza,0,Montindon,8.88,3.8,120
+255,Santa Pazienza Lis Maris,Santa Pazienza Lis Maris 2022,2022,Friuli-Venezia Giulia,0,di Lenardo,8.88,3.4,189
+256,Bianco di Custoza,Bianco di Custoza 2018,2018,Verona,0,Campagnola,8.88,3.7,186
+257,Pariglia Vermentino di Sardegna,Pariglia Vermentino di Sardegna 2021,2021,Vermentino di Sardegna,0,Contini,8.88,3.7,3505
+258,Fontevecchia Verdicchio dei Castelli di Jesi Classico Superiore,Fontevecchia Verdicchio dei Castelli di Jesi Classico Superiore 2021,2021,Verdicchio dei Castelli di Jesi,0,Casal Farneto,8.88,3.7,1436
+259,Custoza,Custoza 2022,2022,Bianco di Custoza,0,Cavalchina,8.88,3.7,3684
+260,Nina,Nina 2021,2021,Piave,0,Ca' di Rajo,8.88,3.7,345
+261,Lissandrello Inzolia,Lissandrello Inzolia 2021,2021,Terre Siciliane,0,Tenuta dell'Abate,8.88,3.6,243
+262,Pinot Grigio,Pinot Grigio 2022,2022,Friuli-Venezia Giulia,0,Francesco Rotolo - Confinis,8.88,3.7,32
+263,Esperandieu,Esperandieu 2022,2022,Minervois,0,Cailhol Gautran,8.9,3.7,272
+264,Le Marin,Le Marin 2022,2022,La Clape,0,Sarrat de Goundy,8.9,3.8,199
+265,Tradition Côtes du Roussillon Blanc,Tradition Côtes du Roussillon Blanc 2022,2022,Côtes du Roussillon,0,Deprade Jorda,8.9,3.7,87
+266,Sauvignon Blanc,Sauvignon Blanc 2021,2021,Pays d'Oc,0,Côte des Roses,8.9,3.8,1172
+267,Bin 95 Sauvignon Blanc,Bin 95 Sauvignon Blanc 2021,2021,Zuidoost-Australië,0,Lindeman's,8.9,3.4,4709
+268,Marsanne,Marsanne 2020,2020,Pays d'Oc,0,Les Jamelles,8.9,3.6,143
+269,Passerina Marche Evoè,Passerina Marche Evoè 2022,2022,Marche,0,Ciù Ciù,8.9,3.6,3100
+270,Sauvignon Blanc,Sauvignon Blanc 2022,2022,Pays d'Oc,0,Côte des Roses,8.9,3.8,1172
+271,Réserve Chardonnay,Réserve Chardonnay 2018,2018,Pays d'Oc,0,Bonfils,8.9,2.9,27
+272,Gewürztraminer Feinherb,Gewürztraminer Feinherb 2021,2021,Rheinhessen,0,Hans Baer,8.9,4.1,4453
+273,Esprit de Crès Ricards Viognier,Esprit de Crès Ricards Viognier 2020,2020,Pays d'Oc,0,Domaine des Crès Ricards,8.9,3.7,518
+274,Riesling Trocken,Riesling Trocken 2021,2021,Rheinhessen,0,Hans Baer,8.9,4.0,22553
+275,Esperandieu,Esperandieu 2022,2022,Minervois,0,Cailhol Gautran,8.9,3.7,272
+276,Le Marin,Le Marin 2022,2022,La Clape,0,Sarrat de Goundy,8.9,3.8,199
+277,Sauvignon Blanc,Sauvignon Blanc 2021,2021,Pays d'Oc,0,Côte des Roses,8.9,3.8,1172
+278,Tradition Côtes du Roussillon Blanc,Tradition Côtes du Roussillon Blanc 2022,2022,Côtes du Roussillon,0,Deprade Jorda,8.9,3.7,87
+279,Bin 95 Sauvignon Blanc,Bin 95 Sauvignon Blanc 2021,2021,Zuidoost-Australië,0,Lindeman's,8.9,3.4,4709
+280,Marsanne,Marsanne 2020,2020,Pays d'Oc,0,Les Jamelles,8.9,3.6,143
+281,Passerina Marche Evoè,Passerina Marche Evoè 2022,2022,Marche,0,Ciù Ciù,8.9,3.6,3100
+282,Sauvignon Blanc,Sauvignon Blanc 2022,2022,Pays d'Oc,0,Côte des Roses,8.9,3.8,1172
+283,Réserve Chardonnay,Réserve Chardonnay 2018,2018,Pays d'Oc,0,Bonfils,8.9,2.9,27
+284,Gewürztraminer Feinherb,Gewürztraminer Feinherb 2021,2021,Rheinhessen,0,Hans Baer,8.9,4.1,4453
+285,Esprit de Crès Ricards Viognier,Esprit de Crès Ricards Viognier 2020,2020,Pays d'Oc,0,Domaine des Crès Ricards,8.9,3.7,518
+286,Riesling Trocken,Riesling Trocken 2021,2021,Rheinhessen,0,Hans Baer,8.9,4.0,22553
+287,Lugana,Lugana 2022,2022,Veneto,0,Cantina di Negrar,8.9,3.6,654
+288,Côtes du Rhône Réserve Blanc,Côtes du Rhône Réserve Blanc 2021,2021,Côtes du Rhône,0,Famille Perrin,8.9,3.5,3207
+289,La Petite Perrière Sauvignon Blanc,La Petite Perrière Sauvignon Blanc 2021,2021,Vin de France,0,La Perrière,8.9,3.6,7410
+290,V de Valmy Blanc,V de Valmy Blanc 2022,2022,Languedoc-Roussillon,0,Château Valmy,8.9,3.8,122
+291,Sauvignon,Sauvignon 2022,2022,Touraine,0,Domaine de la Rochette,8.903333333333332,3.6,747
+292,Graves Blanc,Graves Blanc 2014,2014,Graves,0,Château Bousquet,8.91,3.4,52
+293,Graves Blanc,Graves Blanc 2017,2017,Graves,0,Château Bousquet,8.91,3.4,52
+294,Graves Blanc,Graves Blanc 2015,2015,Graves,0,Château Bousquet,8.91,3.4,52
+295,Muscadet Sèvre et Maine Sur Lie,Muscadet Sèvre et Maine Sur Lie 2011,2011,Muscadet-Sevre et Maine,0,Langlois-Chateau,8.91,3.6,530
+296,Bernkastel-Kues Riesling Kabinett Feinherb,Bernkastel-Kues Riesling Kabinett Feinherb 2021,2021,Mosel,0,Peter Mertes Gold Edition,8.95,4.1,4259
+297,Chambaudière,Chambaudière 2020,2020,Muscadet-Sevre et Maine,0,Bruno Cormerais,8.95,3.6,340
+298,Grès du Trias Viognier,Grès du Trias Viognier 2022,2022,Ardèche,0,Vignerons Ardéchois,8.95,3.7,1161
+299,Saumur Blanc,Saumur Blanc 2018,2018,Saumur,0,Langlois-Chateau,8.96,3.6,573
+300,Saumur Blanc,Saumur Blanc 2018,2018,Saumur,0,Langlois-Chateau,8.96,3.6,573
+301,Chardonnay (Reserva),Chardonnay (Reserva) 2014,2014,Casablanca Valley,0,Casillero del Diablo,8.96,3.5,31719
+302,Fleurelle,Fleurelle 2010,2010,Elzas,0,Gustave Lorentz,8.96,3.8,367
+303,Fleurelle,Fleurelle 2011,2011,Elzas,0,Gustave Lorentz,8.96,3.8,367
+304,Pinot Blanc Alsace,Pinot Blanc Alsace 2012,2012,Elzas,0,Gustave Lorentz,8.96,3.7,123
+305,Cirò Bianco,Cirò Bianco 2022,2022,Cirò,0,Tenuta Iuzzolini,8.97,3.7,1531
+306,Gewürztraminer,Gewürztraminer 2021,2021,Nahe,0,Kendermanns,8.98,3.4,488
+307,La Ribolla Gialla,La Ribolla Gialla 2022,2022,Colli Orientali del Friuli,0,Ca'Tullio,8.98,3.6,267
+308,Cirò Bianco (Segno),Cirò Bianco (Segno) 2021,2021,Cirò,0,Librandi,8.98,3.7,3343
+309,Custoza,Custoza 2018,2018,Bianco di Custoza,0,Cantine Scolari,8.98,3.2,30
+310,Albiano Verdicchio dei Castelli di Jesi Classico,Albiano Verdicchio dei Castelli di Jesi Classico 2022,2022,Verdicchio dei Castelli di Jesi,0,Marotti Campi,8.98,3.4,852
+311,Entre-deux-Mers,Entre-deux-Mers 2021,2021,Entre-deux-Mers,0,Château Landereau,8.99,3.9,2099
+312,Lugana,Lugana 2022,2022,Lugana,0,Ilaria Accordini,8.99,3.7,315
+313,Picpoul de Pinet,Picpoul de Pinet 2020,2020,Picpoul de Pinet,0,Domaine Félines Jourdan,9.0,3.7,5004
+314,Mas du Notaire 'Signature' Costières de Nîmes Blanc,Mas du Notaire 'Signature' Costières de Nîmes Blanc 2022,2022,Costières-de-Nîmes,0,Famille Jean-Pierre  Rambier - Domaine Haut-Lirou,9.0,3.8,58
+315,Vermentino - Viognier,Vermentino - Viognier 2020,2020,Pays d'Oc,0,Domaine Clavery,9.0,3.5,126
+316,Picpoul de Pinet,Picpoul de Pinet 2021,2021,Picpoul de Pinet,0,Domaine Muret,9.0,3.7,354
+317,Viognier,Viognier 2022,2022,Pays d'Oc,0,La Croix Sainte Eulalie,9.0,3.6,50
+318,Collection Viognier,Collection Viognier 2021,2021,Pays d'Oc,0,Gayda,9.0,3.8,452
+319,Entre-Deux-Mers,Entre-Deux-Mers 2022,2022,Entre-deux-Mers,0,Château Martinon,9.0,3.7,1244
+320,L'Entrecoeur Blanc,L'Entrecoeur Blanc 2019,2019,Pays d'Oc,0,Clos d'Elle,9.0,3.9,31
+321,Blanc,Blanc 2022,2022,Costières-de-Nîmes,0,Château Vessière,9.0,3.7,466
+322,Laura Semeria Sauvignon,Laura Semeria Sauvignon 2016,2016,Het Loiredal,0,Domaine de Montcy,9.0,3.7,76
+323,Viognier,Viognier 2022,2022,Pays d'Oc,0,Château Guilhem,9.0,3.6,25
+324,White Artisan,White Artisan 2022,2022,Dealu Mare,0,Aurelia Visinescu,9.0,3.7,243
+325,Picpoul de Pinet,Picpoul de Pinet 2020,2020,Picpoul de Pinet,0,Domaine Félines Jourdan,9.0,3.7,5004
+326,Mas du Notaire 'Signature' Costières de Nîmes Blanc,Mas du Notaire 'Signature' Costières de Nîmes Blanc 2022,2022,Costières-de-Nîmes,0,Famille Jean-Pierre  Rambier - Domaine Haut-Lirou,9.0,3.8,58
+327,Vermentino - Viognier,Vermentino - Viognier 2020,2020,Pays d'Oc,0,Domaine Clavery,9.0,3.5,126
+328,Picpoul de Pinet,Picpoul de Pinet 2021,2021,Picpoul de Pinet,0,Domaine Muret,9.0,3.7,354
+329,Viognier,Viognier 2022,2022,Pays d'Oc,0,La Croix Sainte Eulalie,9.0,3.6,50
+330,Collection Viognier,Collection Viognier 2021,2021,Pays d'Oc,0,Gayda,9.0,3.8,452
+331,Entre-Deux-Mers,Entre-Deux-Mers 2022,2022,Entre-deux-Mers,0,Château Martinon,9.0,3.7,1244
+332,L'Entrecoeur Blanc,L'Entrecoeur Blanc 2019,2019,Pays d'Oc,0,Clos d'Elle,9.0,3.9,31
+333,Blanc,Blanc 2022,2022,Costières-de-Nîmes,0,Château Vessière,9.0,3.7,466
+334,Laura Semeria Sauvignon,Laura Semeria Sauvignon 2016,2016,Het Loiredal,0,Domaine de Montcy,9.0,3.7,76
+335,Viognier,Viognier 2022,2022,Pays d'Oc,0,Château Guilhem,9.0,3.6,25
+336,White Artisan,White Artisan 2022,2022,Dealu Mare,0,Aurelia Visinescu,9.0,3.7,243
+337,Sylvaner,Sylvaner 2020,2020,Elzas,0,Frey-Sohler,9.0,3.4,69
+338,Verdejo,Verdejo 2022,2022,Rueda,0,Marqués de Cáceres,9.08,3.6,9773
+339,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2020,2020,Trebbiano d'Abruzzo,0,Masciarelli,9.09,3.5,3835
+340,Bin 85 Pinot Grigio,Bin 85 Pinot Grigio 2021,2021,Zuidoost-Australië,0,Lindeman's,9.1,3.4,5416
+341,Bin 65 Chardonnay,Bin 65 Chardonnay 2021,2021,Zuidoost-Australië,0,Lindeman's,9.1,3.3,15572
+342,Marius Vermentino,Marius Vermentino 2022,2022,Pays d'Oc,0,M. Chapoutier,9.1,3.7,3764
+343,Soave,Soave 2021,2021,Soave,0,Folonari,9.1,3.5,853
+344,Est! Est!! Est!!! Di Montefiascone Secco,Est! Est!! Est!!! Di Montefiascone Secco 2022,2022,Est! Est!! Est!!! di Montefiascone,0,Bigi,9.1,3.3,4578
+345,Chardonnay,Chardonnay 2022,2022,West-Kaap,0,Barista,9.11,3.9,4389
+346,Chardonnay Les Plants Nobles,Chardonnay Les Plants Nobles 2022,2022,Vin de France,0,Ropiteau Freres,9.15,3.6,7783
+347,Chardonnay Les Plants Nobles,Chardonnay Les Plants Nobles 2021,2021,Vin de France,0,Ropiteau Freres,9.15,3.6,7783
+348,Villa Solais Vermentino di Sardegna,Villa Solais Vermentino di Sardegna 2022,2022,Vermentino di Sardegna,0,Santadi,9.18,3.7,4373
+349,Riesling Trocken,Riesling Trocken 2022,2022,Rheinhessen,0,Hans Baer,9.18,4.0,22553
+350,Villa Solais Vermentino di Sardegna,Villa Solais Vermentino di Sardegna 2022,2022,Vermentino di Sardegna,0,Santadi,9.18,3.7,4373
+351,Riesling Trocken,Riesling Trocken 2022,2022,Rheinhessen,0,Hans Baer,9.18,4.0,22553
+352,Spineto Maremma Toscana Bianco,Spineto Maremma Toscana Bianco 2022,2022,Maremma Toscana,0,Erik Banti,9.18,3.9,95
+353,Traminer Aromatico,Traminer Aromatico 2022,2022,Venezia Giulia,0,Alturis,9.18,3.8,526
+354,Il Selese Soave,Il Selese Soave 2021,2021,Soave,0,I Stefanini,9.18,3.6,1285
+355,Sauvignon Blanc,Sauvignon Blanc 2022,2022,Venezia Giulia,0,di Lenardo,9.18,3.8,1312
+356,Pecorino,Pecorino 2021,2021,Abruzzo,0,Cantina Zaccagnini,9.2,3.6,839
+357,Belleruche Côtes-du-Rhône Blanc,Belleruche Côtes-du-Rhône Blanc 2022,2022,Côtes du Rhône,0,M. Chapoutier,9.2,3.7,9823
+358,Le Téméraire Excellence,Le Téméraire Excellence 2019,2019,Vin de France,0,Maison Colin Seguin,9.2,3.9,41
+359,Friulano,Friulano 2021,2021,Venezia Giulia,0,Alturis,9.21,3.6,504
+360,Villa Casalis Colli Maceratesi Ribona,Villa Casalis Colli Maceratesi Ribona 2022,2022,Colli Maceratesi,0,Casalis Douhet,9.21,3.6,41
+361,Messapia Verdeca Salento,Messapia Verdeca Salento 2019,2019,Salento,0,Leone de Castris,9.22,3.6,1138
+362,Le Sabina Blanc,Le Sabina Blanc 2021,2021,Côtes du Roussillon,0,Clos del Rey,9.25,3.8,161
+363,Sauvignon Blanc,Sauvignon Blanc 2019,2019,Vin de France,0,Florian Mollet - Domaine Roc de L'Abbaye,9.25,3.9,232
+364,Langhe Arneis,Langhe Arneis 2021,2021,Langhe,0,Giuseppe Roagna,9.28,3.5,48
+365,Charmentin,Charmentin 2022,2022,Vin de pays,0,Mas de Valériole,9.3,3.8,147
+366,Vipra Bianca Umbria,Vipra Bianca Umbria 2022,2022,Umbrië,0,Bigi,9.3,3.5,3999
+367,Chardonnay Prima Nature ,Chardonnay Prima Nature  2021,2021,Pays d'Oc,0,Gérard Bertrand,9.3,3.4,534
+368,Cuvée P Semillon - Vermentino,Cuvée P Semillon - Vermentino 2022,2022,Pays d'Oc,0,Domaine la Provenquière,9.3,3.4,137
+369,No. 1 Sauvignon - Gros Manseng,No. 1 Sauvignon - Gros Manseng 2022,2022,Côtes de Gascogne,0,Uby,9.3,3.9,572
+370,Abbaye des Templiers Muscadet Sèvre Maine Sur Lie,Abbaye des Templiers Muscadet Sèvre Maine Sur Lie 2021,2021,Muscadet-Sevre et Maine,0,Vignoble Drouard,9.3,3.5,55
+371,Cuvée P Chardonnay - Viognier,Cuvée P Chardonnay - Viognier 2022,2022,Pays d'Oc,0,Domaine la Provenquière,9.3,3.3,54
+372,Picpoul de Pinet,Picpoul de Pinet 2020,2020,Picpoul de Pinet,0,Gérard Bertrand,9.3,3.7,1858
+373,Extra Blanc,Extra Blanc 2021,2021,Languedoc-Roussillon,0,Gérard Bertrand,9.3,3.5,257
+374,Les Grandes Vignes Côtes du Rhône Blanc,Les Grandes Vignes Côtes du Rhône Blanc 2021,2021,Zuidelijk Rhônegebied,0,Estezargues,9.3,3.4,845
+375,Vipra Bianca Umbria,Vipra Bianca Umbria 2022,2022,Umbrië,0,Bigi,9.3,3.5,3999
+376,Charmentin,Charmentin 2022,2022,Vin de pays,0,Mas de Valériole,9.3,3.8,147
+377,Chardonnay Prima Nature ,Chardonnay Prima Nature  2021,2021,Pays d'Oc,0,Gérard Bertrand,9.3,3.4,534
+378,No. 1 Sauvignon - Gros Manseng,No. 1 Sauvignon - Gros Manseng 2022,2022,Côtes de Gascogne,0,Uby,9.3,3.9,572
+379,Cuvée P Semillon - Vermentino,Cuvée P Semillon - Vermentino 2022,2022,Pays d'Oc,0,Domaine la Provenquière,9.3,3.4,137
+380,Abbaye des Templiers Muscadet Sèvre Maine Sur Lie,Abbaye des Templiers Muscadet Sèvre Maine Sur Lie 2021,2021,Muscadet-Sevre et Maine,0,Vignoble Drouard,9.3,3.5,55
+381,Cuvée P Chardonnay - Viognier,Cuvée P Chardonnay - Viognier 2022,2022,Pays d'Oc,0,Domaine la Provenquière,9.3,3.3,54
+382,Picpoul de Pinet,Picpoul de Pinet 2020,2020,Picpoul de Pinet,0,Gérard Bertrand,9.3,3.7,1858
+383,Extra Blanc,Extra Blanc 2021,2021,Languedoc-Roussillon,0,Gérard Bertrand,9.3,3.5,257
+384,Les Iles Blanches Viognier,Les Iles Blanches Viognier 2022,2022,Gard,0,Cellier des Chartreux,9.3,3.9,2037
+385,Les Grandes Vignes Côtes du Rhône Blanc,Les Grandes Vignes Côtes du Rhône Blanc 2021,2021,Zuidelijk Rhônegebied,0,Estezargues,9.3,3.4,845
+386,Jolie Môme Muscat Moelleux,Jolie Môme Muscat Moelleux 2022,2022,Vin de France,0,Sarrat de Goundy,9.3,4.3,41
+387,Sauvignon Blanc,Sauvignon Blanc 2020,2020,Castilië,0,Castillo de Aresan,9.3,3.8,221
+388,Gewürztraminer,Gewürztraminer 2019,2019,Elzas,0,Domaine Scheidecker,9.31,3.9,58
+389,Oscar Blanc,Oscar Blanc 2022,2022,Languedoc-Roussillon,0,Dourbie,9.31,3.5,144
+390,Sannio Greco,Sannio Greco 2018,2018,Sannio,0,La Guardiense,9.32,3.4,995
+391,L'Insolente Saumur Blanc,L'Insolente Saumur Blanc 2022,2022,Saumur,0,Domaine des Coutures,9.336666666666666,3.8,90
+392,Donna Costanza Langhe Favorita,Donna Costanza Langhe Favorita 2022,2022,Langhe,0,Malabaila,9.38,3.4,37
+393,Verduzzo Friulano,Verduzzo Friulano 2021,2021,Venezia Giulia,0,Alturis,9.38,3.7,314
+394,Pecorino Terre di Chieti,Pecorino Terre di Chieti 2021,2021,Abruzzo,0,Orlandi Contucci Ponno,9.38,3.8,161
+395,Luzano Verdicchio dei Castelli di Jesi Classico Superiore,Luzano Verdicchio dei Castelli di Jesi Classico Superiore 2022,2022,Verdicchio dei Castelli di Jesi,0,Marotti Campi,9.38,3.7,1510
+396,Terre di Chieti Pecorino,Terre di Chieti Pecorino 2020,2020,Terre di Chieti,0,Spinelli,9.38,3.2,799
+397,Pinot Grigio,Pinot Grigio 2021,2021,Friuli-Venezia Giulia,0,Francesco Rotolo - Confinis,9.38,3.7,32
+398,Chardonnay Venezia,Chardonnay Venezia 2021,2021,Venezia,0,Santa Margherita,9.38,3.8,131
+399,Levarie Soave Classico,Levarie Soave Classico 2020,2020,Soave Classico,0,Masi,9.38,3.3,2712
+400,Donna Costanza Langhe Favorita,Donna Costanza Langhe Favorita 2022,2022,Langhe,0,Malabaila,9.38,3.4,37
+401,Verduzzo Friulano,Verduzzo Friulano 2021,2021,Venezia Giulia,0,Alturis,9.38,3.7,314
+402,Pecorino Terre di Chieti,Pecorino Terre di Chieti 2021,2021,Abruzzo,0,Orlandi Contucci Ponno,9.38,3.8,161
+403,Luzano Verdicchio dei Castelli di Jesi Classico Superiore,Luzano Verdicchio dei Castelli di Jesi Classico Superiore 2022,2022,Verdicchio dei Castelli di Jesi,0,Marotti Campi,9.38,3.7,1510
+404,Pinot Grigio,Pinot Grigio 2021,2021,Friuli-Venezia Giulia,0,Francesco Rotolo - Confinis,9.38,3.7,32
+405,Chardonnay Venezia,Chardonnay Venezia 2021,2021,Venezia,0,Santa Margherita,9.38,3.8,131
+406,Terre di Chieti Pecorino,Terre di Chieti Pecorino 2020,2020,Terre di Chieti,0,Spinelli,9.38,3.2,799
+407,Levarie Soave Classico,Levarie Soave Classico 2020,2020,Soave Classico,0,Masi,9.38,3.3,2712
+408,Drôle d'Oiseau Blanc,Drôle d'Oiseau Blanc 2021,2021,Pays d'Oc,0,Gérard Bertrand,9.39,3.3,49
+409,Pas d'Excuses,Pas d'Excuses 2022,2022,Côtes Catalanes,0,Château de Péna,9.4,4.2,107
+410,Sauvignon Blanc,Sauvignon Blanc 2020,2020,Californië,0,Blossom Hill,9.4,2.9,174
+411,Chardonnay,Chardonnay 2021,2021,Languedoc-Roussillon,0,Domaine Grier,9.4,3.6,65
+412,Pinot Grigio,Pinot Grigio 2021,2021,Californië,0,Blossom Hill,9.4,2.8,168
+413,J'ai Rendez-Vous Avec Vous Blanc,J'ai Rendez-Vous Avec Vous Blanc 2022,2022,Côtes Catalanes,0,Domaine Rière Cadène,9.4,3.5,410
+414,La Canaille Blanc,La Canaille Blanc 2022,2022,Côtes Catalanes,0,Vignobles Jonqueres d'Oriola,9.4,3.5,80
+415,Chardonnay,Chardonnay 2022,2022,Languedoc-Roussillon,0,Domaine Grier,9.4,3.6,65
+416,Le Clos Blanc,Le Clos Blanc 2022,2022,Côtes du Roussillon,0,Domaine Boudau,9.4,3.9,98
+417,Extra Blanc,Extra Blanc 2022,2022,Languedoc-Roussillon,0,Gérard Bertrand,9.4,3.5,257
+418,Tortue Colombard - Sauvignon,Tortue Colombard - Sauvignon 2021,2021,Côtes de Gascogne,0,Uby,9.4,4.0,1081
+419,Entre-deux-Mers,Entre-deux-Mers 2021,2021,Entre-deux-Mers,0,Château de Fontenille,9.4,3.8,2508
+420,Heresie Corbières Blanc,Heresie Corbières Blanc 2022,2022,Corbières,0,Gérard Bertrand,9.45,3.7,157
+421,Vin Orange,Vin Orange 2021,2021,Vin de France,0,Les Jamelles,9.45,3.6,378
+422,Palás Gavi,Palás Gavi 2020,2020,Gavi,0,Michele Chiarlo,9.48,3.7,1449
+423,Battigia Chardonnay,Battigia Chardonnay 2022,2022,Salento,0,Paololeo,9.48,3.9,277
+424,Romagna Albana Secco,Romagna Albana Secco 2022,2022,Romagna,0,Zavalloni,9.48,3.8,462
+425,Palás Gavi,Palás Gavi 2020,2020,Gavi,0,Michele Chiarlo,9.48,3.7,1449
+426,Battigia Chardonnay,Battigia Chardonnay 2022,2022,Salento,0,Paololeo,9.48,3.9,277
+427,Romagna Albana Secco,Romagna Albana Secco 2022,2022,Romagna,0,Zavalloni,9.48,3.8,462
+428,Marese Bombino Bianco,Marese Bombino Bianco 2020,2020,Castel del Monte,0,Rivera,9.48,3.6,833
+429,Vermentino,Vermentino 2021,2021,Salento,0,Masseria Borgo dei Trulli,9.48,3.4,922
+430,Gran Tifeo Bianco,Gran Tifeo Bianco 2021,2021,Ischia,0,Cenatiempo,9.48,3.6,146
+431,Les Amandiers Chardonnay,Les Amandiers Chardonnay 2022,2022,Gard,0,Cellier des Chartreux,9.5,3.5,607
+432,Closi Le Petit Muscat Sec,Closi Le Petit Muscat Sec 2021,2021,Méditerranée,0,Domaine Boudau,9.5,3.8,130
+433,Drôle d'Oiseau Blanc,Drôle d'Oiseau Blanc 2018,2018,Pays d'Oc,0,Gérard Bertrand,9.5,3.3,49
+434,Vigneto Torricella Orvieto Classico,Vigneto Torricella Orvieto Classico 2022,2022,Orvieto,0,Bigi,9.5,3.6,874
+435,Note Bleue Côtes de Provence Blanc,Note Bleue Côtes de Provence Blanc 2021,2021,Côtes de Provence,0,Les Mâitres Vignerons de la Presqu'île de Saint-Tropez,9.5,3.7,146
+436,Viognier - Sauvignon Blanc,Viognier - Sauvignon Blanc 2021,2021,Côtes de Thongue,0,Domaine de l'Arjolle,9.5,3.7,2014
+437,Bourgogne Aligoté Buissonnier,Bourgogne Aligoté Buissonnier 2021,2021,Bourgogne Aligoté,0,Vignerons de Buxy,9.5,3.4,907
+438,Blanc,Blanc 2021,2021,Vin de France,0,Cuisine en Famille,9.5,4.0,88
+439,Fetească Albă,Fetească Albă 2019,2019,Transsylvanië,0,Liliac,9.5,3.6,251
+440,Bourgogne Chardonnay Buissonnier,Bourgogne Chardonnay Buissonnier 2021,2021,Bourgogne,0,Vignerons de Buxy,9.5,3.5,1754
+441,L'Effet Papillon Blanc,L'Effet Papillon Blanc 2022,2022,Côtes du Roussillon,0,Cave Coopérative de Rivesaltes,9.5,3.7,1163
+442,Graves de Vayres Blanc,Graves de Vayres Blanc 2021,2021,Graves de Vayres,0,Château Goudichaud,9.5,3.6,779
+443,Les Villas Villa Chambre d'Amour Blanc,Les Villas Villa Chambre d'Amour Blanc 2022,2022,Vin de France,0,Lionel Osmin & Cie,9.5,4.2,3861
+444,Côtes de Gascogne Premières Grives,Côtes de Gascogne Premières Grives 2022,2022,Côtes de Gascogne,0,Domaine du Tariquet,9.55,4.1,23210
+445,Calanìca Chardonnay,Calanìca Chardonnay 2022,2022,Terre Siciliane,0,Duca di Salaparuta,9.56,3.6,353
+446,Chardonnay,Chardonnay 2022,2022,Trentino,0,Bottega Vinai,9.56,3.6,718
+447,Fojetta,Fojetta 2021,2021,Lazio,0,Gaffino,9.58,3.7,122
+448,Grillo,Grillo 2022,2022,Terre Siciliane,0,Tenute Orestiadi,9.58,3.7,762
+449,Toh! Friulano,Toh! Friulano 2022,2022,Venezia Giulia,0,di Lenardo,9.58,3.6,1482
+450,Fojetta,Fojetta 2021,2021,Lazio,0,Gaffino,9.58,3.7,122
+451,Grillo,Grillo 2022,2022,Terre Siciliane,0,Tenute Orestiadi,9.58,3.7,762
+452,Toh! Friulano,Toh! Friulano 2022,2022,Venezia Giulia,0,di Lenardo,9.58,3.6,1482
+453,Müller Thurgau,Müller Thurgau 2020,2020,Trentino,0,Bottega Vinai,9.58,3.6,666
+454,Pietramala,Pietramala 2021,2021,Umbrië,0,Terre Margaritelli,9.58,3.5,179
+455,Riesling,Riesling 2021,2021,Oltrepo Pavese Metodo Classico,0,Bruno Verdi,9.58,3.6,43
+456,Il Grillo Irmàna,Il Grillo Irmàna 2022,2022,Terre Siciliane,0,Corvo,9.58,3.6,508
+457,Serai Bianco,Serai Bianco 2021,2021,Verona,0,Le Morette,9.58,4.0,982
+458,Rami Falanghina,Rami Falanghina 2022,2022,Molise,0,Di Majo Norante,9.58,3.4,448
+459,Parallèle 45 Côtes Du Rhône Blanc,Parallèle 45 Côtes Du Rhône Blanc 2021,2021,Côtes du Rhône,0,Paul Jaboulet Aîné,9.6,3.5,2557
+460,La Petite Lune Blanc,La Petite Lune Blanc 2018,2018,Bordeaux,0,Clos des Lunes,9.6,3.7,246
+461,Dogajolo Toscana Bianco,Dogajolo Toscana Bianco 2017,2017,Toscane,0,Carpineto,9.66,3.6,5424
+462,Conchiglia Lugana,Conchiglia Lugana 2022,2022,Lugana,0,Citari,9.66,3.9,637
+463,Marfi Chardonnay - Sauvignon,Marfi Chardonnay - Sauvignon 2020,2020,Puglia,0,Varvaglione,9.66,3.5,239
+464,Dogajolo Toscana Bianco,Dogajolo Toscana Bianco 2019,2019,Toscane,0,Carpineto,9.66,3.6,5424
+465,Marfi Chardonnay - Sauvignon,Marfi Chardonnay - Sauvignon 2019,2019,Puglia,0,Varvaglione,9.66,3.5,239
+466,Alakì Insolia,Alakì Insolia 2022,2022,Terre Siciliane,0,Terre di Giurfo,9.68,3.7,87
+467,Alakì Insolia,Alakì Insolia 2021,2021,Terre Siciliane,0,Terre di Giurfo,9.68,3.7,87
+468,Pallio di San Floriano Verdicchio dei Castelli di Jesi Classico Superiore,Pallio di San Floriano Verdicchio dei Castelli di Jesi Classico Superiore 2021,2021,Verdicchio dei Castelli di Jesi,0,Terre Monte Schiavo,9.68,3.6,533
+469,Blanco (Verdejo),Blanco (Verdejo) 2020,2020,Rueda,0,Marqués de Riscal,9.68,3.7,38000
+470,Sauvignon Blanc 'F de Fournier',Sauvignon Blanc 'F de Fournier' 2021,2021,Het Loiredal,0,Domaine Fournier Père et Fils,9.7,3.9,411
+471,Coume des Loups Blanc,Coume des Loups Blanc 2022,2022,Côtes Catalanes,0,Mas Mudigliza,9.7,3.5,42
+472,Doria,Doria 2020,2020,Luberon,0,Marrenon,9.7,3.7,413
+473,Les Moines Faugères Blanc,Les Moines Faugères Blanc 2021,2021,Faugères,0,Abbaye Sylva Plana,9.7,3.7,79
+474,Apremont,Apremont 2022,2022,Vin de Savoie,0,Philippe Ravier,9.7,3.5,255
+475,Sauvignon Blanc 'F de Fournier',Sauvignon Blanc 'F de Fournier' 2021,2021,Het Loiredal,0,Domaine Fournier Père et Fils,9.7,3.9,411
+476,Coume des Loups Blanc,Coume des Loups Blanc 2022,2022,Côtes Catalanes,0,Mas Mudigliza,9.7,3.5,42
+477,Doria,Doria 2020,2020,Luberon,0,Marrenon,9.7,3.7,413
+478,Les Moines Faugères Blanc,Les Moines Faugères Blanc 2021,2021,Faugères,0,Abbaye Sylva Plana,9.7,3.7,79
+479,Apremont,Apremont 2022,2022,Vin de Savoie,0,Philippe Ravier,9.7,3.5,255
+480,Agneau Bordeaux Blanc,Agneau Bordeaux Blanc 2017,2017,Bordeaux,0,Baron Philippe de Rothschild,9.72,3.3,1311
+481,The First Lady Chardonnay,The First Lady Chardonnay 2020,2020,Stellenbosch,0,Warwick,9.75,3.6,3404
+482,Le Voyage Extraordinaire Muscadet,Le Voyage Extraordinaire Muscadet 2022,2022,Muscadet,0,Famille Lieubeau,9.75,3.7,650
+483,Pinot Bianco,Pinot Bianco 2021,2021,Lombardije,0,Cantina Bottenago,9.77,3.8,30
+484,Garblet Suè Langhe Chardonnay,Garblet Suè Langhe Chardonnay 2019,2019,Langhe,0,Sordo,9.78,3.6,149
+485,Primo Bianco,Primo Bianco 2021,2021,Vermentino di Sardegna,0,Mesa,9.78,3.6,2684
+486,Pinot Grigio,Pinot Grigio 2022,2022,Venezia Giulia,0,Alturis,9.78,3.9,1069
+487,Sauvignon Blanc,Sauvignon Blanc 2022,2022,Trentino-Zuid-Tirol,0,Bottega Vinai,9.78,3.8,1579
+488,Pur Sans Sulfites Blanc,Pur Sans Sulfites Blanc 2020,2020,Cevennes,0,Vignerons de Tornac,9.8,3.4,188
+489,Le Clos Sauvignon,Le Clos Sauvignon 2022,2022,Touraine,0,Clos Roussely,9.8,3.7,931
+490,Chardonnay,Chardonnay 2021,2021,Cevennes,0,Domaine de Gournier,9.8,3.7,407
+491,Sauvignon Blanc,Sauvignon Blanc 2022,2022,Lake County,0,Sunset,9.8,4.0,25
+492,La Petite Hours Gros Manseng,La Petite Hours Gros Manseng 2021,2021,Jurançon,0,Clos Uroulat,9.8,3.9,253
+493,Luberon La Ciboise Blanc,Luberon La Ciboise Blanc 2021,2021,Luberon,0,M. Chapoutier,9.8,3.5,2346
+494,Prima Nature Organic Muscat Sec,Prima Nature Organic Muscat Sec 2020,2020,Languedoc-Roussillon,0,Gérard Bertrand,9.833333333333334,3.3,63
+495,Buttery Chardonnay,Buttery Chardonnay 2021,2021,Pays d'Oc,0,Rockhawk,9.85,3.8,68
+496,Beauvignac Viognier,Beauvignac Viognier 2022,2022,Pays d'Oc,0,Les Costières de Pomerols,9.85,3.6,1477
+497,Beauvignac Sauvignon,Beauvignac Sauvignon 2022,2022,Pays d'Oc,0,Les Costières de Pomerols,9.85,3.6,448
+498,Viña Doña Raquel,Viña Doña Raquel 2022,2022,Rueda,0,Cerrosol,9.85,3.4,128
+499,Valdelagunde Verdejo,Valdelagunde Verdejo 2022,2022,Rueda,0,Bodegas Pedro Escudero,9.85,4.0,3335

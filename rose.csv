@@ -1,0 +1,765 @@
+,wine brand name,wine name,year,region,type,winery,price,rating,no. ratings
+0,Tempranillo Rosé,Tempranillo Rosé 2018,2018,La Mancha,0,Camina,4.5,3.3,177
+1,4 Saisons Cabernet Rosé,4 Saisons Cabernet Rosé 2022,2022,Pays d'Oc,0,Vignerons Catalans,5.0,3.4,119
+2,To Bi Or Not To Bi Rosé,To Bi Or Not To Bi Rosé 2022,2022,Côtes Catalanes,0,Arnaud de Villeneuve,5.2,3.3,34
+3,Malis Rosé,Malis Rosé 2022,2022,Côtes du Roussillon,0,Abbe Rous,5.75,3.0,60
+4,Prémices Rosé,Prémices Rosé 2022,2022,Côtes Catalanes,0,Deprade Jorda,5.9,3.5,62
+5,Bordeaux Rosé,Bordeaux Rosé 2021,2021,Bordeaux,0,Château de l'Esperance,5.93,3.6,34
+6,Le Coq & L'Arlequin,Le Coq & L'Arlequin 2022,2022,Pays d'Oc,0,Maison Le Jeune,6.0,4.1,63
+7,Caringole Rosé,Caringole Rosé 2021,2021,Côtes de Thongue,0,Domaine la Croix Belle,6.0,3.8,688
+8,No. 6 Rosé,No. 6 Rosé 2022,2022,Côtes de Gascogne,0,Uby,6.2,3.8,843
+9,Cuvée Prestige Bordeaux Clairet,Cuvée Prestige Bordeaux Clairet 2020,2020,Bordeaux Clairet,0,Malpertuis,6.33,3.3,29
+10,Grenache - Sangiovese Rosé,Grenache - Sangiovese Rosé 2022,2022,Côtes de Thongue,0,Domaine Deshenrys,6.5,3.4,42
+11,Roséfine,Roséfine 2022,2022,Méditerranée,0,Marrenon,6.5,3.6,487
+12,Rosé,Rosé 2020,2020,Bordeaux,0,Château Vermont,6.5,3.9,76
+13,Cuvée Tibérius Rosé,Cuvée Tibérius Rosé 2022,2022,Vin de France,0,Les Vignerons du Sommiérois,6.9,3.2,33
+14,Grenache - Syrah Rosé,Grenache - Syrah Rosé 2022,2022,Pays d'Oc,0,Domaine Les Prunelles,6.9,3.8,57
+15,Gourmandise Rosé,Gourmandise Rosé 2022,2022,Méditerranée,0,Les Mâitres Vignerons de la Presqu'île de Saint-Tropez,6.9,3.7,428
+16,Les Camines Rosé,Les Camines Rosé 2022,2022,Côtes Catalanes,0,Dom Brial,6.95,3.6,51
+17,Côtes De Gascogne Rosé De Pressée,Côtes De Gascogne Rosé De Pressée 2022,2022,Côtes de Gascogne,0,Domaine du Tariquet,7.1,3.5,1694
+18,Crazy Rosé,Crazy Rosé 2022,2022,Côtes de Provence,0,Domaine Tropez,7.1,3.8,1657
+19,Pinot Grigio Rosé,Pinot Grigio Rosé 2021,2021,Provincia di Pavia,0,Folonari,7.1,3.6,103
+20,Cuvée des Chartreux Belle Emilie Rosé,Cuvée des Chartreux Belle Emilie Rosé 2022,2022,Gard,0,Cellier des Chartreux,7.3,3.4,304
+21,Le Gris Rosé,Le Gris Rosé 2022,2022,Côtes Catalanes,0,Lauriga,7.4,3.8,94
+22,Cabardès Rosé,Cabardès Rosé 2022,2022,Cabardès,0,Château de Pennautier,7.5,3.6,246
+23,Zangre Rosé,Zangre Rosé 2022,2022,Pays d'Oc,0,Famille Cros Pujol,7.5,3.7,53
+24,Drôle D'Oiseau Grenache - Syrah Rosé,Drôle D'Oiseau Grenache - Syrah Rosé 2021,2021,Pays d'Oc,0,Gérard Bertrand,7.65,3.8,131
+25,Ecceterra Rosé,Ecceterra Rosé 2022,2022,Hérault,0,Domaine du Clos Roca,7.8,3.3,37
+26,Bohème,Bohème 2021,2021,Pays d'Oc,0,Domaine Deleuze-Rochetin,7.8,3.7,70
+27,Péché Coquin Rosé,Péché Coquin Rosé 2022,2022,Pays d'Oc,0,Domaine la Provenquière,7.8,3.8,186
+28,Cinsault Rosé,Cinsault Rosé 2022,2022,Pays d'Oc,0,Les Jamelles,7.85,3.7,1235
+29,Clair de Rose,Clair de Rose 2022,2022,Pays d'Oc,0,Les Jamelles,7.85,3.5,1516
+30,Violon d'Ingres Rosé,Violon d'Ingres Rosé 2022,2022,Alpilles,0,Domaine le Grand Castelet,7.8966666666666665,3.9,71
+31,Rosé,Rosé 2022,2022,Pays d'Oc,0,L'Ostal Cazes,7.9,3.8,5376
+32,Pinot Grigio Blush,Pinot Grigio Blush 2021,2021,delle Venezie,0,Campagnola,7.9,4.0,153
+33,Gris de Gris,Gris de Gris 2022,2022,Sable de Camargue,0,Dune (Caveau Les Sablons),7.95,3.8,5701
+34,Les Petites Demoiselles Rosé,Les Petites Demoiselles Rosé 2022,2022,Côtes Catalanes,0,Mas Cremat,8.0,3.9,31
+35,Cameleon Pink Shiraz,Cameleon Pink Shiraz 2019,2019,Dealu Mare,0,Lacerta,8.0,3.5,163
+36,Nova Ona Rosé,Nova Ona Rosé 2022,2022,Languedoc-Roussillon,0,Chateau des Hospices,8.0,3.9,51
+37,Bordeaux Rosé,Bordeaux Rosé 2022,2022,Bordeaux,0,Château Turcaud,8.0,3.4,104
+38,Rozy,Rozy 2022,2022,Côtes Catalanes,0,Dom Brial,8.0,3.5,292
+39,Classique Luberon Rosé,Classique Luberon Rosé 2022,2022,Luberon,0,Marrenon,8.0,3.3,55
+40,Vin d'Une Nuit Bergerac Rosé,Vin d'Une Nuit Bergerac Rosé 2019,2019,Bergerac Rosé,0,Haut Montlong,8.016666666666667,3.5,109
+41,L'Effrontee Rosé,L'Effrontee Rosé 2022,2022,Méditerranée,0,Château Les Valentines,8.1,3.8,96
+42,Château Ballan-Larquette Bordeaux Rosé,Château Ballan-Larquette Bordeaux Rosé 2020,2020,Bordeaux,0,Vignobles Chaigne et Fils,8.196666666666667,3.7,46
+43,No. 6 Rosé,No. 6 Rosé 2021,2021,Côtes de Gascogne,0,Uby,8.2,3.8,843
+44,Cuvée Expression Costières de Nîmes Rosé,Cuvée Expression Costières de Nîmes Rosé 2022,2022,Costières-de-Nîmes,0,Château Beaubois,8.23,3.6,169
+45,Grenache Gris,Grenache Gris 2022,2022,Pays d'Oc,0,Château Salitis,8.28,3.7,44
+46,Sand Rosé,Sand Rosé 2022,2022,Côtes de Provence,0,Domaine Tropez,8.3,4.0,462
+47,Terra Sana Pays D'Oc  Rosé,Terra Sana Pays D'Oc  Rosé 2018,2018,Pays d'Oc,0,François Lurton,8.32,3.6,52
+48,Cuvée Jules Corbieres,Cuvée Jules Corbieres 2022,2022,Corbières,0,Domaine Py,8.33,3.6,131
+49,Closi Le Petit Rosé,Closi Le Petit Rosé 2022,2022,Méditerranée,0,Domaine Boudau,8.4,3.6,105
+50,Les Platanes Rosé Fruité,Les Platanes Rosé Fruité 2022,2022,Vin de France,0,Chateau Saint Jean,8.496666666666666,3.9,91
+51,Havana,Havana 2019,2019,Minervois,0,Château Tourril,8.496666666666666,3.9,45
+52,Rosé,Rosé 2022,2022,Côtes Catalanes,0,Domaine Grier,8.5,3.7,55
+53,Rosé,Rosé 2022,2022,Méditerranée,0,Figuière,8.5,3.9,1102
+54,Les Cistes Rosé,Les Cistes Rosé 2021,2021,Pays d'Oc,0,Les Vignerons du Sommiérois,8.5,3.6,223
+55,Rosé,Rosé 2021,2021,Fronton,0,Inès,8.5,3.9,337
+56,C'est Trop,C'est Trop 2022,2022,Méditerranée,0,Les Mâitres Vignerons de la Presqu'île de Saint-Tropez,8.5,3.6,907
+57,Les Villas Villa la Vie en Rose,Les Villas Villa la Vie en Rose 2022,2022,Comté-tolosan,0,Lionel Osmin & Cie,8.5,3.8,1244
+58,Mourvèdre Rosé,Mourvèdre Rosé 2022,2022,Pays d'Oc,0,Les Jamelles,8.5,3.8,35
+59,Tram Rosé,Tram Rosé 2022,2022,Côtes du Roussillon,0,Clos des Vins d'Amour,8.5,3.8,39
+60,Horizon Méditerranée,Horizon Méditerranée 2022,2022,Méditerranée,0,Famille Négrel,8.5,3.7,151
+61,La Pierre Du Diable Ventoux,La Pierre Du Diable Ventoux 2022,2022,Ventoux,0,Balma Vénitia,8.5,3.3,356
+62,Mourvèdre Rosé,Mourvèdre Rosé 2021,2021,Pays d'Oc,0,Les Jamelles,8.5,3.8,35
+63,Rosé,Rosé 2022,2022,Languedoc,0,Côte des Roses,8.5,3.9,39200
+64,Liberty Rosé,Liberty Rosé 2020,2020,Côtes de Provence,0,Les Jolies Filles,8.53,3.5,48
+65,Rosé,Rosé 2022,2022,Vin de France,0,La Belle Angèle,8.55,3.6,2563
+66,Triniti Sainte-Victoire,Triniti Sainte-Victoire 2019,2019,Côtes de Provence,0,Marrenon,8.55,3.9,65
+67,Rosato,Rosato 2021,2021,Vino d'Italia,0,Trementi,8.58,3.7,80
+68,Cirò Rosato,Cirò Rosato 2022,2022,Cirò,0,Tenuta Iuzzolini,8.58,3.8,1055
+69,Lirico Monferrato Chiaretto,Lirico Monferrato Chiaretto 2021,2021,Monferrato,0,Cascina Gilli,8.58,3.5,46
+70,Portocanale di Cesenatico,Portocanale di Cesenatico 2022,2022,Romagna,0,Cantine Leonardo da Vinci,8.58,3.9,203
+71,La Vie en Rosé,La Vie en Rosé 2022,2022,Bordeaux,0,Château Landereau,8.6,3.7,1073
+72,Chevalier d'Anthelme Côtes du Rhône Rosé,Chevalier d'Anthelme Côtes du Rhône Rosé 2019,2019,Côtes du Rhône,0,Cellier des Chartreux,8.6,3.6,30
+73,Les Clapes Luberon Rosé,Les Clapes Luberon Rosé 2022,2022,Luberon,0,Cave de Bonnieux,8.6,3.5,259
+74,Oeno Fil,Oeno Fil 2022,2022,Coteaux Varois en Provence,0,Bastide de Fave,8.651666666666667,4.0,46
+75,Cuvée Marie Rosé,Cuvée Marie Rosé 2021,2021,Vin de pays,0,Domaine de l'Amandine,8.75,3.7,32
+76,Bardolino Chiaretto Classico,Bardolino Chiaretto Classico 2018,2018,Bardolino Chiaretto,0,Domini Veneti,8.78,3.5,208
+77,Terre de Camargue Nénette,Terre de Camargue Nénette 2022,2022,Provence,0,Mas de Valériole,8.796666666666667,3.9,148
+78,Le Rosé Faugères,Le Rosé Faugères 2021,2021,Faugères,0,Abbaye Sylva Plana,8.8,3.6,101
+79,Porcupine Ridge Rosé,Porcupine Ridge Rosé 2021,2021,Kuststreek,0,Boekenhoutskloof,8.81,3.5,252
+80,Bardolino Chiaretto,Bardolino Chiaretto 2022,2022,Bardolino Chiaretto,0,Gorgo,8.88,3.7,1237
+81,Rosé,Rosé 2021,2021,Languedoc,0,Côte des Roses,8.89,3.9,39200
+82,Pinot Noir Rosé Val de Loire,Pinot Noir Rosé Val de Loire 2020,2020,Het Loiredal,0,J. de Villebois,8.9,3.8,140
+83,Miraflors Rosé,Miraflors Rosé 2022,2022,Côtes du Roussillon,0,Domaine Lafage,8.9,4.0,8915
+84,Roseum,Roseum 2022,2022,Minervois,0,Cailhol Gautran,8.9,3.9,84
+85,Pinot Noir Rosé Val de Loire,Pinot Noir Rosé Val de Loire 2022,2022,Het Loiredal,0,J. de Villebois,8.9,3.8,140
+86,V de Valmy Rosé,V de Valmy Rosé 2022,2022,Côtes du Roussillon,0,Château Valmy,8.9,3.8,124
+87,Ventoux Rosé,Ventoux Rosé 2021,2021,Ventoux,0,Domaine de la Pigeade,8.9,3.6,50
+88,L'Originelle Rosé,L'Originelle Rosé 2021,2021,Cevennes,0,Sources de l'Oppidum,8.903333333333332,4.2,26
+89,Rosé Fruité,Rosé Fruité 2022,2022,Alpes-de-Haute-Provence,0,Château de Rousset,8.95,3.9,188
+90,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,XXX,8.95,4.0,588
+91,Cerasuolo d'Abruzzo,Cerasuolo d'Abruzzo 2022,2022,Cerasuolo d'Abruzzo,0,La Valentina,8.98,3.5,502
+92,Rosé,Rosé 2022,2022,Méditerranée,0,Clair Estel,9.0,4.4,51
+93,Marius Rosé d'Oc,Marius Rosé d'Oc 2021,2021,Pays d'Oc,0,M. Chapoutier,9.0,3.5,2844
+94,Eden Mediterranée Rosé,Eden Mediterranée Rosé 2022,2022,Méditerranée,0,Brotte,9.0,3.8,65
+95,Rosé,Rosé 2021,2021,Costières-de-Nîmes,0,Château Vessière,9.0,3.6,39
+96,Pinot Grigio Blush,Pinot Grigio Blush 2022,2022,delle Venezie,0,Vaja,9.0,4.2,55
+97,Cuvée Or Rosé,Cuvée Or Rosé 2021,2021,Côtes-du-Rhône-Villages 'Chusclan',0,Château Signac,9.0,3.8,62
+98,Eden Mediterranée Rosé,Eden Mediterranée Rosé 2021,2021,Méditerranée,0,Brotte,9.0,3.8,65
+99,Maurice Rosé,Maurice Rosé 2022,2022,Côtes du Tarn,0,Domaine Gayrard,9.02,3.7,33
+100,Cantalupi Rosato Salento,Cantalupi Rosato Salento 2022,2022,Salento,0,Conti Zecca,9.08,3.4,403
+101,Triniti Sainte-Victoire,Triniti Sainte-Victoire 2018,2018,Côtes de Provence,0,Marrenon,9.18,3.9,65
+102,Vipra Rosa Umbria,Vipra Rosa Umbria 2021,2021,Umbrië,0,Bigi,9.2,3.5,1479
+103,Perle de Roséline Côtes de Provence Rosé,Perle de Roséline Côtes de Provence Rosé 2022,2022,Méditerranée,0,Château Sainte Roseline,9.2,3.5,967
+104,La Nuit Tous les Chats Sont Gris,La Nuit Tous les Chats Sont Gris 2021,2021,Gard,0,Cellier des Chartreux,9.2,4.0,1996
+105,Grand Rosé,Grand Rosé 2021,2021,Languedoc,0,Mas de Martin,9.25,3.7,26
+106,Esprit de Granet Rosé,Esprit de Granet Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Les Vignerons de Granet,9.3,3.7,122
+107,Le Rosé de Floridène Bordeaux Rosé,Le Rosé de Floridène Bordeaux Rosé 2022,2022,Bordeaux,0,Clos Floridène,9.3,3.6,1365
+108,Cuvée P Pinot Gris,Cuvée P Pinot Gris 2022,2022,Pays d'Oc,0,Domaine la Provenquière,9.3,3.5,40
+109,Gardian Grande Réserve Rosé,Gardian Grande Réserve Rosé 2021,2021,Coteaux de Béziers,0,Alma Cersius,9.336666666666666,3.5,121
+110,Tre Torri Carignano del Sulcis,Tre Torri Carignano del Sulcis 2022,2022,Carignano del Sulcis,0,Santadi,9.38,3.4,442
+111,Gris Blanc,Gris Blanc 2022,2022,Pays d'Oc,0,Gérard Bertrand,9.4,3.9,14239
+112,Gris-Gris,Gris-Gris 2022,2022,Côtes du Roussillon,0,Vignobles Jonqueres d'Oriola,9.4,3.9,1177
+113,Rosé,Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Commanderie de la Bargemone,9.4,4.0,2748
+114,Primitivo Rosato,Primitivo Rosato 2021,2021,Puglia,0,Masseria Borgo dei Trulli,9.48,3.8,559
+115,Coteaux d'Aix-en-Provence Rosé,Coteaux d'Aix-en-Provence Rosé 2020,2020,Coteaux d'Aix-en-Provence,0,Château Paradis,9.5,3.7,1292
+116,La Nuit Tous les Chats Sont Gris,La Nuit Tous les Chats Sont Gris 2022,2022,Gard,0,Cellier des Chartreux,9.5,4.0,1996
+117,Oscar Rosé,Oscar Rosé 2022,2022,Languedoc-Roussillon,0,Dourbie,9.5,3.5,364
+118,Abracadabra Rosé,Abracadabra Rosé 2022,2022,Pic-Saint-Loup,0,Chemin des Reves,9.5,3.5,30
+119,Cuvée des Princes Rosé,Cuvée des Princes Rosé 2020,2020,Provence,0,Château Sainte Béatrice,9.5,3.7,1106
+120,Le Rosé Faugères,Le Rosé Faugères 2022,2022,Faugères,0,Abbaye Sylva Plana,9.5,3.6,101
+121,L'Effet Papillon Rosé,L'Effet Papillon Rosé 2022,2022,Côtes du Roussillon,0,Cave Coopérative de Rivesaltes,9.5,3.8,274
+122,Les Pieds Dans le Sable Rosé,Les Pieds Dans le Sable Rosé 2022,2022,Landes,0,Domine de la Pointe,9.5,3.8,249
+123,Bordeaux Rosé,Bordeaux Rosé 2020,2020,Bordeaux,0,Château Maison Noble,9.503333333333334,3.4,45
+124,Les Temps des Gitans Rosé,Les Temps des Gitans Rosé 2022,2022,Languedoc,0,Mas de Janiny,9.56,3.4,900
+125,Chiaretto Grace,Chiaretto Grace 2021,2021,Garda Colli Mantovani,0,Ceresa,9.58,3.9,31
+126,Cuvée Marie Rosé,Cuvée Marie Rosé 2022,2022,Vin de pays,0,Domaine de l'Amandine,9.65,3.7,32
+127,Ravier R'Osez Moi Gamay Rosé,Ravier R'Osez Moi Gamay Rosé 2022,2022,Vin de Savoie,0,Philippe Ravier,9.7,4.1,39
+128,BYO No. 26 Organic Rosé Fruité,BYO No. 26 Organic Rosé Fruité 2022,2022,Côtes de Gascogne,0,Uby,9.7,3.9,278
+129,Tour Campanets Coteaux d'Aix-en-Provence Rosé,Tour Campanets Coteaux d'Aix-en-Provence Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Domaine Tour Campanets,9.7,3.9,284
+130,Anima Chiaretto,Anima Chiaretto 2021,2021,Lombardije,0,Cantina Bottenago,9.77,3.6,61
+131,Ma.Gi.Co. Corvina Garda Rosé,Ma.Gi.Co. Corvina Garda Rosé 2020,2020,Garda,0,Giovanna Tantini,9.78,3.1,46
+132,Trilogie Rosé,Trilogie Rosé 2022,2022,Pays d'Oc,0,Viranel,9.8,3.7,139
+133,Les Calans,Les Calans 2022,2022,Alpilles,0,Domaine de la Vallongue,9.8,3.9,214
+134,Petit Frisson Grenache - Syrah,Petit Frisson Grenache - Syrah 2022,2022,Côtes Catalanes,0,Domaine la Toupie,9.8,4.0,52
+135,Grand Mar Rosé,Grand Mar Rosé 2022,2022,Vin de pays,0,Mas de Valériole,9.803333333333333,3.8,154
+136,Syrah Rosé Prima Nature,Syrah Rosé Prima Nature 2021,2021,Pays d'Oc,0,Gérard Bertrand,9.833333333333334,3.3,68
+137,Les Hauts Plateaux Alpes de Haute Provence Rosé,Les Hauts Plateaux Alpes de Haute Provence Rosé 2021,2021,Alpes-de-Haute-Provence,0,Vins Bréban,9.85,3.7,3024
+138,O.V.N.I Rosé,O.V.N.I Rosé 2021,2021,Het Loiredal,0,J. Mourat,9.85,4.1,706
+139,125 Uno Due Cinque Rosato del Salento,125 Uno Due Cinque Rosato del Salento 2022,2022,Salento,0,Feudi Salentini,9.88,3.8,836
+140,Rosato,Rosato 2020,2020,Toscane,0,Castello della Paneretta,9.88,3.7,158
+141,Floralia Rosé,Floralia Rosé 2022,2022,Molise,0,Di Majo Norante,9.88,3.6,32
+142,Campomaccione Rosato,Campomaccione Rosato 2019,2019,Toscane,0,Rocca delle Macìe,9.88,3.7,121
+143,Campomaccione Rosato,Campomaccione Rosato 2020,2020,Toscane,0,Rocca delle Macìe,9.88,3.7,121
+144,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine Les Trois Terres,9.9,3.8,470
+145,Romance Rosé,Romance Rosé 2022,2022,Méditerranée,0,Château de Berne,9.9,4.0,9840
+146,Le Clos Rosé,Le Clos Rosé 2022,2022,Côtes du Roussillon,0,Domaine Boudau,9.9,3.5,34
+147,Galets Rosès Costières-de-Nîmes,Galets Rosès Costières-de-Nîmes 2021,2021,Costières-de-Nîmes,0,Château Mourgues du Grès,9.9,3.6,1102
+148,Cirò Rosato (Segno),Cirò Rosato (Segno) 2022,2022,Cirò,0,Librandi,9.9,3.6,2278
+149,La Minuette Rosé,La Minuette Rosé 2022,2022,Pays d'Oc,0,Gayda,9.9,3.8,496
+150,Bardolino Chiaretto,Bardolino Chiaretto 2022,2022,Bardolino,0,Cavalchina,9.93,3.8,3513
+151,Cabernet d'Anjou Rosé,Cabernet d'Anjou Rosé 2021,2021,Cabernet d'Anjou,0,Domaine de Montgilet,9.95,3.7,231
+152,Les Villas Villa la Vie en Rose,Les Villas Villa la Vie en Rose 2021,2021,Comté-tolosan,0,Lionel Osmin & Cie,9.95,3.8,1244
+153,Pinot Grigio Blush,Pinot Grigio Blush 2022,2022,delle Venezie,0,Cielo e Terra,9.95,3.9,6951
+154,Amoureuse Rosé,Amoureuse Rosé 2021,2021,Costières-de-Nîmes,0,Château Grand Escalion,9.99,3.9,64
+155,Côteaux Varois en Provence,Côteaux Varois en Provence 2022,2022,Coteaux Varois en Provence,0,Domaine Saint-Ferréol,9.996666666666666,3.6,120
+156,Chinon Rosé,Chinon Rosé 2021,2021,Chinon,0,Pierre & Bertrand Couly,9.996666666666666,3.7,77
+157,Roberta Rosé,Roberta Rosé 2021,2021,Maures,0,Domaine des Feraud,9.996666666666666,3.8,68
+158,Vibrato Luberon Rosé,Vibrato Luberon Rosé 2021,2021,Luberon,0,Château de Clapier,10.0,3.7,25
+159,Fleur d’Eglantine Costières-de-Nîmes,Fleur d’Eglantine Costières-de-Nîmes 2022,2022,Costières-de-Nîmes,0,Château Mourgues du Grès,10.0,3.7,931
+160,Flirt Rosé,Flirt Rosé 2021,2021,Côtes du Roussillon,0,Clos des Vins d'Amour,10.0,3.6,150
+161,Infinito Rosé,Infinito Rosé 2021,2021,Bardolino Chiaretto,0,Santi,10.0,3.7,878
+162,Crazy Bulles,Crazy Bulles 2022,2022,Méditerranée,0,Domaine Tropez,10.0,3.8,46
+163,Notes Frivoles,Notes Frivoles 2020,2020,Pézenas,0,Sainte Cécile du Parc,10.0,3.6,92
+164,Rosé de Chevalier,Rosé de Chevalier 2021,2021,Bordeaux,0,Domaine de Chevalier,10.0,3.6,859
+165,Flirt Rosé,Flirt Rosé 2022,2022,Côtes du Roussillon,0,Clos des Vins d'Amour,10.0,3.6,150
+166,TerrAnima Rosato,TerrAnima Rosato 2020,2020,Puglia,0,Rivera,10.08,3.5,60
+167,Baldovino Cerasuolo d'Abruzzo,Baldovino Cerasuolo d'Abruzzo 2022,2022,Cerasuolo d'Abruzzo,0,Tenuta I Fauri,10.08,3.4,182
+168,Cuvée des Peintres Collioure Rosé,Cuvée des Peintres Collioure Rosé 2022,2022,Collioure,0,Abbe Rous,10.1,3.7,58
+169,Au Gris de Mes Envies,Au Gris de Mes Envies 2022,2022,Pays d'Oc,0,Famille Cros Pujol,10.1,3.7,68
+170,Guilhem Rosé,Guilhem Rosé 2022,2022,Hérault,0,Moulin de Gassac,10.1,3.7,1099
+171,Ferzo Cerasuolo d’Abruzzo Superiore,Ferzo Cerasuolo d’Abruzzo Superiore 2021,2021,Cerasuolo d'Abruzzo,0,Citra,10.18,3.8,81
+172,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine Saint-Jean,10.25,3.5,100
+173,Le Loup Dans la Bergerie Rosé,Le Loup Dans la Bergerie Rosé 2022,2022,Hérault,0,Domaine de l'Hortus,10.3,3.8,69
+174,Kadette Pinotage Rosé,Kadette Pinotage Rosé 2022,2022,Stellenbosch,0,Kanonkop,10.3,3.6,2365
+175,Pinot Nero Rosé,Pinot Nero Rosé 2022,2022,Umbrië,0,Salviano Titignano,10.38,3.9,95
+176,Bardolino Chiaretto Classico,Bardolino Chiaretto Classico 2021,2021,Bardolino Chiaretto,0,Le Morette,10.38,3.8,938
+177,Rosato,Rosato 2022,2022,Terre Siciliane,0,Baglio del Cristo di Campobello,10.43,3.8,224
+178,Aubrégades Rosé,Aubrégades Rosé 2021,2021,Maures,0,Domaine Turenne,10.45,3.5,44
+179,Pinotage Rosé,Pinotage Rosé 2021,2021,Stellenbosch,0,Delheim,10.45,3.7,1732
+180,Messire d'Eguilles Coteaux d'Aix en Provence,Messire d'Eguilles Coteaux d'Aix en Provence 2022,2022,Coteaux d'Aix-en-Provence,0,Le Cellier d'Eguilles,10.5,3.8,26
+181,Cara de Caraguilhes Rosé,Cara de Caraguilhes Rosé 2020,2020,Corbières,0,Château de Caraguilhes,10.5,4.0,305
+182,Rosa dei Venti,Rosa dei Venti 2021,2021,Marche,0,Guerrieri,10.5,4.0,557
+183,Puech Auriol Rosé,Puech Auriol Rosé 2022,2022,Coteaux-d'Ensérune,0,Vila Voltaire,10.5,4.0,47
+184,Negroamaro Rosato,Negroamaro Rosato 2022,2022,Salento,0,Cantele,10.5,3.6,1596
+185,Côtes de Provence,Côtes de Provence 2019,2019,Côtes de Provence,0,Domaine de Bendel,10.5,3.9,1730
+186,Rosé,Rosé 2022,2022,Var,0,Triennes,10.5,3.9,8801
+187,Or & Azur Rosé,Or & Azur Rosé 2021,2021,Languedoc,0,Gérard Bertrand,10.5,3.6,80
+188,Les Vannades Pierrevert Rosé,Les Vannades Pierrevert Rosé 2022,2022,Coteaux de Pierrevert,0,Chateau Saint Jean,10.5,4.1,219
+189,Rozi,Rozi 2020,2020,Szekszárd,0,Bodri,10.54,3.5,594
+190,Miglio Rosato delle Venezie,Miglio Rosato delle Venezie 2021,2021,delle Venezie,0,La Frassina,10.58,3.9,56
+191,Schiava Gentile Vallagarina Rosé,Schiava Gentile Vallagarina Rosé 2022,2022,Vallagarina,0,Armando Simoncelli,10.58,3.5,83
+192,Miglio Rosato delle Venezie,Miglio Rosato delle Venezie 2022,2022,delle Venezie,0,La Frassina,10.58,3.9,56
+193,Le Rosé di Settembre,Le Rosé di Settembre 2022,2022,Lacrima di Morro d’Alba,0,Luigi Giusti,10.6,3.4,71
+194,Brise d'été Pinot Noir Rosé,Brise d'été Pinot Noir Rosé 2021,2021,Elzas,0,Frey-Sohler,10.6,3.6,37
+195,Chiaretto Garda Classico Rosé,Chiaretto Garda Classico Rosé 2018,2018,Garda,0,Cà Maiol,10.65,3.8,716
+196,L'Ambigu Côtes-du-Rhône-Villages 'Roaix' Rosé,L'Ambigu Côtes-du-Rhône-Villages 'Roaix' Rosé 2020,2020,Côtes-du-Rhône-Villages 'Roaix',0,Domaine Pique-Basse,10.7,3.8,46
+197,Portofino Ciliegiolo Rosé,Portofino Ciliegiolo Rosé 2022,2022,Ligurië,0,Bisson,10.77,3.8,590
+198,Cavarletta Rosato,Cavarletta Rosato 2022,2022,Salento,0,Petrelli,10.78,3.5,59
+199,Rosé,Rosé 2021,2021,Marche,0,Velenosi,10.78,3.9,130
+200,Cuvée Madeleine Rosé,Cuvée Madeleine Rosé 2022,2022,Côtes du Rhône,0,Maison Rivier,10.8,4.1,30
+201,Les Hirondelles Saumur Rosé,Les Hirondelles Saumur Rosé 2019,2019,Saumur,0,Château de Chaintres,10.8,4.0,85
+202,Bordeaux Rosé,Bordeaux Rosé 2021,2021,Bordeaux,0,Michel Lynch,10.8,3.5,477
+203,Rosato,Rosato 2021,2021,Veneto,0,Scaia,10.88,4.0,5141
+204,Maguelonne,Maguelonne 2021,2021,Ardèche,0,Château de la Selve,10.9,3.8,596
+205,Verdarail Rosé,Verdarail Rosé 2022,2022,Mont Caume,0,Château Salettes,10.9,3.8,253
+206,La Gourmande Rosé,La Gourmande Rosé 2022,2022,Alpilles,0,Mas de la Dame,10.9,3.8,55
+207,Studio,Studio 2022,2022,Côtes de Provence,0,Miraval,10.9,3.8,10331
+208,Suivez-Moi-Jeune-Homme Coteaux Varois en Provence,Suivez-Moi-Jeune-Homme Coteaux Varois en Provence 2022,2022,Coteaux Varois en Provence,0,Château des Annibals,10.9,4.0,1097
+209,18 e Quarantacinque Garda Classico Chiaretto,18 e Quarantacinque Garda Classico Chiaretto 2022,2022,Garda,0,Citari,10.9,3.9,329
+210,Sous Les Micocouliers,Sous Les Micocouliers 2022,2022,Saint-Guilhem-le-Desert,0,Mas de la Seranne,10.9,3.7,78
+211,La Chapelle Rosé,La Chapelle Rosé 2022,2022,Provence,0,Château Pigoudet,10.9,3.9,309
+212,Côtes-du-Rhône Rosé,Côtes-du-Rhône Rosé 2020,2020,Côtes du Rhône,0,E. Guigal,10.95,3.7,8952
+213,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,La Rouvière,10.95,4.0,499
+214,Côtes de Provence,Côtes de Provence 2022,2022,Côtes de Provence,0,Fleurs de Prairie,10.95,4.0,14613
+215,Bordeaux Rosé,Bordeaux Rosé 2022,2022,Bordeaux,0,Château La Tour de By,10.95,3.7,321
+216,Le Rosé,Le Rosé 2022,2022,Côtes du Roussillon,0,Château Saint-Roch,10.95,4.0,2529
+217,Dogajolo Toscana Rosato,Dogajolo Toscana Rosato 2022,2022,Toscane,0,Carpineto,10.98,3.7,2683
+218,Visione,Visione 2021,2021,Irpinia,0,Feudi di San Gregorio,10.98,3.9,1858
+219,Ca'Preella Bardolino Chiaretto,Ca'Preella Bardolino Chiaretto 2020,2020,Bardolino Chiaretto,0,Lamberti,11.0,3.3,263
+220,Fleur d’Eglantine Costières-de-Nîmes,Fleur d’Eglantine Costières-de-Nîmes 2021,2021,Costières-de-Nîmes,0,Château Mourgues du Grès,11.0,3.7,931
+221,Classic Rosé,Classic Rosé 2022,2022,Pic-Saint-Loup,0,Famille Jean-Pierre  Rambier - Domaine Haut-Lirou,11.0,3.7,56
+222,Bordeaux Rosé,Bordeaux Rosé 2021,2021,Bordeaux,0,Clarendelle,11.0,3.7,2654
+223,Côtes du Rhône Villages 'Seguret' Rosé,Côtes du Rhône Villages 'Seguret' Rosé 2021,2021,Côtes-du-Rhône-Villages 'Seguret',0,Domaine du Prieure Saint-Just,11.0,3.9,736
+224,Bardolino Chiaretto,Bardolino Chiaretto 2022,2022,Bardolino Chiaretto,0,Giovanna Tantini,11.0,3.5,313
+225,Maguelonne,Maguelonne 2022,2022,Ardèche,0,Château de la Selve,11.15,3.8,596
+226,Serra Lori Isola dei Nuraghi,Serra Lori Isola dei Nuraghi 2022,2022,Isola dei Nuraghi,0,Argiolas,11.17,3.6,1851
+227,Notterosa Garda Bresciano Chiaretto,Notterosa Garda Bresciano Chiaretto 2022,2022,Lombardije,0,Delai,11.18,3.9,269
+228,Venus,Venus 2022,2022,Salento,0,Conti Zecca,11.18,3.3,139
+229,Serra Lori Isola dei Nuraghi,Serra Lori Isola dei Nuraghi 2021,2021,Isola dei Nuraghi,0,Argiolas,11.18,3.6,1851
+230,Suivez-Moi-Jeune-Homme Coteaux Varois en Provence,Suivez-Moi-Jeune-Homme Coteaux Varois en Provence 2021,2021,Coteaux Varois en Provence,0,Château des Annibals,11.2,4.0,1097
+231,Le Caprice de Clémentine Rosé,Le Caprice de Clémentine Rosé 2022,2022,Côtes de Provence,0,Château Les Valentines,11.2,3.7,2017
+232,Excellens Rosé,Excellens Rosé 2022,2022,Rioja,0,Marqués de Cáceres,11.2,3.7,2702
+233,René Couly Chinon Rosé,René Couly Chinon Rosé 2021,2021,Chinon,0,Couly-Dutheil,11.2,3.9,1141
+234,Sur Les Berges du Fleuve Rosé,Sur Les Berges du Fleuve Rosé 2022,2022,Alpilles,0,Domaine le Grand Castelet,11.256666666666666,3.6,31
+235,Charme des Demoiselles Côtes de Provence Rosé,Charme des Demoiselles Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château des Demoiselles,11.3,3.8,1011
+236,Mmm... Pinot Noir Rosé,Mmm... Pinot Noir Rosé 2022,2022,Het Loiredal,0,Domaine Fournier Père et Fils,11.3,3.8,139
+237,Riviera del Garda Classico Chiaretto,Riviera del Garda Classico Chiaretto 2022,2022,Garda,0,Olivini,11.36,3.8,332
+238,Zinfandel Rosé,Zinfandel Rosé 2020,2020,Californië,0,Beringer,11.38,3.7,4021
+239,Les Lauzeraies Tavel Rosé,Les Lauzeraies Tavel Rosé 2022,2022,Tavel,0,Les Vignerons de Tavel,11.4,3.5,2181
+240,La Croix du Prieur Côtes de Provence Rosé,La Croix du Prieur Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Coussin,11.4,3.9,933
+241,Elixir Rosé,Elixir Rosé 2022,2022,Pays d'Oc,0,Bruno Andreu,11.4,4.2,82
+242,Pimayon Pierrevert Rosé,Pimayon Pierrevert Rosé 2022,2022,Coteaux de Pierrevert,0,Chateau Saint Jean,11.496666666666666,4.1,128
+243,Pierrevert Rosé,Pierrevert Rosé 2022,2022,Coteaux de Pierrevert,0,Domaine La Blaque,11.5,4.0,315
+244,Pordavall Collioure,Pordavall Collioure 2021,2021,Collioure,0,Le Dominicain,11.5,3.8,146
+245,L'Alvernègue Rosé,L'Alvernègue Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Château Bas,11.5,2.9,38
+246,Rosé du Mas Les Baux de Provence,Rosé du Mas Les Baux de Provence 2022,2022,Les Baux-de-Provence,0,Mas de la Dame,11.5,3.9,310
+247,Infiniment Rosé,Infiniment Rosé 2022,2022,Ventoux,0,Domaine Alloïs,11.5,3.9,81
+248,Les Fenouils Côtes de Provence,Les Fenouils Côtes de Provence 2022,2022,Côtes de Provence,0,Domaine de Jale,11.5,3.9,363
+249,Lumera,Lumera 2020,2020,Terre Siciliane,0,Donnafugata,11.5,3.9,3764
+250,Domaine Castel Oualou Lirac Instant Rosé,Domaine Castel Oualou Lirac Instant Rosé 2020,2020,Lirac,0,Vignobles Assémat,11.52,3.2,34
+251,Garda Chiaretto,Garda Chiaretto 2021,2021,Garda,0,La Meridiana,11.54,3.4,62
+252,Rosé,Rosé 2019,2019,Badacsony,0,Büttner,11.57,3.7,82
+253,Orano Campania Rosato,Orano Campania Rosato 2021,2021,Campania,0,Villa Raiano,11.58,3.6,143
+254,Rosato,Rosato 2022,2022,Salento,0,Cantina Rosa del Golfo,11.58,3.5,961
+255,Flower Power Toscana Rosato,Flower Power Toscana Rosato 2022,2022,Toscane,0,Podere 414,11.58,3.6,805
+256,Costadolio,Costadolio 2022,2022,Breganze,0,Maculan,11.6,3.4,180
+257,Côtes de Provence,Côtes de Provence 2021,2021,Côtes de Provence,0,Domaine des Hauts Plateaux,11.6,3.6,212
+258,Chiaretto Garda Classico Rosé,Chiaretto Garda Classico Rosé 2020,2020,Garda,0,Cà Maiol,11.65,3.8,716
+259,Rosato,Rosato 2021,2021,Sardinië,0,Sa Raja,11.66,3.9,114
+260,Belleruche Côtes du Rhône Rosé,Belleruche Côtes du Rhône Rosé 2021,2021,Côtes du Rhône,0,M. Chapoutier,11.7,3.8,9068
+261,Château Escaravatiers Côtes de Provence Rosé,Château Escaravatiers Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine Escaravatiers,11.7,3.9,82
+262,Cara de Caraguilhes Rosé,Cara de Caraguilhes Rosé 2021,2021,Corbières,0,Château de Caraguilhes,11.75,4.0,305
+263,Une Fille de l’Air,Une Fille de l’Air 2022,2022,Chinon,0,Domaine de l'R,11.75,3.6,26
+264,Petula Rosé,Petula Rosé 2021,2021,Luberon,0,Marrenon,11.75,3.7,1727
+265,Primitivo Rosato,Primitivo Rosato 2020,2020,Puglia,0,A Mano,11.78,3.8,124
+266,Les Lignis Reuilly Rosé,Les Lignis Reuilly Rosé 2022,2022,Reuilly,0,Valery Renaudat,11.8,4.0,34
+267,Siller,Siller 2020,2020,Villány,0,Sauska,11.86,3.8,850
+268,Pfefferer Pink,Pfefferer Pink 2022,2022,Vigneti delle Dolomiti,0,Colterenzio (Schreckbichl),11.87,4.1,3390
+269,Sangiovese Rosato,Sangiovese Rosato 2017,2017,Forlì,0,Conde,11.88,3.5,142
+270,Giovanni Avanzi Valtènesi Chiaretto,Giovanni Avanzi Valtènesi Chiaretto 2021,2021,Garda,0,Avanzi,11.88,3.9,707
+271,Rosato Toscana,Rosato Toscana 2022,2022,Toscane,0,Patrizia Cencioni,11.88,3.6,120
+272,Tramari Rosé di Primitivo,Tramari Rosé di Primitivo 2022,2022,Salento,0,San Marzano,11.88,4.1,13583
+273,Luberon Rosé,Luberon Rosé 2022,2022,Luberon,0,Maslauris,11.9,4.0,118
+274,Coteaux d'Aix-en-Provence Rosé,Coteaux d'Aix-en-Provence Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Château Saint-Hilaire,11.9,3.8,3371
+275,Roseri Valtenesi Chiaretto Rosato,Roseri Valtenesi Chiaretto Rosato 2022,2022,Lombardije,0,Cà Maiol,11.94,3.8,1457
+276,Roseri Valtenesi Chiaretto Rosato,Roseri Valtenesi Chiaretto Rosato 2019,2019,Lombardije,0,Cà Maiol,11.94,3.8,1457
+277,Garrigue Languedoc Rosé,Garrigue Languedoc Rosé 2022,2022,Languedoc,0,Château de Lascaux,11.95,3.5,143
+278,Carra Pic-Saint-Loup Rosé,Carra Pic-Saint-Loup Rosé 2022,2022,Pic-Saint-Loup,0,Château de Lascaux,11.95,3.9,64
+279,Merlot Rosé (Unico),Merlot Rosé (Unico) 2022,2022,Abruzzo,0,Tenuta Ulisse,11.95,4.0,3681
+280,Cinsault - Grenache,Cinsault - Grenache 2020,2020,Pays d'Oc,0,Mas de Jules,11.95,3.7,37
+281,À Flot Rosé,À Flot Rosé 2022,2022,Côtes de Provence,0,Domaine de la Navicelle,11.95,3.9,168
+282,Cornet & Cie Collioure Rosé,Cornet & Cie Collioure Rosé 2022,2022,Collioure,0,Abbe Rous,11.95,3.7,31
+283,Pinotage Dry Rosé,Pinotage Dry Rosé 2021,2021,Stellenbosch,0,Beyerskloof,11.97,3.4,444
+284,Cèleste Rosé,Cèleste Rosé 2022,2022,Côtes du Roussillon,0,Mas Talaïa,12.0,4.0,46
+285,Collioure Rosé,Collioure Rosé 2022,2022,Collioure,0,Pic Joan,12.0,3.9,50
+286,Château La Jouliane Côtes de Provence Rosé,Château La Jouliane Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Famille Sumeire,12.0,3.8,123
+287,Rosé de Rêve,Rosé de Rêve 2022,2022,Pays d'Oc,0,La Grande Sieste,12.0,4.1,483
+288,Le Bois du Cerf Rosé,Le Bois du Cerf Rosé 2019,2019,Corsica,0,Domaine Vico,12.0,3.7,42
+289,Signature Rosé,Signature Rosé 2022,2022,Pays d'Oc,0,Domaine la Provenquière,12.0,4.2,62
+290,Cuvée Rosée des Bois,Cuvée Rosée des Bois 2022,2022,Côtes de Provence,0,Domaine la Fouquette,12.0,4.3,44
+291,Chateau Ballan-Larquette Bordeaux Clairet,Chateau Ballan-Larquette Bordeaux Clairet 2020,2020,Bordeaux Clairet,0,Vignobles Chaigne et Fils,12.0,3.8,315
+292,Saint Max Côtes de Provence Rosé,Saint Max Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château Mont-Redon,12.0,3.8,491
+293,Hors Série No.1 Rosé,Hors Série No.1 Rosé 2022,2022,Cabardès,0,Domaine de Cazaban,12.0,3.7,131
+294,Source of Joy,Source of Joy 2021,2021,Languedoc,0,Gérard Bertrand,12.0,3.9,661
+295,Edalise Côtes de Provence,Edalise Côtes de Provence 2020,2020,Côtes de Provence,0,Boutinot,12.0,4.2,169
+296,Madame Côtes de Provence Rosé,Madame Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Gabriel Meffre,12.0,3.8,55
+297,Les Vannades Pierrevert Rosé,Les Vannades Pierrevert Rosé 2021,2021,Coteaux de Pierrevert,0,Chateau Saint Jean,12.0,4.1,219
+298,Miss Valentine Rosé,Miss Valentine Rosé 2022,2022,Côtes de Provence,0,Château Les Valentines,12.0,3.9,926
+299,Rosé,Rosé 2021,2021,Wagram,0,Josef Ehmoser,12.05,3.6,176
+300,Amoureuse Rosé,Amoureuse Rosé 2022,2022,Costières-de-Nîmes,0,Château Grand Escalion,12.1,3.9,64
+301,Château Grézan Rosé,Château Grézan Rosé 2022,2022,Faugères,0,Famille Cros Pujol,12.1,3.7,43
+302,Echappée Belle Rosé,Echappée Belle Rosé 2022,2022,Côtes de Provence,0,Mas de Cadenet,12.15,3.7,307
+303,BelleAmour Rosé,BelleAmour Rosé 2022,2022,Vigneti delle Dolomiti,0,Pravis,12.18,3.7,76
+304,Iris Rosé,Iris Rosé 2021,2021,Alpilles,0,Vallon des Glauges,12.2,3.9,42
+305,Madame Côtes de Provence Rosé,Madame Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Gabriel Meffre,12.2,3.8,55
+306,Roseline Prestige Côtes de Provence Rosé,Roseline Prestige Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château Sainte Roseline,12.2,3.7,1220
+307,La Petite Perrière Pinot Noir Rosé,La Petite Perrière Pinot Noir Rosé 2022,2022,Vin de France,0,La Perrière,12.28,3.7,972
+308,Cabernet Sauvignon Rosé,Cabernet Sauvignon Rosé 2020,2020,Valle de Guadalupe,0,L. A. Cetto,12.28,3.3,193
+309,La Petite Perrière Pinot Noir Rosé,La Petite Perrière Pinot Noir Rosé 2021,2021,Vin de France,0,La Perrière,12.28,3.7,972
+310,Rosé,Rosé 2022,2022,Côtes de Provence,0,Domaine Tropez,12.3,3.8,517
+311,Cuvée Domaine Ventoux Rosé (L'Instant Rosé),Cuvée Domaine Ventoux Rosé (L'Instant Rosé) 2022,2022,Ventoux,0,Domaine de Fondrèche,12.3,3.7,997
+312,Cuvée Prunelle Rosé,Cuvée Prunelle Rosé 2021,2021,Côtes de Provence,0,Vallombrosa,12.3,3.7,112
+313,Rosé,Rosé 2019,2019,Villány,0,Günzer,12.35,3.5,144
+314,Rosé,Rosé 2021,2021,Wellington,0,Diemersfontein,12.35,3.5,166
+315,Belleruche Côtes du Rhône Rosé,Belleruche Côtes du Rhône Rosé 2022,2022,Côtes du Rhône,0,M. Chapoutier,12.36,3.8,9068
+316,Elisetta Marche Rosato,Elisetta Marche Rosato 2022,2022,Marche,0,Poderi San Lazzaro,12.36,3.2,41
+317,Rosé di Toscana,Rosé di Toscana 2021,2021,Maremma Toscana,0,Fertuna,12.38,3.8,88
+318,Pink Mùl,Pink Mùl 2021,2021,Friuli-Venezia Giulia,0,Alturis,12.38,3.8,45
+319,Mulier Rosato,Mulier Rosato 2022,2022,Colline Novaresi,0,Cantina Pidrin,12.38,3.7,27
+320,Coteaux Bourguignons Rosé,Coteaux Bourguignons Rosé 2018,2018,Coteaux Bourguignons,0,Louis Jadot,12.4,3.7,272
+321,Poudrière,Poudrière 2022,2022,Luberon,0,Bastide du Claux,12.4,3.7,251
+322,Corail Côtes de Provence,Corail Côtes de Provence 2022,2022,Côtes de Provence,0,Château de Roquefort,12.4,3.9,3036
+323,Côtes de Provence,Côtes de Provence 2021,2021,Côtes de Provence,0,Château Gigery,12.4,3.8,981
+324,Donnadele,Donnadele 2018,2018,Puglia,0,Alberto Longo,12.48,3.7,267
+325,Bordeaux Rosé,Bordeaux Rosé 2022,2022,Bordeaux,0,Mouton Cadet,12.5,3.3,4022
+326,Tribbiera Rosé,Tribbiera Rosé 2022,2022,Corsica,0,Clos Culombu,12.5,3.4,168
+327,Luberon Rosé,Luberon Rosé 2022,2022,Luberon,0,Domaine de Fontenille,12.5,3.9,556
+328,Languedoc Réserve Art de Vivre Rosé,Languedoc Réserve Art de Vivre Rosé 2022,2022,Languedoc,0,Gérard Bertrand,12.5,3.7,109
+329,Rosé des Roches Collioure,Rosé des Roches Collioure 2022,2022,Collioure,0,Domaine La Tour Vieille,12.5,3.9,72
+330,Languedoc Réserve Art de Vivre Rosé,Languedoc Réserve Art de Vivre Rosé 2021,2021,Languedoc,0,Gérard Bertrand,12.5,3.7,109
+331,Rosé,Rosé 2021,2021,Luberon,0,Château la Verrerie,12.5,3.8,1265
+332,Les Clos de Paulilles Collioure Rosé,Les Clos de Paulilles Collioure Rosé 2022,2022,Collioure,0,Cazes,12.5,3.8,2349
+333,La Vie en Rose,La Vie en Rose 2021,2021,Côtes de Provence,0,Château Roubine,12.5,3.9,3595
+334,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Domaine Saint-Jean,12.5,3.5,100
+335,Héritage de Saint Victor Rosé,Héritage de Saint Victor Rosé 2022,2022,Coteaux Varois en Provence,0,Bastide de Fave,12.503333333333334,4.0,30
+336,Rosé,Rosé 2021,2021,Hérault,0,Domaine de Caylus,12.53,3.1,27
+337,Coteaux Varois en Provence Rosé,Coteaux Varois en Provence Rosé 2021,2021,Coteaux Varois en Provence,0,Le Cercle des Vignerons de Saint Louis,12.55,3.5,705
+338,Perle de Roséline Côtes de Provence Rosé,Perle de Roséline Côtes de Provence Rosé 2021,2021,Méditerranée,0,Château Sainte Roseline,12.6,3.5,967
+339,Miralý Rosé Intrigant,Miralý Rosé Intrigant 2021,2021,Toscane,0,Tenuta Montecchiesi,12.6,4.1,701
+340,Rosé,Rosé 2022,2022,Wagram,0,Josef Ehmoser,12.65,3.6,176
+341,Petite Cavale Rosé,Petite Cavale Rosé 2022,2022,Luberon,0,La Cavale,12.7,3.8,86
+342,Il Bandolo della Matassa Rosato,Il Bandolo della Matassa Rosato 2021,2021,Lazio,0,Cantina le Macchie,12.78,3.5,84
+343,Primaluce Bombino Nero,Primaluce Bombino Nero 2022,2022,Castel del Monte,0,Carpentiere,12.8,3.6,235
+344,Les Baumes Rosé,Les Baumes Rosé 2021,2021,Bandol,0,Moulin de la Roque,12.8,3.6,75
+345,Terre Cerase (Rocca dei Leoni),Terre Cerase (Rocca dei Leoni) 2021,2021,Campania,0,Villa Matilde,12.88,3.6,223
+346,Le Petit Modat Amour Rosé,Le Petit Modat Amour Rosé 2022,2022,Côtes Catalanes,0,Domaine Modat,12.9,3.7,30
+347,Camille Côtes de Provence Rosé,Camille Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine Turenne,12.9,3.7,483
+348,Love by Léoube Côtes de Provence,Love by Léoube Côtes de Provence 2020,2020,Côtes de Provence,0,Château Léoube,12.9,3.9,1194
+349,Classic Rosé,Classic Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Château Pigoudet,12.9,4.1,2736
+350,Classic Rosé,Classic Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Château Pigoudet,12.95,4.1,2736
+351,Rosé,Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Domaine d'Eole,12.95,3.8,538
+352,Susumaniello Rosé,Susumaniello Rosé 2022,2022,Puglia,0,Varvaglione,12.98,3.9,159
+353,Astrosa Rosé,Astrosa Rosé 2021,2021,Corbières,0,Château la Bastide,12.996666666666666,3.7,29
+354,L'Or de Rostangue Côtes de Provence Pierrefeu,L'Or de Rostangue Côtes de Provence Pierrefeu 2021,2021,Côtes de Provence,0,Domaine Rostangue,12.996666666666666,3.5,58
+355,Rosé,Rosé 2021,2021,Cite de Carcassonne,0,Domaine de l'Estagnère,13.0,3.8,279
+356,1603 Luberon Rosé,1603 Luberon Rosé 2020,2020,Luberon,0,Château de Sannes,13.0,4.1,93
+357,Côtes de Provence,Côtes de Provence 2022,2022,Côtes de Provence,0,Domaine la Beyssannette,13.0,3.8,268
+358,Rosé,Rosé 2019,2019,Méditerranée,0,Richeaume,13.0,4.0,88
+359,Rosé,Rosé 2020,2020,Franschhoek,0,Topiary Wines,13.0,3.5,66
+360,Luberon Rosé,Luberon Rosé 2022,2022,Luberon,0,Château la Canorgue,13.0,3.9,856
+361,Le Rosé de Mon Père Collioure,Le Rosé de Mon Père Collioure 2022,2022,Collioure,0,Piétri Géraud,13.0,3.9,55
+362,Côtes de Provence Sainte Victoire,Côtes de Provence Sainte Victoire 2021,2021,Côtes de Provence,0,Mas de Cadenet,13.15,3.9,2370
+363,Rosator Tintilia del Molise Rosato,Rosator Tintilia del Molise Rosato 2020,2020,Tintilia del molise,0,Cianfagna,13.18,3.8,81
+364,Pedregoso Gran Reserva Pinot Noir Rosé,Pedregoso Gran Reserva Pinot Noir Rosé 2020,2020,Limarí Valley,0,Tabali,13.2,4.0,90
+365,Rosé,Rosé 2021,2021,Bordeaux,0,Domaine de la Solitude,13.3,3.5,454
+366,Bain de midi,Bain de midi 2022,2022,Méditerranée,0,AUROSE,13.3,4.2,330
+367,Chiaretto,Chiaretto 2022,2022,Garda,0,Pratello,13.38,3.6,421
+368,Spelt Cerasuolo d'Abruzzo Superiore Rosato,Spelt Cerasuolo d'Abruzzo Superiore Rosato 2022,2022,Cerasuolo d'Abruzzo,0,La Valentina,13.48,3.8,219
+369,Cuvée Prestige Côtes de Provence Rosé,Cuvée Prestige Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Demonpere,13.5,3.8,54
+370,Rosé,Rosé 2022,2022,Pays d'Oc,0,French Bulldog,13.5,4.0,26
+371,L'Or de Rostangue Côtes de Provence Pierrefeu,L'Or de Rostangue Côtes de Provence Pierrefeu 2022,2022,Côtes de Provence,0,Domaine Rostangue,13.5,3.5,58
+372,Cuvée Prestige Rosé,Cuvée Prestige Rosé 2022,2022,Côtes de Provence,0,Domaine des Feraud,13.5,3.9,340
+373,Cuvée Prestige Rosé,Cuvée Prestige Rosé 2021,2021,Côtes de Provence,0,Domaine des Feraud,13.5,3.9,340
+374,Bois des Fées Coteaux d'Aix-en-Provence Rosé,Bois des Fées Coteaux d'Aix-en-Provence Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Domaine Tour Campanets,13.5,3.8,60
+375,Lumera,Lumera 2022,2022,Terre Siciliane,0,Donnafugata,13.58,3.9,3764
+376,Teroldego Rosato,Teroldego Rosato 2021,2021,Teroldego Rotaliano,0,De Vigili,13.58,4.0,67
+377,Rosé d’une Nuit,Rosé d’une Nuit 2022,2022,Coteaux d'Aix-en-Provence,0,Château La Coste,13.6,3.8,1717
+378,Rosa dei Frati Riviera del Garda Classico Rosé,Rosa dei Frati Riviera del Garda Classico Rosé 2022,2022,Lombardije,0,Cà dei Frati,13.68,4.1,13125
+379,Prose Sélavy Rosato,Prose Sélavy Rosato 2022,2022,Terre Siciliane,0,Azienda Agricola Pianogrillo,13.78,4.1,32
+380,Vite Natural Durante Col di Frà Rosato,Vite Natural Durante Col di Frà Rosato 2021,2021,Bergamasca,0,Tosca,13.78,3.8,26
+381,Sangiovese Rosato,Sangiovese Rosato 2021,2021,Forlì,0,Conde,13.78,3.5,142
+382,Teroldego Rosata Tradizione,Teroldego Rosata Tradizione 2022,2022,Trentino,0,Endrizzi,13.78,3.7,143
+383,Borgeri Rosato,Borgeri Rosato 2019,2019,Bolgheri,0,Giorgio Meletti Cavallari,13.88,3.7,357
+384,Maschitano Rosato di Basilicata,Maschitano Rosato di Basilicata 2022,2022,Basilicata,0,Musto Carmelitano,13.88,3.7,48
+385,Mea Rosa,Mea Rosa 2022,2022,Ligurië,0,Lunae,13.88,3.7,1174
+386,Rosato,Rosato 2022,2022,Cannonau di Sardegna,0,Audarya,13.9,3.6,84
+387,Garrigues Les Baux de Provence Rosé,Garrigues Les Baux de Provence Rosé 2022,2022,Les Baux-de-Provence,0,Domaine de la Vallongue,13.9,3.8,75
+388,La Forcadière Rosé,La Forcadière Rosé 2021,2021,Tavel,0,Domaine Maby,13.9,3.8,529
+389,Roseline Prestige Côtes de Provence Rosé,Roseline Prestige Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Sainte Roseline,13.9,3.7,1220
+390,Royal Sunset Vacqueyras,Royal Sunset Vacqueyras 2022,2022,Vacqueyras,0,Domaine de la Verde,13.9,3.7,103
+391,Miramar,Miramar 2022,2022,Zuidwest-Frankrijk,0,Lionel Osmin & Cie,13.9,4.2,45
+392,Tavel,Tavel 2021,2021,Tavel,0,Château de Manissy,13.95,3.7,587
+393,Sainte-Victoire Côtes de Provence,Sainte-Victoire Côtes de Provence 2022,2022,Côtes de Provence,0,Château de la Galiniere,13.95,4.0,932
+394,IVe Génération Rosé,IVe Génération Rosé 2022,2022,La Clape,0,Paul Herpe,13.98,3.5,28
+395,Chiaretto  Classico,Chiaretto  Classico 2022,2022,Garda,0,Ca' Lojera,13.98,3.8,278
+396,Langhe Rosato,Langhe Rosato 2022,2022,Langhe,0,Josetta Saffirio,13.98,3.8,587
+397,Lagrein Rosé,Lagrein Rosé 2022,2022,Südtirol - Alto Adige,0,Rottensteiner,13.98,3.5,76
+398,Amai Susumaniello Rosé,Amai Susumaniello Rosé 2022,2022,Salento,0,San Marzano,13.98,4.1,89
+399,Hermon Mount Hermon Rosé,Hermon Mount Hermon Rosé 2019,2019,Galilee,0,Golan Heights Winery,13.98,3.3,163
+400,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine du Paternel,14.0,4.1,562
+401,Rose Pompon,Rose Pompon 2022,2022,Côtes du Rhône,0,Maxime-François Laurent,14.0,3.7,59
+402,Cirò Rosato,Cirò Rosato 2022,2022,Calabrië,0,Scala,14.0,3.7,453
+403,Alliance Rosé,Alliance Rosé 2022,2022,Coteaux de Narbonne,0,Lalaurie,14.0,3.5,47
+404,Côtes de Provence Sainte Victoire,Côtes de Provence Sainte Victoire 2020,2020,Côtes de Provence,0,Mas de Cadenet,14.0,3.9,2370
+405,Tavel,Tavel 2022,2022,Tavel,0,Château de Trinquevedel,14.003333333333334,3.8,2502
+406,Etna Rosato,Etna Rosato 2022,2022,De Etna,0,Murgo,14.18,3.7,620
+407,Perlato Ruländer Rosato,Perlato Ruländer Rosato 2022,2022,Trentino,0,Salizzoni,14.18,3.9,51
+408,Iirrésistible Côtes de Provence Rosé,Iirrésistible Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine de la Croix,14.2,3.8,1190
+409,Donnadele,Donnadele 2022,2022,Puglia,0,Alberto Longo,14.3,3.7,267
+410,Rosé d’une Nuit,Rosé d’une Nuit 2021,2021,Coteaux d'Aix-en-Provence,0,Château La Coste,14.3,3.8,1717
+411,Corse Calvi Rosé,Corse Calvi Rosé 2022,2022,Corsica,0,Domaine Figarella & A Ronca,14.316666666666666,3.7,153
+412,Rosa,Rosa 2018,2018,Vallagarina,0,De Tarczal,14.38,3.5,59
+413,Five Roses Salento,Five Roses Salento 2021,2021,Salento,0,Leone de Castris,14.38,3.8,1600
+414,Grecu di Livanti Rosato,Grecu di Livanti Rosato 2021,2021,Sicilia,0,Feudo Disisa,14.38,3.8,62
+415,Etna Rosato,Etna Rosato 2022,2022,De Etna,0,Cottanera,14.48,3.9,645
+416,MiP Classic Côtes de Provence Rosé,MiP Classic Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine des Diables,14.5,4.1,5537
+417,Argali Rosé,Argali Rosé 2022,2022,Languedoc-Roussillon,0,Château Puech-Haut,14.5,4.1,4731
+418,Sancerre Rosé,Sancerre Rosé 2021,2021,Sancerre,0,Domaine Naudet,14.5,4.0,299
+419,Magali Signature Côtes de Provence Rosé,Magali Signature Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Figuière,14.5,3.9,4290
+420,Nebbiolo Colline Novaresi Rosato,Nebbiolo Colline Novaresi Rosato 2019,2019,Colline Novaresi,0,Vallana,14.58,3.7,117
+421,Lagrein Kretzer,Lagrein Kretzer 2022,2022,Südtirol - Alto Adige,0,Petruskellerei,14.58,3.9,28
+422,Bio Cotes de Provence Rosé,Bio Cotes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Les Valentines,14.6,3.8,2608
+423,Negroamaro Salento Calafuria Rosato,Negroamaro Salento Calafuria Rosato 2022,2022,Salento,0,Tormaresca,14.6,4.0,10362
+424,Onde Bio,Onde Bio 2019,2019,Lazio,0,De Sanctis,14.78,3.8,73
+425,M Minuty Limited Edition Rosé,M Minuty Limited Edition Rosé 2021,2021,Côtes de Provence,0,Minuty,14.8,4.1,1920
+426,Rosé di Toscana,Rosé di Toscana 2022,2022,Maremma Toscana,0,Fertuna,14.8,3.8,88
+427,Rosa delle Calle Rosato,Rosa delle Calle Rosato 2019,2019,Maremma Toscana,0,Le Calle di Catocci,14.88,3.4,26
+428,Il Brutto Anatroccolo Rosato,Il Brutto Anatroccolo Rosato 2021,2021,Ligurië,0,Il Torchio,14.88,3.8,68
+429,Coteaux d'Aix-en-Provence Rosé,Coteaux d'Aix-en-Provence Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Domaine Bagrau,14.9,3.8,333
+430,Sainte Victoire Côtes de Provence Rosé,Sainte Victoire Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Coussin,14.9,3.9,1601
+431,L’Inopiné Rosé,L’Inopiné Rosé 2021,2021,Luberon,0,Maslauris,14.9,4.0,86
+432,L’Inopiné Rosé,L’Inopiné Rosé 2022,2022,Luberon,0,Maslauris,14.9,4.0,86
+433,Les Baux de Provence Rosé,Les Baux de Provence Rosé 2022,2022,Les Baux-de-Provence,0,Domaine des Terres Blanches,14.9,4.0,250
+434,Le Rosé de S,Le Rosé de S 2021,2021,Méditerranée,0,Olivier Sumeire,14.9,3.6,1959
+435,Pinot Rosé,Pinot Rosé 2020,2020,Marlborough,0,The Ned,14.9,3.7,1892
+436,Première Rosé de Valmy,Première Rosé de Valmy 2022,2022,Côtes du Roussillon,0,Château Valmy,14.9,4.0,185
+437,Cuvée Prestige Côtes de Provence Rosé,Cuvée Prestige Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Domaine de Saint Ser,14.9,3.8,2106
+438,L'Épervier Rosé,L'Épervier Rosé 2022,2022,Languedoc,0,Château Pech Redon,14.9,3.5,29
+439,Garrigues Les Baux de Provence Rosé,Garrigues Les Baux de Provence Rosé 2021,2021,Les Baux-de-Provence,0,Domaine de la Vallongue,14.9,3.8,75
+440,Rosé Tradition,Rosé Tradition 2022,2022,Alpilles,0,Domaine de Valdition,14.95,3.7,449
+441,Château Favori,Château Favori 2021,2021,Coteaux Varois en Provence,0,Favori,14.95,4.2,1220
+442,M Rosé,M Rosé 2022,2022,Côtes de Provence,0,Minuty,14.95,3.9,38512
+443,Selection Rosé,Selection Rosé 2021,2021,Côtes de Provence,0,Maison Angelvin,14.951666666666666,4.0,162
+444,Sangiovese Rosato,Sangiovese Rosato 2022,2022,Forlì,0,Conde,15.0,3.5,142
+445,Oddo Coteaux d'Aix-en-Provence Rosé,Oddo Coteaux d'Aix-en-Provence Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Vallon des Glauges,15.0,3.9,48
+446,La Vie en Rose,La Vie en Rose 2022,2022,Côtes de Provence,0,Château Roubine,15.0,3.9,3595
+447,Tavel Beaurevoir,Tavel Beaurevoir 2021,2021,Tavel,0,M. Chapoutier,15.0,3.7,1846
+448,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Carpe Diem,15.0,3.9,413
+449,Tradition Lagrein Rosé,Tradition Lagrein Rosé 2020,2020,Südtirol - Alto Adige,0,Terlan (Terlano),15.0,3.7,569
+450,Sinespina Rosato,Sinespina Rosato 2020,2020,Piemonte,0,Cascina Melognis,15.08,3.6,39
+451,Broili Pinot Nero Rosato,Broili Pinot Nero Rosato 2022,2022,Trentino,0,Zeni,15.18,3.6,107
+452,Mezzarosa Rosato,Mezzarosa Rosato 2022,2022,Salento,0,Azienda Agricola Morella,15.18,3.6,67
+453,La Chavannaise Cabernet Franc Rosé,La Chavannaise Cabernet Franc Rosé 2021,2021,Vin de France,0,Domaine de l'Enchantoir,15.2,4.1,60
+454,Le Due Arbie Rosato Toscana,Le Due Arbie Rosato Toscana 2021,2021,Toscane,0,Dievole,15.2,3.7,1945
+455,Rosé,Rosé 2022,2022,Corsica,0,Clos Culombu,15.2,3.7,1194
+456,Rosé,Rosé 2021,2021,Côtes du Roussillon,0,Château de l'Ou,15.2,3.8,33
+457,Les Quatre Reines,Les Quatre Reines 2021,2021,Provence,0,Chateau Saint Jean,15.203333333333333,4.0,141
+458,Majoli Coste della Sesia Rosato,Majoli Coste della Sesia Rosato 2022,2022,Coste della Sesia,0,Tenute Sella,15.28,3.6,175
+459,Côtes de Provence Rosé (Cru Classé),Côtes de Provence Rosé (Cru Classé) 2022,2022,Côtes de Provence,0,Rimauresq,15.3,3.9,1212
+460,Cerasuolo d'Abruzzo,Cerasuolo d'Abruzzo 2022,2022,Cerasuolo d'Abruzzo,0,Cirelli,15.3,3.8,1534
+461,M Rosé,M Rosé 2021,2021,Côtes de Provence,0,Minuty,15.3,3.9,38512
+462,Syrah Rosé,Syrah Rosé 2021,2021,West-Kaap,0,Seven Springs Vineyards,15.34,3.8,46
+463,AIX Rosé,AIX Rosé 2022,2022,Coteaux d'Aix-en-Provence,0,Maison Saint Aix,15.35,4.0,23920
+464,L'Esprit de Provence Rosé,L'Esprit de Provence Rosé 2022,2022,Côtes de Provence,0,Le Grand Cros,15.35,3.9,612
+465,Boccadirosa,Boccadirosa 2022,2022,Riviera Ligure di Ponente,0,Gorleri,15.38,3.6,50
+466,All'Aria Aperta Rosato,All'Aria Aperta Rosato 2021,2021,Toscane,0,Dianella,15.4,3.4,139
+467,AIX Rosé,AIX Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Maison Saint Aix,15.4,4.0,23920
+468,Chinon Rosé,Chinon Rosé 2022,2022,Chinon,0,Bernard Baudry,15.5,3.8,480
+469,Côtes de Provence Sainte Victoire,Côtes de Provence Sainte Victoire 2022,2022,Côtes de Provence,0,Mas de Cadenet,15.5,3.9,2370
+470,Zéfir Rosé de Capion,Zéfir Rosé de Capion 2018,2018,Languedoc-Roussillon,0,Château Capion,15.5,4.0,55
+471,Corse Sartene Rosé,Corse Sartene Rosé 2021,2021,Corsica,0,Fiumicicoli,15.5,3.9,679
+472,Argali Rosé,Argali Rosé 2021,2021,Languedoc-Roussillon,0,Château Puech-Haut,15.5,4.1,4731
+473,Les Quatre Reines,Les Quatre Reines 2022,2022,Provence,0,Chateau Saint Jean,15.503333333333334,4.0,141
+474,Première de Figuière Rosé,Première de Figuière Rosé 2022,2022,Côtes de Provence,0,Figuière,15.59,4.1,2191
+475,Arjola Cannonau di Sardegna Rosato,Arjola Cannonau di Sardegna Rosato 2022,2022,Cannonau di Sardegna,0,Argiolas,15.68,3.6,51
+476,Preafète Chiaretto,Preafète Chiaretto 2014,2014,Valtenesi,0,Podere dei Folli,15.69,4.1,74
+477,Cuvée Léon Rosé,Cuvée Léon Rosé 2022,2022,Alpilles,0,Domaine Fontchêne,15.7,4.2,92
+478,Cuvée Lampe de Méduse Côtes de Provence Rosé,Cuvée Lampe de Méduse Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Sainte Roseline,15.85,3.9,4299
+479,Il Rosé di Casanova,Il Rosé di Casanova 2022,2022,Toscane,0,La Spinetta,15.88,4.0,6778
+480,Bandol Rosé,Bandol Rosé 2022,2022,Provence,0,Domaine de Frégate,15.9,3.7,713
+481,One Rosé,One Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Château Saint-Hilaire,15.9,4.1,227
+482,Watusi Camargue,Watusi Camargue 2022,2022,Sable de Camargue,0,Château Puech-Haut,15.9,4.2,65
+483,Sainte Victoire Côtes de Provence Rosé,Sainte Victoire Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Charles Thomas,15.9,3.9,180
+484,Le Rosé de May,Le Rosé de May 2021,2021,Stellenbosch,0,Glenelly,15.9,3.6,163
+485,Equinoxe Rosé,Equinoxe Rosé 2021,2021,Les Baux-de-Provence,0,Domaine de Lauzières,15.95,3.9,221
+486,Prestige Côtes de Provence Rosé,Prestige Côtes de Provence Rosé 2020,2020,Côtes de Provence,0,La Sanglière,15.95,3.7,150
+487,By.Ott Rosé,By.Ott Rosé 2021,2021,Côtes de Provence,0,Domaines Ott,15.95,4.0,13228
+488,Le Pas du Moine Sainte Victoire,Le Pas du Moine Sainte Victoire 2022,2022,Côtes de Provence,0,Château Gassier,15.95,4.0,3107
+489,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château La Martinette,15.95,4.0,336
+490,Patrimonio e Croce Rosé,Patrimonio e Croce Rosé 2018,2018,Patrimonio,0,Yves Leccia,16.0,3.8,452
+491,M Minuty Limited Edition Rosé,M Minuty Limited Edition Rosé 2022,2022,Côtes de Provence,0,Minuty,16.0,4.1,1920
+492,Rosator Tintilia del Molise Rosato,Rosator Tintilia del Molise Rosato 2022,2022,Tintilia del molise,0,Cianfagna,16.08,3.8,81
+493,Rosematte,Rosematte 2022,2022,Terre Siciliane,0,Le Casematte,16.18,3.5,212
+494,Corse Sartene Rosé,Corse Sartene Rosé 2022,2022,Corsica,0,Fiumicicoli,16.25,3.9,679
+495,Nebbiolo Colline Novaresi Rosato,Nebbiolo Colline Novaresi Rosato 2022,2022,Colline Novaresi,0,Vallana,16.27,3.7,117
+496,Nebbiolo Colline Novaresi Rosato,Nebbiolo Colline Novaresi Rosato 2021,2021,Colline Novaresi,0,Vallana,16.28,3.7,117
+497,Cuvée Alexandra Prestige Rosé,Cuvée Alexandra Prestige Rosé 2021,2021,Corse Figari,0,Domaine de Tanella,16.3,3.7,467
+498,Baulieu Rosé,Baulieu Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Villa Baulieu,16.4,4.1,75
+499,Rosato,Rosato 2022,2022,Costa Toscana,0,Ripalte,16.48,3.8,325
+500,Grand Ferrage Côtes de Provence,Grand Ferrage Côtes de Provence 2022,2022,Côtes de Provence,0,Mathilde Chapoutier,16.5,3.8,1899
+501,La Source Gabriel Côtes de Provence Rosé,La Source Gabriel Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château La Tour de l'Évêque,16.5,3.9,1760
+502,Cuvée Sublime Rosé,Cuvée Sublime Rosé 2022,2022,Côtes de Provence,0,Domaine Tropez,16.6,4.1,149
+503,Triniti Sainte-Victoire,Triniti Sainte-Victoire 2017,2017,Côtes de Provence,0,Marrenon,16.65,3.9,65
+504,Triniti Sainte-Victoire,Triniti Sainte-Victoire 2016,2016,Côtes de Provence,0,Marrenon,16.65,3.9,65
+505,Cuvée Augusta Rosé,Cuvée Augusta Rosé 2022,2022,Vaucluse,0,Domaine Leos,16.78,4.0,34
+506,Côtes de Provence Rosé,Côtes de Provence Rosé 2020,2020,Côtes de Provence,0,Château de la Deidiére,16.8,3.5,334
+507,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château de la Deidiére,16.8,3.5,334
+508,Malbec Rosé,Malbec Rosé 2021,2021,Mendoza,0,Andeluna,16.88,3.7,278
+509,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château des Sarrins,16.9,3.8,1226
+510,Rosato,Rosato 2022,2022,Ischia,0,Cenatiempo,16.9,3.4,33
+511,Watusi Camargue,Watusi Camargue 2021,2021,Sable de Camargue,0,Château Puech-Haut,16.9,4.2,65
+512,Les Terrasses Rosé,Les Terrasses Rosé 2022,2022,Côtes de Provence,0,Domaine de la Courtade,16.9,3.9,615
+513,UP Rosé,UP Rosé 2022,2022,Côtes de Provence,0,Ultimate Provence,16.95,4.1,5529
+514,Château Favori,Château Favori 2022,2022,Coteaux Varois en Provence,0,Favori,16.95,4.2,1220
+515,Onde Bio,Onde Bio 2022,2022,Lazio,0,De Sanctis,16.98,3.8,73
+516,Domaine de Villemajou Corbières Rosé,Domaine de Villemajou Corbières Rosé 2021,2021,Corbières,0,Château de Villemajou,17.0,3.8,544
+517,Ghenè,Ghenè 2019,2019,Vigneti delle Dolomiti,0,Castel Noarna,17.08,3.6,46
+518,Rosé,Rosé 2022,2022,Südtirol - Alto Adige,0,Popphof,17.08,3.8,63
+519,PG Rosa,PG Rosa 2021,2021,Friuli-Venezia Giulia,0,Ferlat,17.38,3.9,205
+520,Rosa Spinola Monferrato Chiaretto,Rosa Spinola Monferrato Chiaretto 2018,2018,Monferrato,0,Castello di Tassarolo,17.38,3.7,54
+521,Borgeri Rosato,Borgeri Rosato 2022,2022,Bolgheri,0,Giorgio Meletti Cavallari,17.38,3.7,357
+522,Sancerre Rosé,Sancerre Rosé 2022,2022,Sancerre,0,J. de Villebois,17.45,4.1,87
+523,Sancerre Rosé 'Les Belles Vignes',Sancerre Rosé 'Les Belles Vignes' 2022,2022,Sancerre,0,Domaine Fournier Père et Fils,17.45,4.0,158
+524,Sancerre Rosé,Sancerre Rosé 2020,2020,Sancerre,0,J. de Villebois,17.45,4.1,87
+525,Testarossa Terre Aquilane Rosato,Testarossa Terre Aquilane Rosato 2022,2022,Abruzzo,0,Pasetti,17.47,3.8,1456
+526,L'Aura Schiava Gentile,L'Aura Schiava Gentile 2022,2022,Ronchi di Brescia,0,Noventa,17.48,3.6,100
+527,Cuvée Lampe de Méduse Côtes de Provence Rosé,Cuvée Lampe de Méduse Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château Sainte Roseline,17.5,3.9,4299
+528,Tradition Côtes de Provence Rosé,Tradition Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine Sainte Marie,17.5,3.9,1340
+529,Domaine de la Nartette Rosé,Domaine de la Nartette Rosé 2021,2021,Bandol,0,Moulin de la Roque,17.5,3.9,99
+530,Patrimonio Rosé,Patrimonio Rosé 2022,2022,Patrimonio,0,Clos Teddi,17.5,3.8,249
+531,Roseblood d'Estoublon,Roseblood d'Estoublon 2022,2022,Méditerranée,0,Château d'Estoublon,17.5,4.0,624
+532,Terres de Berne Rosé,Terres de Berne Rosé 2022,2022,Côtes de Provence,0,Château de Berne,17.5,3.9,5125
+533,Pétale de Rosé,Pétale de Rosé 2022,2022,Côtes de Provence,0,Château La Tour de l'Évêque,17.5,3.9,3025
+534,Premium Rosé Côtes de Provence (Cru Classé),Premium Rosé Côtes de Provence (Cru Classé) 2021,2021,Côtes de Provence,0,Château Roubine,17.5,3.9,578
+535,Bio Cotes de Provence Rosé,Bio Cotes de Provence Rosé 2021,2021,Côtes de Provence,0,Château Les Valentines,17.5,3.8,2608
+536,Dilante Rosato,Dilante Rosato 2019,2019,Veneto,0,Maeli,17.58,3.6,98
+537,Sancerre Rosé,Sancerre Rosé 2022,2022,Het Loiredal,0,Gerard Fiou,17.6,4.0,87
+538,White Rosé,White Rosé 2022,2022,Côtes de Provence,0,Domaine Tropez,17.6,3.9,776
+539,Le Grand Huit Bio Rosé,Le Grand Huit Bio Rosé 2022,2022,La Londe,0,Château Les Valentines,17.7,3.9,268
+540,Rosamara (Valtenesi Chiaretto),Rosamara (Valtenesi Chiaretto) 2022,2022,Lombardije,0,Costaripa,17.78,3.9,4808
+541,Sancerre Rosé,Sancerre Rosé 2019,2019,Sancerre,0,Florian Mollet - Domaine Roc de L'Abbaye,17.8,3.8,46
+542,Sancerre Rosé,Sancerre Rosé 2020,2020,Sancerre,0,Florian Mollet - Domaine Roc de L'Abbaye,17.8,3.8,46
+543,Sancerre Rosé,Sancerre Rosé 2021,2021,Sancerre,0,Florian Mollet - Domaine Roc de L'Abbaye,17.8,3.8,46
+544,Domaine de Bachen La Dune,Domaine de Bachen La Dune 2022,2022,Gascogne,0,Château de Bachen,17.9,4.1,249
+545,By.Ott Rosé,By.Ott Rosé 2022,2022,Côtes de Provence,0,Domaines Ott,17.9,4.0,13228
+546,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Pieracci,17.9,3.9,126
+547,Sancerre Rosé,Sancerre Rosé 2020,2020,Sancerre,0,Château de Sancerre,17.95,3.5,35
+548,Grande Cuvée Rosé Côtes de Provence,Grande Cuvée Rosé Côtes de Provence 2022,2022,Côtes de Provence,0,Chateau Réal Martin,17.95,4.0,153
+549,Vallon des Anges Rosé,Vallon des Anges Rosé 2021,2021,Coteaux d'Aix-en-Provence,0,Domaine de Valdition,17.95,4.0,92
+550,Etna Rosato,Etna Rosato 2017,2017,De Etna,0,Graci,17.98,3.9,1135
+551,Rosé,Rosé 2021,2021,Sicilia,0,Serra Ferdinandea,18.1,3.9,49
+552,Corse Sartène Rosé,Corse Sartène Rosé 2020,2020,Corsica,0,Castellu di Baricci,18.2,4.0,43
+553,Le Petit Chaperon Rouge Pic-Saint-Loup Rosé,Le Petit Chaperon Rouge Pic-Saint-Loup Rosé 2021,2021,Pic-Saint-Loup,0,Domaine Garoloup,18.31,3.6,256
+554,Studio,Studio 2021,2021,Côtes de Provence,0,Miraval,18.4,3.8,10331
+555,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Miraval,18.4,4.0,48211
+556,Rosé,Rosé 2019,2019,Nagy-Somló,0,Abeles,18.46,3.8,38
+557,Prestige Rosé,Prestige Rosé 2022,2022,Côtes de Provence,0,Minuty,18.49,4.0,10226
+558,Prestige Rosé,Prestige Rosé 2021,2021,Côtes de Provence,0,Minuty,18.5,4.0,10226
+559,Cuvée F Cassis,Cuvée F Cassis 2022,2022,cassis,0,Château de Fontcreuse,18.5,3.9,326
+560,Whispering Angel Rosé,Whispering Angel Rosé 2022,2022,Côtes de Provence,0,Château d'Esclans,18.5,4.1,76256
+561,Selección Rosé,Selección Rosé 2021,2021,Mendoza,0,El Hijo Prodigo,18.58,3.6,36
+562,Bandol Rosé,Bandol Rosé 2021,2021,Bandol,0,Château Pradeaux,18.6,4.0,852
+563,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Miraval,18.75,4.0,48211
+564,Whispering Angel Rosé,Whispering Angel Rosé 2021,2021,Côtes de Provence,0,Château d'Esclans,18.8,4.1,76256
+565,Rosé,Rosé 2021,2021,De Palts,0,Dr. Bürklin-Wolf,18.88,3.9,187
+566,Ocarina,Ocarina 2021,2021,Vin de France,0,Domaine les Arabesques,18.9,4.2,217
+567,Lirac Rosé,Lirac Rosé 2022,2022,Lirac,0,Romain Le Bars Vigneron,18.9,3.9,91
+568,Bandol Rosé,Bandol Rosé 2022,2022,Bandol,0,Domaine de la Tour du Bon,18.9,3.9,1572
+569,Sancerre Rosé,Sancerre Rosé 2019,2019,Sancerre,0,Domaine Fouassier,18.9,4.2,67
+570,Provence Rosé,Provence Rosé 2021,2021,Côtes de Provence,0,La Mascaronne,18.95,4.1,1390
+571,Gabriella,Gabriella 2021,2021,Trentino-Zuid-Tirol,0,Cantina Romanese,18.98,3.8,44
+572,Gemma,Gemma 2021,2021,Trentino-Zuid-Tirol,0,San Leonardo,18.98,3.8,72
+573,Le Rouge et Le Blanc,Le Rouge et Le Blanc 2021,2021,Vin de France,0,Domaine Hors Champ,19.0,4.0,168
+574,Patrimonio e Croce Rosé,Patrimonio e Croce Rosé 2019,2019,Patrimonio,0,Yves Leccia,19.0,3.8,452
+575,Etna Rosato,Etna Rosato 2022,2022,De Etna,0,Graci,19.07,3.9,1135
+576,Inspiration Rosé,Inspiration Rosé 2021,2021,Côtes de Provence,0,Château de Berne,19.17,3.9,3951
+577,Heritage Côtes de Provence Rosé,Heritage Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Maïme,19.17,3.9,148
+578,Bellet Rosé,Bellet Rosé 2022,2022,Bellet,0,Domaine de Toasc,19.2,4.0,345
+579,Eōs Rosato,Eōs Rosato 2020,2020,Montenetto di Brescia,0,Pratum Coller,19.28,4.0,46
+580,Ligrezza,Ligrezza 2019,2019,Calabrië,0,Terre di Balbia,19.28,4.1,78
+581,Eōs Rosato,Eōs Rosato 2019,2019,Montenetto di Brescia,0,Pratum Coller,19.28,4.0,46
+582,Le Papesse,Le Papesse 2021,2021,Maremma Toscana,0,Tenuta dell'Argentaia,19.28,3.8,42
+583,Rosé,Rosé 2022,2022,Gard,0,Roc d'Anglade,19.5,4.0,225
+584,Cassis Rosé,Cassis Rosé 2022,2022,cassis,0,Dona Tigana,19.5,3.9,300
+585,Eternelle Favorite Rosé,Eternelle Favorite Rosé 2022,2022,Côtes de Provence,0,Château de Saint Martin,19.5,4.1,997
+586,Saint-Drézéry Tête de Bélier Rosé,Saint-Drézéry Tête de Bélier Rosé 2021,2021,Saint-Drézéry,0,Château Puech-Haut,19.5,4.1,343
+587,Pitchou Coteaux Varois en Provence Rosé,Pitchou Coteaux Varois en Provence Rosé 2022,2022,Coteaux Varois en Provence,0,Château Carpe Diem,19.596666666666668,3.4,25
+588,Saint-Drézéry Tête de Bélier Rosé,Saint-Drézéry Tête de Bélier Rosé 2022,2022,Saint-Drézéry,0,Château Puech-Haut,19.7,4.1,343
+589,L'audacieuse Rosé,L'audacieuse Rosé 2021,2021,Ardèche,0,Château de la Selve,19.8,4.0,425
+590,Esprit Gassier,Esprit Gassier 2022,2022,Côtes de Provence,0,Château Gassier,19.8,3.9,3913
+591,Tavel Rosé,Tavel Rosé 2022,2022,Tavel,0,Romain Le Bars Vigneron,19.8,4.0,401
+592,Theyron Rosé,Theyron Rosé 2022,2022,Pays d'Oc,0,Château Puech-Haut,19.8,4.0,111
+593,Cuvée Prestige Côtes de Provence Rosé,Cuvée Prestige Côtes de Provence Rosé 2019,2019,Côtes de Provence,0,Domaine de Saint Ser,19.9,3.8,2106
+594,Bois de Rosé Les Baux de Provence,Bois de Rosé Les Baux de Provence 2021,2021,Les Baux-de-Provence,0,Mas de la Dame,19.9,4.0,207
+595,Symphonie Côtes de Provence Rosé,Symphonie Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Sainte Marguerite,20.0,4.2,2115
+596,Symphonie Côtes de Provence Rosé,Symphonie Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château Sainte Marguerite,20.29,4.2,2115
+597,Grayasusi Etichetta Rame Rosato,Grayasusi Etichetta Rame Rosato 2022,2022,Val di Neto,0,Ceraudo,20.48,3.9,265
+598,Faustine Vieilles Vignes Rosé,Faustine Vieilles Vignes Rosé 2022,2022,Corsica,0,Abbatucci,20.9,3.9,176
+599,Bandol Rosé,Bandol Rosé 2022,2022,Bandol,0,La Bastide Blanche,20.9,3.8,3562
+600,Origine Sancerre Rosé,Origine Sancerre Rosé 2022,2022,Sancerre,0,Matthias et Emile Roblin,21.0,3.8,55
+601,Langhe Rosato,Langhe Rosato 2021,2021,Langhe,0,Oddero,21.38,3.7,46
+602,Rosato di Ampeleia,Rosato di Ampeleia 2021,2021,Maremma Toscana,0,Ampeleia,21.45,3.8,355
+603,Langhe Rosato,Langhe Rosato 2022,2022,Langhe,0,Oddero,21.5,3.7,46
+604,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine de I'Ile,21.5,4.0,774
+605,Le Grand Huit Bio Rosé,Le Grand Huit Bio Rosé 2021,2021,La Londe,0,Château Les Valentines,21.5,3.9,268
+606,Côtes de Provence Rosé,Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Domaine de Tamary,21.58,3.7,1088
+607,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Domaine de Tamary,21.58,3.7,1088
+608,Sul Vulcano Etna Rosato,Sul Vulcano Etna Rosato 2021,2021,De Etna,0,Donnafugata,21.65,3.9,708
+609,Rosé,Rosé 2020,2020,Pays d'Oc,0,French Bulldog,21.7,4.0,26
+610,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château des Bertrands,21.78,4.0,216
+611,Rosé,Rosé 2020,2020,Gard,0,Roc d'Anglade,21.8,4.0,225
+612,Bandol Rosé,Bandol Rosé 2022,2022,Bandol,0,Château Salettes,21.8,3.9,460
+613,Palette Rosé,Palette Rosé 2022,2022,Palette,0,Château Henri Bonnaud,21.9,4.0,405
+614,Diamond Collection Rosé,Diamond Collection Rosé 2020,2020,Californië,0,Francis Ford Coppola Winery,21.9,3.8,249
+615,La Closerie Rosé,La Closerie Rosé 2020,2020,Pic-Saint-Loup,0,Château Lavabre,22.0,4.0,35
+616,Diamante Rosé,Diamante Rosé 2022,2022,Benaco Bresciano,0,Comincioli,22.58,4.0,691
+617,Troiabomb,Troiabomb 2019,2019,Puglia,0,Progetto Calcarius,22.77,3.8,204
+618,Les Domaniers Rosé,Les Domaniers Rosé 2022,2022,Côtes de Provence,0,Domaines Ott,22.88,3.8,2197
+619,Le Petit Clos Corse Figari Rosé,Le Petit Clos Corse Figari Rosé 2022,2022,Corse Figari,0,Clos Canarelli,22.9,3.7,39
+620,Rosé,Rosé 2020,2020,Ajaccio,0,Domaine de Vaccelli,22.9,4.1,193
+621,Rosé à La Rose,Rosé à La Rose 2022,2022,Côtes de Provence,0,Elie Sumeire,23.5,3.5,786
+622,Bandol Rosé,Bandol Rosé 2021,2021,Bandol,0,Domaine de la Bégude,23.9,3.8,815
+623,Sofia Rosé,Sofia Rosé 2018,2018,Monterey County,0,Francis Ford Coppola Winery,23.9,3.7,7084
+624,Cerasuolo d'Abruzzo Superiore,Cerasuolo d'Abruzzo Superiore 2020,2020,Cerasuolo d'Abruzzo,0,Inalto,23.98,4.0,30
+625,Tibouren Tradition Rosé,Tibouren Tradition Rosé 2021,2021,Côtes de Provence,0,Clos Cibonne,24.0,4.2,4380
+626,Sul Vulcano Etna Rosato,Sul Vulcano Etna Rosato 2020,2020,De Etna,0,Donnafugata,24.0,3.9,708
+627,Alnus Etna Rosato,Alnus Etna Rosato 2022,2022,De Etna,0,I Custodi,24.2,3.7,326
+628,Vox Ventoux Rosé,Vox Ventoux Rosé 2021,2021,Ventoux,0,Via Caritatis,24.456666666666667,3.8,143
+629,Kotzner Merlot Kretzer,Kotzner Merlot Kretzer 2020,2020,Trentino-Zuid-Tirol,0,Armin Kobler,24.48,3.7,86
+630,Kotzner Merlot Kretzer,Kotzner Merlot Kretzer 2021,2021,Trentino-Zuid-Tirol,0,Armin Kobler,24.58,3.7,86
+631,Toscana Rosato,Toscana Rosato 2020,2020,Toscane,0,Le Ragnaie,24.8,4.0,65
+632,Pétale de Rosé,Pétale de Rosé 2021,2021,Côtes de Provence,0,Château La Tour de l'Évêque,24.88,3.9,3025
+633,Terroir du Trias Delille Vigneron Bandol Rosé,Terroir du Trias Delille Vigneron Bandol Rosé 2022,2022,Bandol,0,Domaine de Terrebrune,24.9,4.1,1249
+634,Les Fenouils Côtes de Provence,Les Fenouils Côtes de Provence 2020,2020,Côtes de Provence,0,Domaine de Jale,24.9,3.9,363
+635,Côtes de Provence Rosé,Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château La Tour de l'Évêque,24.9,3.8,1940
+636,Château Romassan Rosé (Coeur de Grain),Château Romassan Rosé (Coeur de Grain) 2021,2021,Bandol,0,Domaines Ott,24.95,4.2,6735
+637,B-Side Rosé,B-Side Rosé 2021,2021,Toscane,0,Lenzini,24.98,3.6,71
+638,Rosé,Rosé 2021,2021,Vin de France,0,La Belle Angèle,25.0,3.6,2563
+639,Rose et Or,Rose et Or 2022,2022,Côtes de Provence,0,Minuty,25.0,4.3,8458
+640,Rosé,Rosé 2022,2022,Pays d'Oc,0,Hampton Water,25.0,4.0,7055
+641,Lucky Lady,Lucky Lady 2020,2020,Paarl,0,Ridgeback,25.28,3.7,35
+642,Cuvée R Côtes de Provence Rosé,Cuvée R Côtes de Provence Rosé 2022,2022,Côtes de Provence,0,Château Roubine,25.5,3.8,1249
+643,Bandol Rosé,Bandol Rosé 2022,2022,Bandol,0,Château Vannières,25.95,3.9,846
+644,Bandol l'Irreductible Rosé,Bandol l'Irreductible Rosé 2019,2019,Bandol,0,Domaine de la Bégude,26.0,3.9,466
+645,Pétale de Rosé,Pétale de Rosé 2022,2022,Côtes de Provence,0,Château Barbeyrolles,26.3,4.2,1184
+646,La Chapelle de Sainte Roseline Côtes de Provence Rosé,La Chapelle de Sainte Roseline Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Château Sainte Roseline,26.4,4.1,251
+647,Les Vignes Métissées,Les Vignes Métissées 2022,2022,Côtes du Roussillon,0,Le Roc des Anges,26.5,4.2,173
+648,Rose et Or,Rose et Or 2021,2021,Côtes de Provence,0,Minuty,26.7,4.3,8458
+649,Aurélia Rosé,Aurélia Rosé 2020,2020,Côtes de Provence,0,Le Grand Cros,26.95,3.8,81
+650,Rosato,Rosato 2018,2018,De Etna,0,Crasà - SRC,26.98,3.7,221
+651,60 Sessantanni Rosé,60 Sessantanni Rosé 2021,2021,Salento,0,San Marzano,26.98,4.1,65
+652,Tibouren Tradition Rosé,Tibouren Tradition Rosé 2020,2020,Côtes de Provence,0,Clos Cibonne,27.0,4.2,4380
+653,Le Rosé x Giscours,Le Rosé x Giscours 2021,2021,Bordeaux,0,Château Giscours,27.0,3.6,674
+654,Cuvée Madeleine Rosé,Cuvée Madeleine Rosé 2021,2021,Côtes du Rhône,0,Maison Rivier,27.6,4.1,30
+655,Sancerre Les Baronnes Rosé,Sancerre Les Baronnes Rosé 2022,2022,Sancerre,0,Henri Bourgeois,27.8,3.9,1908
+656,Excellence Grenache Rosé,Excellence Grenache Rosé 2021,2021,Pays d'Oc,0,Vignerons de la Méditerranée,27.9,3.5,276
+657,Sofia Rosé,Sofia Rosé 2017,2017,Monterey County,0,Francis Ford Coppola Winery,27.9,3.7,7084
+658,Château Romassan Rosé (Coeur de Grain),Château Romassan Rosé (Coeur de Grain) 2020,2020,Bandol,0,Domaines Ott,27.9,4.2,6735
+659,Signature Rosé,Signature Rosé 2021,2021,Provence,0,Château Pigoudet,27.95,4.3,139
+660,Etna Rosato,Etna Rosato 2019,2019,De Etna,0,Tenuta delle Terre Nere,28.48,3.9,2525
+661,Dolce & Gabbana Rosa,Dolce & Gabbana Rosa 2020,2020,Sicilia,0,Donnafugata,28.5,4.2,1075
+662,Collequinto Rosato,Collequinto Rosato 2022,2022,Tintilia del molise,0,Claudio Cipressi,28.6,3.7,157
+663,Rock Angel Rosé,Rock Angel Rosé 2020,2020,Côtes de Provence,0,Château d'Esclans,28.8,4.2,6103
+664,Valle di Nero Rosé,Valle di Nero Rosé 2020,2020,Vin de France,0,Abbatucci,28.9,4.0,32
+665,Bandol Rosé,Bandol Rosé 2022,2022,Bandol,0,Domaine Tempier,28.9,4.2,6253
+666,Grayasusi Etichetta Argento Rosato,Grayasusi Etichetta Argento Rosato 2022,2022,Val di Neto,0,Ceraudo,29.08,4.0,761
+667,Magia di Rosa,Magia di Rosa 2022,2022,Colline di Levanto,0,Cà du Ferrà,29.28,3.9,44
+668,Fantastique Rosé,Fantastique Rosé 2022,2022,Côtes de Provence,0,Château Sainte Marguerite,29.5,4.3,274
+669,Château de Selle Rosé (Coeur de Grain),Château de Selle Rosé (Coeur de Grain) 2021,2021,Côtes de Provence,0,Domaines Ott,29.6,4.3,6398
+670,Etna Rosato,Etna Rosato 2022,2022,De Etna,0,Girolamo Russo,29.7,3.9,1191
+671,Cuvée Prestige Caroline Rosé,Cuvée Prestige Caroline Rosé 2021,2021,Côtes de Provence,0,Clos Cibonne,29.9,4.2,855
+672,Château Romassan Rosé (Coeur de Grain),Château Romassan Rosé (Coeur de Grain) 2022,2022,Bandol,0,Domaines Ott,29.9,4.2,6735
+673,Le Rosé x Giscours,Le Rosé x Giscours 2022,2022,Bordeaux,0,Château Giscours,29.9,3.6,674
+674,Fantastique Rosé,Fantastique Rosé 2021,2021,Côtes de Provence,0,Château Sainte Marguerite,29.95,4.3,274
+675,Sancerre Grande Cuvée Rosé,Sancerre Grande Cuvée Rosé 2022,2022,Sancerre,0,Comte Lafond,30.9,4.2,81
+676,Rosé,Rosé 2020,2020,Côtes de Provence,0,Château d'Esclans,31.25,4.1,2567
+677,Rosé,Rosé 2021,2021,Côtes de Provence,0,Château d'Esclans,31.3,4.1,2567
+678,Etna Rosato,Etna Rosato 2021,2021,De Etna,0,Tenuta delle Terre Nere,31.5,3.9,2525
+679,La Chapelle Rosé,La Chapelle Rosé 2018,2018,Bellet,0,Château de Bellet,32.0,3.7,78
+680,Corail Côtes du Jura,Corail Côtes du Jura 2017,2017,Côtes du Jura,0,Château d'Arlay,32.78,3.8,1158
+681,Bandol Rosé,Bandol Rosé 2021,2021,Bandol,0,Domaine Tempier,32.95,4.2,6253
+682,Cuvée des Commandeurs Côtes de Provence Rosé,Cuvée des Commandeurs Côtes de Provence Rosé 2021,2021,Côtes de Provence,0,Peyrassol,33.18,4.0,3686
+683,Florence Pinotage Rosé,Florence Pinotage Rosé 2020,2020,Stellenbosch,0,Aaldering,33.98,3.9,145
+684,Dolce & Gabbana Rosa,Dolce & Gabbana Rosa 2022,2022,Sicilia,0,Donnafugata,33.98,4.2,1075
+685,Pinot Rosé,Pinot Rosé 2022,2022,Südtirol - Alto Adige,0,Stroblhof,34.1,3.6,83
+686,Susucaru Rosato,Susucaru Rosato 2022,2022,Terre Siciliane,0,Frank Cornelissen,34.88,4.1,9926
+687,Cuvée Prestige Caroline Rosé,Cuvée Prestige Caroline Rosé 2020,2020,Côtes de Provence,0,Clos Cibonne,35.0,4.2,855
+688,Cuvée du Bȃtonnier,Cuvée du Bȃtonnier 2021,2021,Alpilles,0,Domaine de Valdition,35.4,4.0,276
+689,Molmenti,Molmenti 2018,2018,Lombardije,0,Costaripa,35.78,4.1,458
+690,Château de Selle Rosé (Coeur de Grain),Château de Selle Rosé (Coeur de Grain) 2022,2022,Côtes de Provence,0,Domaines Ott,35.9,4.3,6398
+691,Fieno di Ponza Rosato,Fieno di Ponza Rosato 2022,2022,Lazio,0,Antiche Cantine Migliaccio,35.9,4.0,66
+692,Rosé de Gimios,Rosé de Gimios 2019,2019,Vin de France,0,Le Petit Domaine de Gimios,38.58,4.2,410
+693,Sancerre Rosé,Sancerre Rosé 2022,2022,Sancerre,0,Pascal Jolivet,38.9,4.1,1586
+694,Bandol Rosé,Bandol Rosé 2015,2015,Bandol,0,Domaine de la Tour du Bon,39.0,3.9,1572
+695,Palette Rose,Palette Rose 2021,2021,Palette,0,Château Simone,39.0,4.2,1273
+696,Aqua di Venus Toscana,Aqua di Venus Toscana 2021,2021,Toscane,0,Ruffino,39.5,3.9,1056
+697,Etna Rosato,Etna Rosato 2019,2019,De Etna,0,Graci,40.38,3.9,1135
+698,Pétale de Rosé,Pétale de Rosé 2019,2019,Côtes de Provence,0,Château Barbeyrolles,40.48,4.2,1184
+699,Pétale de Rosé,Pétale de Rosé 2020,2020,Côtes de Provence,0,Château Barbeyrolles,40.98,4.2,1184
+700,Vinudilice,Vinudilice 2020,2020,De Etna,0,I Vigneri,41.98,3.9,555
+701,281,281 2021,2021,Côtes de Provence,0,Minuty,42.0,4.4,2079
+702,Pétale de Rosé,Pétale de Rosé 2021,2021,Côtes de Provence,0,Château Barbeyrolles,42.08,4.2,1184
+703,Vina Pilar Clarete,Vina Pilar Clarete 2020,2020,Ribera del Duero,0,Callejo,42.68,3.9,43
+704,Molmenti,Molmenti 2017,2017,Lombardije,0,Costaripa,42.9,4.1,458
+705,Molmenti,Molmenti 2016,2016,Lombardije,0,Costaripa,42.9,4.1,458
+706,Vinudilice,Vinudilice 2022,2022,De Etna,0,I Vigneri,42.9,3.9,555
+707,Roc d'Aubaga Rosé,Roc d'Aubaga Rosé 2016,2016,Priorat,0,Terroir Al Límit Soc. Lda,43.1,4.0,181
+708,281,281 2022,2022,Côtes de Provence,0,Minuty,44.95,4.4,2079
+709,Spätburgunder Rosé,Spätburgunder Rosé 2019,2019,Baden,0,Enderle & Moll,48.3,3.9,449
+710,Rosé,Rosé 2019,2019,Pic-Saint-Loup,0,Ermitage du Pic Saint Loup,48.9,3.9,204
+711,La Villa Rosé,La Villa Rosé 2021,2021,Languedoc,0,Château La Sauvageonne,55.0,4.4,407
+712,Le Rosé x Giscours,Le Rosé x Giscours 2019,2019,Bordeaux,0,Château Giscours,56.0,3.6,674
+713,Côtes de Provence Rosé (Cru Classé),Côtes de Provence Rosé (Cru Classé) 2021,2021,Côtes de Provence,0,Château du Galoupet,57.0,3.8,1844
+714,Rosantico,Rosantico 2016,2016,Venezia Giulia,0,Bressan,67.3,4.1,284
+715,Le Rosé x Giscours,Le Rosé x Giscours 2018,2018,Bordeaux,0,Château Giscours,70.0,3.6,674
+716,Le Rosé x Giscours,Le Rosé x Giscours 2017,2017,Bordeaux,0,Château Giscours,70.0,3.6,674
+717,Le Rosé x Giscours,Le Rosé x Giscours 2016,2016,Bordeaux,0,Château Giscours,75.5,3.6,674
+718,Tavel,Tavel 2020,2020,Tavel,0,L'Anglore - Eric Pfifferling,122.4,4.2,2258
+719,Tavel,Tavel 2021,2021,Tavel,0,L'Anglore - Eric Pfifferling,128.9,4.2,2258
+720,Languedoc Cabrières,Languedoc Cabrières 2019,2019,Languedoc,0,Clos du Temple,189.0,4.5,543
+721,Languedoc Cabrières,Languedoc Cabrières 2020,2020,Languedoc,0,Clos du Temple,219.0,4.5,543
+722,Languedoc Cabrières,Languedoc Cabrières 2021,2021,Languedoc,0,Clos du Temple,219.0,4.5,543
+723,Tavel,Tavel 2019,2019,Tavel,0,L'Anglore - Eric Pfifferling,345.4,4.2,2258
+724,Le Prélat de Pape Clément Bordeaux Rosé,Le Prélat de Pape Clément Bordeaux Rosé 1993,1993,Bordeaux,0,Château Pape Clément,72.0,4.1,71
+725,Le Rosé x Giscours,Le Rosé x Giscours 2016,2016,Bordeaux,0,Château Giscours,75.5,3.6,674
+726,Tavel,Tavel 2020,2020,Tavel,0,L'Anglore - Eric Pfifferling,122.4,4.2,2258
+727,Tavel,Tavel 2021,2021,Tavel,0,L'Anglore - Eric Pfifferling,128.9,4.2,2258
+728,Languedoc Cabrières,Languedoc Cabrières 2019,2019,Languedoc,0,Clos du Temple,189.0,4.5,543
+729,Languedoc Cabrières,Languedoc Cabrières 2020,2020,Languedoc,0,Clos du Temple,219.0,4.5,543
+730,Languedoc Cabrières,Languedoc Cabrières 2021,2021,Languedoc,0,Clos du Temple,219.0,4.5,543
+731,Tavel,Tavel 2019,2019,Tavel,0,L'Anglore - Eric Pfifferling,345.4,4.2,2258
+732,Le Prélat de Pape Clément Bordeaux Rosé,Le Prélat de Pape Clément Bordeaux Rosé 1985,1985,Bordeaux,0,Château Pape Clément,106.8,4.1,71
+733,Chinon Rosé,Chinon Rosé 2017,2017,Chinon,0,Château de la Grille,75.6,4.0,584
+734,The Manga Girl Rosé of Pinot Noir,The Manga Girl Rosé of Pinot Noir 2020,2020,Santa Barbara County,0,Paul Lato,82.860958,4.1,85
+735,Le Rosé x Giscours,Le Rosé x Giscours 2000,2000,Bordeaux,0,Château Giscours,139.0,3.6,674
+736,Garrus Rosé,Garrus Rosé 2021,2021,Côtes de Provence,0,Château d'Esclans,98.0,4.5,3483
+737,Rosalie Rosé,Rosalie Rosé 2020,2020,Côtes de Provence,0,Figuière,113.3,3.8,604
+738,Garrus Rosé,Garrus Rosé 2011,2011,Côtes de Provence,0,Château d'Esclans,252.0,4.5,3483
+739,Garrus Rosé,Garrus Rosé 2017,2017,Côtes de Provence,0,Château d'Esclans,99.0,4.5,3483
+740,Tavel,Tavel 2015,2015,Tavel,0,L'Anglore - Eric Pfifferling,90.0,4.2,2258
+741,Bandol,Bandol 2012,2012,Bandol,0,Fine Fleur,89.95,3.2,251
+742,Cuvée Isidora Rosé,Cuvée Isidora Rosé 2021,2021,Ardèche,0,Mas d'Intras,74.4,3.7,139
+743,Garrus Rosé,Garrus Rosé 2014,2014,Côtes de Provence,0,Château d'Esclans,108.0,4.5,3483
+744,Garrus Rosé,Garrus Rosé 2019,2019,Côtes de Provence,0,Château d'Esclans,96.0,4.5,3483
+745,Château de Selle Rosé (Coeur de Grain),Château de Selle Rosé (Coeur de Grain) 2020,2020,Côtes de Provence,0,Domaines Ott,79.0,4.3,6398
+746,Le Prélat de Pape Clément Bordeaux Rosé,Le Prélat de Pape Clément Bordeaux Rosé 1970,1970,Bordeaux,0,Château Pape Clément,108.0,4.1,71
+747,Le Prélat de Pape Clément Bordeaux Rosé,Le Prélat de Pape Clément Bordeaux Rosé 1980,1980,Bordeaux,0,Château Pape Clément,90.0,4.1,71
+748,Le Prélat de Pape Clément Bordeaux Rosé,Le Prélat de Pape Clément Bordeaux Rosé 1986,1986,Bordeaux,0,Château Pape Clément,108.0,4.1,71
+749,Tavel,Tavel 2016,2016,Tavel,0,L'Anglore - Eric Pfifferling,150.0,4.2,2258
+750,Languedoc Cabrières,Languedoc Cabrières 2019,2019,Languedoc,0,Clos du Temple,189.0,4.5,543
+751,Languedoc Cabrières,Languedoc Cabrières 2020,2020,Languedoc,0,Clos du Temple,219.0,4.5,543
+752,Languedoc Cabrières,Languedoc Cabrières 2021,2021,Languedoc,0,Clos du Temple,219.0,4.5,543
+753,Tavel,Tavel 2019,2019,Tavel,0,L'Anglore - Eric Pfifferling,345.4,4.2,2258
+754,Garrus Rosé,Garrus Rosé 2011,2011,Côtes de Provence,0,Château d'Esclans,252.0,4.5,3483
+755,La Rosée de Citran Bordeaux,La Rosée de Citran Bordeaux 2021,2021,Bordeaux,0,Château Citran,207.36,3.4,191
+756,Muse de Miraval,Muse de Miraval 2022,2022,Côtes de Provence,0,Miraval,240.0,4.4,170
+757,Muse de Miraval,Muse de Miraval 2021,2021,Côtes de Provence,0,Miraval,223.25,4.4,170
+758,Tavel,Tavel 2019,2019,Tavel,0,L'Anglore - Eric Pfifferling,345.4,4.2,2258
+759,Garrus Rosé,Garrus Rosé 2011,2011,Côtes de Provence,0,Château d'Esclans,252.0,4.5,3483
+760,Muse de Miraval,Muse de Miraval 2022,2022,Côtes de Provence,0,Miraval,240.0,4.4,170
+761,Tavel,Tavel 2019,2019,Tavel,0,L'Anglore - Eric Pfifferling,345.4,4.2,2258
+762,Garrus Rosé,Garrus Rosé 2011,2011,Côtes de Provence,0,Château d'Esclans,252.0,4.5,3483
+763,Tavel,Tavel 2019,2019,Tavel,0,L'Anglore - Eric Pfifferling,345.4,4.2,2258
