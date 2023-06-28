@@ -59,7 +59,8 @@ if __name__ == "__main__":
                 # "page": x,
                 "price_range_max": "500",
                 "price_range_min": min_price,
-                "wine_type_ids[]": "2",
+                # "wine_type_ids[]": "1",    # red
+                # "wine_type_ids[]": "2",    # red
             },
             headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0"
@@ -81,7 +82,8 @@ if __name__ == "__main__":
                 t["vintage"]["wine"]["winery"]["name"],
                 t["price"]["amount"],
                 t["vintage"]["statistics"]["wine_ratings_average"],
-                t["vintage"]["statistics"]["wine_ratings_count"]
+                t["vintage"]["statistics"]["wine_ratings_count"],
+                t["vintage"]["wine"]["region"]["country"]["native_name"]
                 # t["vintage"]["wine"]["taste"]["structure"]["acidity"] == NULL
                 # t["vintage"]["wine"]["taste"]["structure"]["fizziness"],
                 # t["vintage"]["wine"]["taste"]["structure"]["intensity"],
