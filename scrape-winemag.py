@@ -29,7 +29,7 @@ if __name__ == "__main__":
         "no. ratings",
     ]
     wine_df = pd.DataFrame(columns=wine_cols)
-    # min_price = str(0)  # 0 red
+    min_price = str(0)  # 0 red
     # min_price = str(15.41) # 1 red
     # min_price = str(24.91) # 2 red
     # min_price = str(40.96) # 3 red
@@ -41,7 +41,7 @@ if __name__ == "__main__":
     # min_price = str(41.76)  # 2 white
 
     # min_price = str(0) # 0 rose
-    min_price = str(345.41)  # 1 rose
+    # min_price = str(345.41)  # 1 rose
 
     # try_name = "1"
 
@@ -59,7 +59,7 @@ if __name__ == "__main__":
                 # "page": x,
                 "price_range_max": "500",
                 "price_range_min": min_price,
-                "wine_type_ids[]": "4",
+                "wine_type_ids[]": "2",
             },
             headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0"
@@ -82,7 +82,7 @@ if __name__ == "__main__":
                 t["price"]["amount"],
                 t["vintage"]["statistics"]["wine_ratings_average"],
                 t["vintage"]["statistics"]["wine_ratings_count"]
-                # t["vintage"]["wine"]["taste"]["structure"]["acidity"],
+                # t["vintage"]["wine"]["taste"]["structure"]["acidity"] == NULL
                 # t["vintage"]["wine"]["taste"]["structure"]["fizziness"],
                 # t["vintage"]["wine"]["taste"]["structure"]["intensity"],
                 # t["vintage"]["wine"]["taste"]["structure"]["sweetness"],
@@ -112,7 +112,7 @@ if __name__ == "__main__":
 
         wine_dict = json.loads(json.dumps(r.json()))
 
-        with open("rose1_" + str(x) + ".json", "w") as fp:
+        with open("rose2_" + str(x) + ".json", "w") as fp:
             json.dump(wine_dict, fp, sort_keys=True, indent=4)
 
         # dataframe = pd.DataFrame(results,columns=['Winery','Wine','Rating','num_review', ])
@@ -122,7 +122,7 @@ if __name__ == "__main__":
     # wine_df.to_csv('test.csv')
     # Explore Columns To Include
 
-    wine_df.to_csv("rose1.csv")
+    wine_df.to_csv("rose2.csv")
     print(min_price)
 
     # https://stackoverflow.com/questions/71264253/web-scraping-vivino-using-python
