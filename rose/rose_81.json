@@ -1,0 +1,35 @@
+{
+    "e": "eJzLLbI1VMvNzLM1NjHVMzGwRABztdzECltTAwO15EpbtyC1ZFvX0CC1_KIU28TiZLX8pErbgqLM5FS18pLoWFsTANtgFW0=",
+    "explore_vintage": {
+        "bottle_type_errors": [],
+        "market": {
+            "country": "fr",
+            "currency": {
+                "code": "EUR",
+                "name": "Euros",
+                "prefix": "\u20ac",
+                "suffix": null
+            }
+        },
+        "matches": [],
+        "records": [],
+        "records_matched": 0
+    },
+    "selected_filters": [
+        {
+            "items": [
+                {
+                    "background_image": {
+                        "location": "//images.vivino.com/backgrounds/winetypes/rose.png",
+                        "variations": {
+                            "small": "//images.vivino.com/backgrounds/winetypes/thumbs/rose_932x810.png"
+                        }
+                    },
+                    "id": 4,
+                    "name": "Ros\u00e9 Wijn"
+                }
+            ],
+            "type": "wine_type_ids"
+        }
+    ]
+}

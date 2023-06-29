@@ -1,0 +1,342 @@
+,wine brand name,wine name,year,region,type,winery,price,rating,no. ratings,country
+0,Chablis Grand Cru Vaudésir,Chablis Grand Cru Vaudésir 2018,2018,Chablis Grand Cru,0,Domaine William Fèvre,152.98,4.2,814,France
+1,Kalkofen G.C,Kalkofen G.C 2021,2021,De Palts,0,Dr. Bürklin-Wolf,153.1,4.4,188,Deutschland
+2,Ungeheuer G.C,Ungeheuer G.C 2021,2021,De Palts,0,Dr. Bürklin-Wolf,153.1,4.3,327,Deutschland
+3,Vougeot 1er Cru 'Le Clos Blanc de Vougeot' (Monopole),Vougeot 1er Cru 'Le Clos Blanc de Vougeot' (Monopole) 2020,2020,Vougeot 1er Cru 'Le Clos Blanc',0,Domaine de la Vougeraie,153.5,4.4,2968,France
+4,Vougeot Premier Cru 'Les Crâs' Blanc,Vougeot Premier Cru 'Les Crâs' Blanc 2019,2019,Vougeot 1er Cru 'Les Crâs',0,Domaine Bertagna,154.08,4.3,300,France
+5,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2011,2011,Pessac-Léognan,0,Château Pape Clément,154.44,4.2,1892,France
+6,Le Petit Cheval Bordeaux Blanc,Le Petit Cheval Bordeaux Blanc 2018,2018,Bordeaux,0,Château Cheval Blanc,155.0,4.4,816,France
+7,Vaucluse Blanc,Vaucluse Blanc 2016,2016,Rasteau,0,Domaine Gourt de Mautens,155.0,4.2,362,France
+8,Meursault 1er Cru 'Charmes',Meursault 1er Cru 'Charmes' 2018,2018,Meursault 1er Cru 'Charmes',0,Henri Germain & Fils,155.0,4.3,520,France
+9,Ermitage Ex-Voto Blanc,Ermitage Ex-Voto Blanc 2016,2016,Hermitage,0,E. Guigal,155.0,4.3,678,France
+10,Séchet Chablís Premier Cru,Séchet Chablís Premier Cru 2015,2015,Chablis Premier Cru,0,Vincent Dauvissat,155.0,4.2,853,France
+11,Coume Gineste Côtes Catalanes,Coume Gineste Côtes Catalanes 2006,2006,Côtes Catalanes,0,Domaine Gauby,155.0,4.1,599,France
+12,Meursault 'Les Narvaux',Meursault 'Les Narvaux' 2020,2020,Meursault,0,Domaine Michelot,155.25,4.2,675,France
+13,LR,LR 2015,2015,Südtirol - Alto Adige,0,Colterenzio (Schreckbichl),155.25,4.6,512,Italia
+14,Fidès,Fidès 2018,2018,Savennières,0,Eric Morgat Vigneron,155.25,4.2,1669,France
+15,Antide Savagnin,Antide Savagnin 2015,2015,Côtes du Jura,0,Jean François Ganevat,156.0,4.3,248,France
+16,Les Grands Teppes Vieilles Vignes,Les Grands Teppes Vieilles Vignes 2016,2016,Côtes du Jura,0,Jean François Ganevat,156.0,4.2,1044,France
+17,Cuvée Orégane,Cuvée Orégane 2016,2016,Côtes du Jura,0,Jean François Ganevat,156.0,4.2,291,France
+18,Puligny-Montrachet 1er Cru 'La Garenne',Puligny-Montrachet 1er Cru 'La Garenne' 2019,2019,Puligny-Montrachet 1er Cru 'La Garenne',0,Louis Jadot,156.98,4.4,446,France
+19,Gorgona,Gorgona 2017,2017,Toscane,0,Frescobaldi,157.0,4.4,609,Italia
+20,Meursault 1er Cru 'Charmes',Meursault 1er Cru 'Charmes' 2018,2018,Meursault 1er Cru 'Charmes',0,Ballot Millot,158.5,4.3,595,France
+21,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2020,2020,Corton-Charlemagne Grand Cru,0,Domaine Cauvard,158.5,4.1,78,France
+22,Chablis Grand Cru 'Moutonne' (Monopole),Chablis Grand Cru 'Moutonne' (Monopole) 2006,2006,Chablis Grand Cru 'La Moutonne',0,Domaine Long Depaquit,158.5,4.3,2218,France
+23,Chablis Grand Cru 'Moutonne' (Monopole),Chablis Grand Cru 'Moutonne' (Monopole) 2018,2018,Chablis Grand Cru 'La Moutonne',0,Domaine Long Depaquit,158.5,4.3,2218,France
+24,Chablis Grand Cru 'Moutonne' (Monopole),Chablis Grand Cru 'Moutonne' (Monopole) 2015,2015,Chablis Grand Cru 'La Moutonne',0,Domaine Long Depaquit,158.5,4.3,2218,France
+25,Appius,Appius 2018,2018,Südtirol - Alto Adige,0,St. Michael-Eppan,158.98,4.5,1385,Italia
+26,Gorgona,Gorgona 2016,2016,Toscane,0,Frescobaldi,159.0,4.4,609,Italia
+27,Ermitage Ex-Voto Blanc,Ermitage Ex-Voto Blanc 2015,2015,Hermitage,0,E. Guigal,159.0,4.3,678,France
+28,Cuvée Jéhan Humblot Meursault-Porusots Premier Cru,Cuvée Jéhan Humblot Meursault-Porusots Premier Cru 2017,2017,Meursault 1er Cru 'Porusot',0,Hospices de Beaune,159.0,4.4,262,France
+29,Chardonnay Limoux Aigle Royal ,Chardonnay Limoux Aigle Royal  2018,2018,Limoux,0,Gérard Bertrand,159.0,4.2,646,France
+30,Meursault 1er Cru 'Les Charmes',Meursault 1er Cru 'Les Charmes' 2021,2021,Meursault 1er Cru 'Charmes',0,Rémi Jobard,159.0,4.1,147,France
+31,Chardonnay Toscana,Chardonnay Toscana 2015,2015,Toscane,0,Monteverro,159.5,4.3,1157,Italia
+32,Vougeot Premier Cru 'Les Crâs' Blanc,Vougeot Premier Cru 'Les Crâs' Blanc 2021,2021,Vougeot 1er Cru 'Les Crâs',0,Domaine Bertagna,160.0,4.3,300,France
+33,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2015,2015,Pessac-Léognan,0,Château Pape Clément,160.0,4.2,1892,France
+34,Coteau de Vernon Condrieu,Coteau de Vernon Condrieu 2018,2018,Condrieu,0,Domaine Georges Vernay,162.0,4.5,2039,France
+35,Morey-Saint-Denis Premier Cru Clos des Monts Luisants Vieilles Vignes,Morey-Saint-Denis Premier Cru Clos des Monts Luisants Vieilles Vignes 2018,2018,Morey-Saint-Denis Premier Cru,0,Domaine Ponsot,163.2,4.2,1188,France
+36,Chardonnay Toscana,Chardonnay Toscana 2013,2013,Toscane,0,Monteverro,163.9,4.3,1157,Italia
+37,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2016,2016,Pessac-Léognan,0,Château Pape Clément,164.4,4.2,1892,France
+38,Chassagne-Montrachet,Chassagne-Montrachet 2020,2020,Chassagne-Montrachet,0,Domaine Bernard Moreau et Fils,164.45,4.3,3294,France
+39,Les Chalumeaux Puligny-Montrachet 1er Cru,Les Chalumeaux Puligny-Montrachet 1er Cru 2018,2018,Puligny-Montrachet Premier Cru,0,Matrot,164.45,4.3,1102,France
+40,Meursault 'Les Tillets',Meursault 'Les Tillets' 2018,2018,Meursault,0,Jean Javillier & Fils,164.45,4.1,137,France
+41,Clos Des Perrières Meursault 1er Cru,Clos Des Perrières Meursault 1er Cru 2013,2013,Meursault Premier Cru,0,Albert Grivault,165.0,4.3,1461,France
+42,Meursault-Charmes 1er Cru,Meursault-Charmes 1er Cru 2016,2016,Meursault 1er Cru 'Charmes',0,Darviot-Perrin,165.4,4.3,189,France
+43,Chablis Grand Cru Les Blanchots ‘La Réserve de L’Obédience’,Chablis Grand Cru Les Blanchots ‘La Réserve de L’Obédience’ 2021,2021,Chablis Grand Cru 'Blanchot',0,Domaine Laroche,166.7,4.3,2141,France
+44,Le Petit Cheval Bordeaux Blanc,Le Petit Cheval Bordeaux Blanc 2019,2019,Bordeaux,0,Château Cheval Blanc,167.0,4.4,816,France
+45,Ermitage Ex-Voto Blanc,Ermitage Ex-Voto Blanc 2012,2012,Hermitage,0,E. Guigal,169.0,4.3,678,France
+46,Clos de la Coulée de Serrant,Clos de la Coulée de Serrant 1987,1987,Savennières-Coulée-de-Serrant,0,Nicolas Joly,169.95,4.3,8442,France
+47,Meursault 'Les Grands Charrons',Meursault 'Les Grands Charrons' 2018,2018,Meursault,0,Pierre Boisson,170.0,4.4,133,France
+48,Chablis Grand Cru 'Les Clos',Chablis Grand Cru 'Les Clos' 2019,2019,Chablis Grand Cru 'Les Clos',0,Domaine Long Depaquit,170.4,4.1,740,France
+49,Chassagne-Montrachet 1er Cru 'La Maltroie',Chassagne-Montrachet 1er Cru 'La Maltroie' 2017,2017,Chassagne-Montrachet 1er Cru 'La Maltroie',0,Fontaine-Gagnard,171.6,4.3,786,France
+50,Vieilles Vignes Roussanne,Vieilles Vignes Roussanne 2021,2021,Côtes du Rhône,0,Château de Beaucastel,172.0,4.5,824,France
+51,Chablis Grand Cru 'Valmur',Chablis Grand Cru 'Valmur' 2002,2002,Chablis Grand Cru 'Valmur',0,J. Moreau & Fils,173.0,4.0,266,France
+52,Condrieu,Condrieu 2015,2015,Condrieu,0,Domaine Yves Gangloff,173.0,4.5,2039,France
+53,Chablis Grand Cru Les Clos,Chablis Grand Cru Les Clos 1993,1993,Chablis Grand Cru,0,Régnard,173.0,4.4,264,France
+54,Condrieu,Condrieu 2014,2014,Condrieu,0,Domaine Yves Gangloff,173.0,4.5,2039,France
+55,Chassagne-Montrachet 1er Cru 'Cailleret',Chassagne-Montrachet 1er Cru 'Cailleret' 2020,2020,Chassagne-Montrachet 1er Cru 'Cailleret',0,Amiot Guy,173.08,4.3,886,France
+56,Meursault 1er Cru 'Genevrières',Meursault 1er Cru 'Genevrières' 2018,2018,Meursault 1er Cru 'Genevrières',0,Ballot Millot,173.9,4.2,182,France
+57,Vieilles Vignes Roussanne,Vieilles Vignes Roussanne 2020,2020,Côtes du Rhône,0,Château de Beaucastel,174.0,4.5,824,France
+58,Grand Fostó,Grand Fostó 2013,2013,Colli Tortonesi,0,Marina Coppi,174.28,4.3,65,Italia
+59,Zeltinger Sonnenuhr Beerenauselese Riesling,Zeltinger Sonnenuhr Beerenauselese Riesling 2015,2015,Mosel,0,Markus Molitor,174.8,4.5,50,Deutschland
+60,Chassagne-Montrachet 1er Cru 'Les Vergers',Chassagne-Montrachet 1er Cru 'Les Vergers' 2018,2018,Chassagne-Montrachet 1er Cru 'Les Vergers',0,Fontaine-Gagnard,174.8,4.3,976,France
+61,Chassagne-Montrachet 1er Cru 'Les Vergers',Chassagne-Montrachet 1er Cru 'Les Vergers' 2020,2020,Chassagne-Montrachet 1er Cru 'Les Vergers',0,Fontaine-Gagnard,174.8,4.3,976,France
+62,Chassagne-Montrachet Premier Cru 'La Grande Montagne',Chassagne-Montrachet Premier Cru 'La Grande Montagne' 2017,2017,Chassagne-Montrachet 1er Cru 'La Grande Montagne',0,Maison Pierre Brisset,174.8,4.3,88,France
+63,Pinot Bianco Riserva Vorberg,Pinot Bianco Riserva Vorberg 2015,2015,Südtirol - Alto Adige,0,Terlan (Terlano),174.8,4.2,9426,Italia
+64,Chassagne-Montrachet 1er Cru 'La Maltroie',Chassagne-Montrachet 1er Cru 'La Maltroie' 2020,2020,Chassagne-Montrachet 1er Cru 'La Maltroie',0,Fontaine-Gagnard,174.8,4.3,786,France
+65,Meursault 'Les Grands Charrons',Meursault 'Les Grands Charrons' 2020,2020,Meursault,0,Pierre Boisson,175.0,4.4,133,France
+66,Ermitage Ex-Voto Blanc,Ermitage Ex-Voto Blanc 2020,2020,Hermitage,0,E. Guigal,175.0,4.3,678,France
+67,Cuvée de la Centaurée Meursault Charmes Premier Cru,Cuvée de la Centaurée Meursault Charmes Premier Cru 2018,2018,Meursault 1er Cru 'Charmes',0,Laurent Ponsot,175.0,4.2,83,France
+68,Hermitage La Chapelle Blanc,Hermitage La Chapelle Blanc 2014,2014,Hermitage,0,Paul Jaboulet Aîné,175.0,4.0,131,France
+69,Vaíllons Chablís 1er Cru,Vaíllons Chablís 1er Cru 2015,2015,Chablis 1er Cru 'Vaillons',0,Vincent Dauvissat,178.0,4.2,1554,France
+70,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2017,2017,Corton-Charlemagne Grand Cru,0,Domaine Bertagna,179.0,4.3,244,France
+71,Les Grands Teppes Vieilles Vignes,Les Grands Teppes Vieilles Vignes 2015,2015,Côtes du Jura,0,Jean François Ganevat,179.0,4.2,1044,France
+72,Chassagne-Montrachet 1er Cru 'Les Embazées',Chassagne-Montrachet 1er Cru 'Les Embazées' 2017,2017,Chassagne-Montrachet 1er Cru 'Les Embazées',0,Chartron et Trébuchet,179.9,4.4,267,France
+73,Puligny-Montrachet Premier Cru 'La Truffière',Puligny-Montrachet Premier Cru 'La Truffière' 2016,2016,Puligny-Montrachet 1er Cru 'La Truffière',0,Bruno Colin,180.0,4.3,505,France
+74,Côtes du Rhône Réservé Blanc,Côtes du Rhône Réservé Blanc 2000,2000,Côtes du Rhône,0,Château des Tours,180.0,4.0,771,France
+75,Cuvée de la Centaurée Meursault Charmes Premier Cru,Cuvée de la Centaurée Meursault Charmes Premier Cru 2019,2019,Meursault 1er Cru 'Charmes',0,Laurent Ponsot,183.0,4.2,83,France
+76,Corton-Charlemagne Grand Cru Blanc,Corton-Charlemagne Grand Cru Blanc 2018,2018,Corton-Charlemagne Grand Cru,0,Maison Capitain-Gagnerot,185.0,4.4,304,France
+77,Silex,Silex 2020,2020,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),185.0,4.5,8447,France
+78,Aile d'Argent Blanc Bordeaux,Aile d'Argent Blanc Bordeaux 2018,2018,Bordeaux,0,Château Mouton Rothschild,185.15,4.2,4807,France
+79,Bourgogne Chardonnay,Bourgogne Chardonnay 2019,2019,Bourgogne,0,Jean-Claude Ramonet,185.15,3.9,620,France
+80,Toscana Batar,Toscana Batar 2011,2011,Toscane,0,Querciabella,185.15,4.3,4219,Italia
+81,Chassagne-Montrachet Premier Cru 'La Grande Montagne',Chassagne-Montrachet Premier Cru 'La Grande Montagne' 2019,2019,Chassagne-Montrachet 1er Cru 'La Grande Montagne',0,Maison Pierre Brisset,185.15,4.3,88,France
+82,Clos de la Coulée de Serrant,Clos de la Coulée de Serrant 2017,2017,Savennières-Coulée-de-Serrant,0,Nicolas Joly,185.15,4.3,8442,France
+83,Clos de la Coulée de Serrant,Clos de la Coulée de Serrant 2020,2020,Savennières-Coulée-de-Serrant,0,Nicolas Joly,185.15,4.3,8442,France
+84,Pino & Toi,Pino & Toi 1990,1990,Breganze,0,Maculan,185.15,3.5,539,Italia
+85,Chablis Grand Cru Les Clos,Chablis Grand Cru Les Clos 2005,2005,Chablis Grand Cru 'Les Clos',0,Domaine William Fèvre,185.15,4.3,3022,France
+86,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2019,2019,Corton-Charlemagne Grand Cru,0,Michel Juillot,185.4,4.5,513,France
+87,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2016,2016,Corton-Charlemagne Grand Cru,0,Louis Latour,186.84,4.4,5809,France
+88,Chablis Grand Cru 'Valmur',Chablis Grand Cru 'Valmur' 2017,2017,Chablis Grand Cru 'Valmur',0,Jean-Claude et Romain Bessin-Tremblay,187.4,4.0,849,France
+89,Chassagne-Montrachet 1er Cru 'En Remilly',Chassagne-Montrachet 1er Cru 'En Remilly' 2013,2013,Chassagne-Montrachet 1er Cru 'En Remilly',0,Michel Colin - Deléger et Fils,187.4,4.2,247,France
+90,Meursault 1er Cru 'Perrières',Meursault 1er Cru 'Perrières' 1996,1996,Meursault 1er Cru 'Perrières',0,Philippe Bouzereau - Chateau de Citeaux,189.0,4.4,345,France
+91,Beaune 1er Cru 'Clos des Mouches' Blanc,Beaune 1er Cru 'Clos des Mouches' Blanc 2020,2020,Beaune 1er Cru 'Le Clos des Mouches',0,Joseph Drouhin,189.0,4.4,3117,France
+92,La Pietra Chardonnay,La Pietra Chardonnay 1985,1985,Toscane,0,Cabreo,190.3,4.1,2567,Italia
+93,Les Grands Teppes Vieilles Vignes,Les Grands Teppes Vieilles Vignes 2014,2014,Côtes du Jura,0,Jean François Ganevat,191.0,4.2,1044,France
+94,La Forest Chablís 1er Cru,La Forest Chablís 1er Cru 2012,2012,Chablis Premier Cru,0,Vincent Dauvissat,191.0,4.2,4726,France
+95,Bourgogne Blanc,Bourgogne Blanc 2020,2020,Bourgogne,0,Domaine Roulot,191.0,4.1,2942,France
+96,Alpilles Blanc,Alpilles Blanc 2014,2014,Alpilles,0,Domaine de Trévallon,191.0,4.3,1545,France
+97,Blanc de Lynch-Bages,Blanc de Lynch-Bages 1990,1990,Bordeaux,0,Château Lynch-Bages,191.0,4.1,3499,France
+98,Pechstein G.C,Pechstein G.C 2021,2021,De Palts,0,Dr. Bürklin-Wolf,191.0,4.3,751,Deutschland
+99,Meursault 1er Cru 'Les Genevrières',Meursault 1er Cru 'Les Genevrières' 2018,2018,Meursault 1er Cru 'Genevrières',0,Vincent Girardin,191.4,4.3,611,France
+100,Puligny-Montrachet,Puligny-Montrachet 2016,2016,Puligny-Montrachet,0,Olivier Leflaive,192.0,4.3,5464,France
+101,Séchet Chablís Premier Cru,Séchet Chablís Premier Cru 2012,2012,Chablis Premier Cru,0,Vincent Dauvissat,194.0,4.2,853,France
+102,Puligny-Montrachet Premier Cru Champ-Canet,Puligny-Montrachet Premier Cru Champ-Canet 2006,2006,Puligny-Montrachet Premier Cru,0,J.M. Boillot,194.7,4.4,1033,France
+103,La Forest Chablís 1er Cru,La Forest Chablís 1er Cru 2018,2018,Chablis Premier Cru,0,Vincent Dauvissat,194.7,4.2,4726,France
+104,Bourgogne Blanc,Bourgogne Blanc 2019,2019,Bourgogne,0,Domaine Roulot,195.0,4.1,2942,France
+105,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2018,2018,Corton-Charlemagne Grand Cru,0,Louis Latour,195.0,4.4,5809,France
+106,Vieilles Vignes Châteauneuf-du-Pape Blanc,Vieilles Vignes Châteauneuf-du-Pape Blanc 2020,2020,Châteauneuf-du-Pape,0,Château de Beaucastel,195.0,4.4,2598,France
+107,Meursault 'Les Grands Charrons',Meursault 'Les Grands Charrons' 2017,2017,Meursault,0,Pierre Boisson,195.0,4.4,133,France
+108,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2018,2018,Corton-Charlemagne Grand Cru,0,Joseph Drouhin,195.0,4.4,1048,France
+109,Gewürztraminer Alsace Heimbourg,Gewürztraminer Alsace Heimbourg 1989,1989,Elzas,0,Domaine Zind Humbrecht,195.5,4.1,323,France
+110,Puligny-Montrachet 1er Cru 'Les Folatières',Puligny-Montrachet 1er Cru 'Les Folatières' 2018,2018,Puligny-Montrachet 1er Cru 'Les Folatières',0,Alvina Pernot,195.5,4.2,55,France
+111,Galinot Sancerre,Galinot Sancerre 2017,2017,Sancerre,0,Gitton Père & Fils,195.5,3.8,195,France
+112,Clos de la Coulée de Serrant,Clos de la Coulée de Serrant 2016,2016,Savennières-Coulée-de-Serrant,0,Nicolas Joly,195.5,4.3,8442,France
+113,Puligny-Montrachet Les Combettes Premier Cru,Puligny-Montrachet Les Combettes Premier Cru 2019,2019,Puligny-Montrachet Premier Cru,0,Domaine Jacques Prieur,195.5,4.4,1846,France
+114,Chassagne-Montrachet 1er Cru 'La Maltroie',Chassagne-Montrachet 1er Cru 'La Maltroie' 2019,2019,Chassagne-Montrachet 1er Cru 'La Maltroie',0,Domaine Bernard Moreau et Fils,195.5,4.3,393,France
+115,Alteni di Brassica Langhe,Alteni di Brassica Langhe 2019,2019,Langhe,0,Gaja,195.5,4.3,2485,Italia
+116,Alteni di Brassica Langhe,Alteni di Brassica Langhe 2017,2017,Langhe,0,Gaja,195.5,4.3,2485,Italia
+117,Pechstein G.C,Pechstein G.C 2018,2018,De Palts,0,Dr. Bürklin-Wolf,196.48,4.3,751,Deutschland
+118,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2010,2010,Pessac-Léognan,0,Château Smith Haut-Lafitte,197.7,4.3,3939,France
+119,Hermitage La Chapelle Blanc,Hermitage La Chapelle Blanc 2006,2006,Hermitage,0,Paul Jaboulet Aîné,198.0,4.0,131,France
+120,Cuvée des Pandorea Meursault,Cuvée des Pandorea Meursault 2016,2016,Meursault,0,Laurent Ponsot,198.0,4.1,375,France
+121,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2019,2019,Corton-Charlemagne Grand Cru,0,Domaine Génot-Boulanger,198.0,4.4,188,France
+122,Clos des Ecoles Meursault,Clos des Ecoles Meursault 2019,2019,Meursault,0,Hudelot-Noëllat,199.1,4.2,183,France
+123,Pessac-Léognan Blanc (Grand Cru Classé de Graves),Pessac-Léognan Blanc (Grand Cru Classé de Graves) 1953,1953,Pessac-Léognan,0,Château Carbonnieux,199.95,4.1,18296,France
+124,L'Enclos des Remparts,L'Enclos des Remparts 2019,2019,Sancerre,0,Domaine Vacheron,200.0,4.3,122,France
+125,Pechstein G.C,Pechstein G.C 2017,2017,De Palts,0,Dr. Bürklin-Wolf,201.98,4.3,751,Deutschland
+126,Premium Reserve Chardonnay Barrique,Premium Reserve Chardonnay Barrique 2018,2018,Stockholm,0,Blaxsta Vingård,203.55,4.0,95,Sverige
+127,Pur Sang,Pur Sang 2017,2017,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),203.55,4.3,3673,France
+128,Pinot Grigio,Pinot Grigio 2006,2006,Venezia Giulia,0,Gravner,204.6,4.2,110,Italia
+129,Chardonnay Toscana,Chardonnay Toscana 2014,2014,Toscane,0,Monteverro,204.6,4.3,1157,Italia
+130,Meursault 1er Cru 'Perrières',Meursault 1er Cru 'Perrières' 2018,2018,Meursault 1er Cru 'Perrières',0,Ballot Millot,204.7,4.2,194,France
+131,Meursault 1er Cru 'Perrières',Meursault 1er Cru 'Perrières' 2019,2019,Meursault 1er Cru 'Perrières',0,Ballot Millot,204.7,4.2,194,France
+132,Colore Bianco,Colore Bianco 2021,2021,Toscane,0,Bibi Graetz,205.0,4.2,57,Italia
+133,Séchet Chablís Premier Cru,Séchet Chablís Premier Cru 2007,2007,Chablis Premier Cru,0,Vincent Dauvissat,207.0,4.2,853,France
+134,Fleur de Marne La Bardette,Fleur de Marne La Bardette 2019,2019,Jura,0,Domaine Labet,212.2,3.9,145,France
+135,Meursault 1er Cru 'Charmes',Meursault 1er Cru 'Charmes' 2018,2018,Meursault 1er Cru 'Charmes',0,Buisson-Charles,213.9,4.3,245,France
+136,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2012,2012,Trebbiano d'Abruzzo,0,Emidio Pepe,213.9,4.1,6328,Italia
+137,Meursault Premier Cru 'Goutte d'Or',Meursault Premier Cru 'Goutte d'Or' 2020,2020,Meursault 1er Cru 'Les Gouttes d'Or',0,Buisson-Charles,213.9,4.3,287,France
+138,Meursault 1er Cru 'Charmes',Meursault 1er Cru 'Charmes' 2019,2019,Meursault 1er Cru 'Charmes',0,Buisson-Charles,213.9,4.3,245,France
+139,Meursault 1er Cru 'Charmes',Meursault 1er Cru 'Charmes' 2020,2020,Meursault 1er Cru 'Charmes',0,Buisson-Charles,213.9,4.3,245,France
+140,Y,Y 2005,2005,Bordeaux Supérieur,0,Château d'Yquem,215.0,4.5,5092,France
+141,La Forest Chablís 1er Cru,La Forest Chablís 1er Cru 2007,2007,Chablis Premier Cru,0,Vincent Dauvissat,219.0,4.2,4726,France
+142,Chassagne-Montrachet 1er Cru 'En Remilly',Chassagne-Montrachet 1er Cru 'En Remilly' 2015,2015,Chassagne-Montrachet 1er Cru 'En Remilly',0,Michel Colin - Deléger et Fils,223.9,4.2,247,France
+143,Breg Bianco,Breg Bianco 2003,2003,Venezia Giulia,0,Gravner,224.25,4.3,3038,Italia
+144,Chassagne-Montrachet 1er Cru 'En Virondot',Chassagne-Montrachet 1er Cru 'En Virondot' 2020,2020,Chassagne-Montrachet 1er Cru 'En Virondot',0,Domaine Marc Morey & Fils,224.25,4.3,1768,France
+145,Quarz Sauvignon,Quarz Sauvignon 2018,2018,Trentino-Zuid-Tirol,0,Terlan (Terlano),224.25,4.4,8945,Italia
+146,Meursault 1er Cru Les Poruzots,Meursault 1er Cru Les Poruzots 2019,2019,Meursault Premier Cru,0,Maison Henri Boillot,224.25,4.3,428,France
+147,Quarz Sauvignon,Quarz Sauvignon 2017,2017,Trentino-Zuid-Tirol,0,Terlan (Terlano),224.25,4.4,8945,Italia
+148,Puligny-Montrachet Premier Cru 'Les Perrières',Puligny-Montrachet Premier Cru 'Les Perrières' 2019,2019,Puligny-Montrachet 1er Cru 'Les Perrières',0,Domaine Philippe Pernot-Belicard,225.0,4.3,477,France
+149,Meursault 1er Cru 'Charmes',Meursault 1er Cru 'Charmes' 2020,2020,Meursault 1er Cru 'Charmes',0,Henri Germain & Fils,228.0,4.3,520,France
+150,Buisson Renard,Buisson Renard 2016,2016,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),232.0,4.3,2144,France
+151,Puligny-Montrachet 1er Cru 'Les Combettes',Puligny-Montrachet 1er Cru 'Les Combettes' 1997,1997,Puligny-Montrachet 1er Cru 'Les Combettes',0,Robert Ampeau et Fils,232.2,4.3,270,France
+152,Y,Y 2011,2011,Bordeaux Supérieur,0,Château d'Yquem,233.0,4.5,5092,France
+153,Y,Y 2010,2010,Bordeaux Supérieur,0,Château d'Yquem,233.0,4.5,5092,France
+154,Puligny-Montrachet 1er Cru 'La Garenne',Puligny-Montrachet 1er Cru 'La Garenne' 2017,2017,Puligny-Montrachet 1er Cru 'La Garenne',0,Comtesse Bernard de Chérisey,233.45,4.2,45,France
+155,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2015,2015,Corton-Charlemagne Grand Cru,0,Louis Latour,235.44,4.4,5809,France
+156,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2019,2019,Corton-Charlemagne Grand Cru,0,Louis Latour,235.44,4.4,5809,France
+157,Meursault 1er Cru 'Perrières',Meursault 1er Cru 'Perrières' 2020,2020,Meursault 1er Cru 'Perrières',0,Ballot Millot,238.48,4.2,194,France
+158,Saint-Aubin Premier Cru En Remilly,Saint-Aubin Premier Cru En Remilly 2020,2020,Saint-Aubin Premier Cru,0,Pierre-Yves Colin-Morey,238.5,4.3,1061,France
+159,Ermitage Le Méal Blanc,Ermitage Le Méal Blanc 2014,2014,Hermitage,0,M. Chapoutier,239.0,4.4,724,France
+160,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2020,2020,Pessac-Léognan,0,Château Pape Clément,239.38,4.2,1892,France
+161,Riesling 'Le Gallais' Wiltinger Braune Kupp Auslese,Riesling 'Le Gallais' Wiltinger Braune Kupp Auslese 2018,2018,Wiltingen,0,Egon Müller - Scharzhof,240.0,4.5,248,Deutschland
+162,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2005,2005,Corton-Charlemagne Grand Cru,0,Olivier Leflaive,240.0,4.5,1126,France
+163,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 2016,2016,Elzas,0,Trimbach,240.0,4.5,4138,France
+164,Corton Charlemagne Grand Cru,Corton Charlemagne Grand Cru 2020,2020,Corton-Charlemagne Grand Cru,0,Domaine Bruno Clair,240.0,4.3,467,France
+165,Clos du Bourg Vouvray,Clos du Bourg Vouvray 1971,1971,Vouvray,0,Domaine Huet,243.8,4.2,146,France
+166,Clos de la Coulée de Serrant,Clos de la Coulée de Serrant 2008,2008,Savennières-Coulée-de-Serrant,0,Nicolas Joly,243.8,4.3,8442,France
+167,LR,LR 2018,2018,Südtirol - Alto Adige,0,Colterenzio (Schreckbichl),243.8,4.6,512,Italia
+168,Quarz Sauvignon,Quarz Sauvignon 2016,2016,Trentino-Zuid-Tirol,0,Terlan (Terlano),243.8,4.4,8945,Italia
+169,Buisson Renard,Buisson Renard 2014,2014,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),243.8,4.3,2144,France
+170,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2005,2005,Pessac-Léognan,0,Château Pape Clément,243.8,4.2,1892,France
+171,La Perrière Nuits-Saint-Georges 1er Cru,La Perrière Nuits-Saint-Georges 1er Cru 2019,2019,Nuits-Saint-Georges 1er Cru 'Les Perrières',0,Domaine Henri Gouges,243.8,4.1,360,France
+172,Clos des Ecoles Meursault,Clos des Ecoles Meursault 2020,2020,Meursault,0,Hudelot-Noëllat,243.8,4.2,183,France
+173,Ermitage Le Méal Blanc,Ermitage Le Méal Blanc 2018,2018,Hermitage,0,M. Chapoutier,244.0,4.4,724,France
+174,Ermitage Le Méal Blanc,Ermitage Le Méal Blanc 2019,2019,Hermitage,0,M. Chapoutier,245.0,4.4,724,France
+175,Ribolla Gialla,Ribolla Gialla 2012,2012,Venezia Giulia,0,Gravner,245.78,4.3,7060,Italia
+176,Puligny-Montrachet,Puligny-Montrachet 2020,2020,Puligny-Montrachet,0,Olivier Leflaive,245.8,4.3,5464,France
+177,Puligny-Montrachet,Puligny-Montrachet 2018,2018,Puligny-Montrachet,0,Jean-Claude Ramonet,246.0,4.2,538,France
+178,Ermitage Le Méal Blanc,Ermitage Le Méal Blanc 2017,2017,Hermitage,0,M. Chapoutier,249.0,4.4,724,France
+179,Vin Jaune,Vin Jaune 2005,2005,Côtes du Jura,0,Jean François Ganevat,250.0,4.3,305,France
+180,Cuvée du Kalimeris Corton-Charlemagne Grand Cru,Cuvée du Kalimeris Corton-Charlemagne Grand Cru 2018,2018,Corton-Charlemagne Grand Cru,0,Laurent Ponsot,252.0,4.4,115,France
+181,Meursault Premier Cru 'Les Charmes',Meursault Premier Cru 'Les Charmes' 2020,2020,Meursault 1er Cru 'Charmes',0,Pierre Girardin,253.1,4.4,106,France
+182,Puligny-Montrachet Premier Cru La Garenne,Puligny-Montrachet Premier Cru La Garenne 2001,2001,Puligny-Montrachet Premier Cru,0,J.M. Boillot,255.2,4.5,205,France
+183,Ruppertsberger Hoheburg P.C,Ruppertsberger Hoheburg P.C 2002,2002,De Palts,0,Dr. Bürklin-Wolf,255.58,4.0,848,Deutschland
+184,Clos de la Coulée de Serrant,Clos de la Coulée de Serrant 2014,2014,Savennières-Coulée-de-Serrant,0,Nicolas Joly,256.0,4.3,8442,France
+185,Brézé Saumur Blanc,Brézé Saumur Blanc 2013,2013,Saumur,0,Clos Rougeard,258.0,4.5,1380,France
+186,Meursault-Perrieres 1er Cru,Meursault-Perrieres 1er Cru 2018,2018,Meursault Premier Cru,0,Domaine Jacques Prieur,260.0,4.3,297,France
+187,Zeltinger Sonnenuhr Beerenauslese,Zeltinger Sonnenuhr Beerenauslese 2017,2017,Mosel,0,Markus Molitor,264.5,4.7,44,Deutschland
+188,La Perrière Nuits-Saint-Georges 1er Cru,La Perrière Nuits-Saint-Georges 1er Cru 2020,2020,Nuits-Saint-Georges 1er Cru 'Les Perrières',0,Domaine Henri Gouges,264.5,4.1,360,France
+189,Chassagne-Montrachet Premier Cru 'Blanchot Dessus',Chassagne-Montrachet Premier Cru 'Blanchot Dessus' 2019,2019,Chassagne-Montrachet 1er Cru 'Blanchot Dessus'—,0,Bruno Colin,264.5,4.4,80,France
+190,Chassagne-Montrachet 1er Cru 'La Maltroie',Chassagne-Montrachet 1er Cru 'La Maltroie' 2020,2020,Chassagne-Montrachet 1er Cru 'La Maltroie',0,Domaine Bernard Moreau et Fils,264.5,4.3,393,France
+191,Picolit di Cialla,Picolit di Cialla 2006,2006,Colli Orientali del Friuli,0,Ronchi di Cialla,264.5,4.3,310,Italia
+192,Chablis 1er Cru 'Montée de Tonnerre',Chablis 1er Cru 'Montée de Tonnerre' 2015,2015,Chablis 1er Cru 'Montee de Tonnerre',0,Vincent Dauvissat,267.7,4.3,89,France
+193,Ermitage de l'Orée,Ermitage de l'Orée 2018,2018,Hermitage,0,M. Chapoutier,270.0,4.4,2149,France
+194,Ermitage de l'Orée,Ermitage de l'Orée 2016,2016,Hermitage,0,M. Chapoutier,270.0,4.4,2149,France
+195,Ermitage de l'Orée,Ermitage de l'Orée 2017,2017,Hermitage,0,M. Chapoutier,270.0,4.4,2149,France
+196,Puligny-Montrachet 1er Cru 'Les Combettes',Puligny-Montrachet 1er Cru 'Les Combettes' 2017,2017,Puligny-Montrachet 1er Cru 'Les Combettes',0,Francois Carillon,274.85,4.3,403,France
+197,Meursault 1er Cru 'Perrières',Meursault 1er Cru 'Perrières' 2020,2020,Meursault 1er Cru 'Perrières',0,Domaine Michelot,274.85,4.1,260,France
+198,Pessac-Léognan Blanc,Pessac-Léognan Blanc 2015,2015,Pessac-Léognan,0,Château Smith Haut-Lafitte,275.1,4.3,3939,France
+199,Ribolla Gialla,Ribolla Gialla 2010,2010,Venezia Giulia,0,Gravner,277.98,4.3,7060,Italia
+200,Toscana Bianco,Toscana Bianco 2019,2019,Bolgheri,0,Ornellaia,278.0,4.5,840,Italia
+201,Ermitage de l'Orée,Ermitage de l'Orée 2019,2019,Hermitage,0,M. Chapoutier,279.0,4.4,2149,France
+202,Ermitage de l'Orée,Ermitage de l'Orée 2015,2015,Hermitage,0,M. Chapoutier,279.0,4.4,2149,France
+203,Terlaner I Primo,Terlaner I Primo 2018,2018,Südtirol - Alto Adige,0,Terlan (Terlano),280.0,4.6,225,Italia
+204,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2018,2018,Corton-Charlemagne Grand Cru,0,Domaine des Héritiers Louis Jadot,280.0,4.5,2302,France
+205,Corton-Charlemagne Grand Cru Quintessence,Corton-Charlemagne Grand Cru Quintessence 2016,2016,Corton-Charlemagne Grand Cru,0,Vincent Girardin,282.0,4.5,462,France
+206,Brézé Saumur Blanc,Brézé Saumur Blanc 2012,2012,Saumur,0,Clos Rougeard,282.0,4.5,1380,France
+207,Nettare Veneto Bianco,Nettare Veneto Bianco 1995,1995,Veneto,0,Dal Forno Romano,285.2,4.6,88,Italia
+208,Nettare Veneto Bianco,Nettare Veneto Bianco 1988,1988,Veneto,0,Dal Forno Romano,285.2,4.6,88,Italia
+209,Saint-Aubin Premier Cru Les Champlots,Saint-Aubin Premier Cru Les Champlots 2016,2016,Saint-Aubin Premier Cru,0,Pierre-Yves Colin-Morey,285.2,4.3,592,France
+210,Nettare Veneto Bianco,Nettare Veneto Bianco 1994,1994,Veneto,0,Dal Forno Romano,285.2,4.6,88,Italia
+211,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2010,2010,Trebbiano d'Abruzzo,0,Emidio Pepe,285.2,4.1,6328,Italia
+212,Breg Bianco,Breg Bianco 2001,2001,Venezia Giulia,0,Gravner,285.2,4.3,3038,Italia
+213,Hermitage Blanc,Hermitage Blanc 2011,2011,Hermitage,0,Domaine Jean-Louis Chave,288.0,4.5,1578,France
+214,Meursault  Premier Cru 'Perrières',Meursault  Premier Cru 'Perrières' 2019,2019,Meursault 1er Cru 'Perrières',0,Domaine Philippe Pernot-Belicard,289.0,4.4,92,France
+215,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2021,2021,Corton-Charlemagne Grand Cru,0,Domaine Bertagna,289.7,4.3,244,France
+216,Ribolla Gialla,Ribolla Gialla 2010,2010,Venezia Giulia,0,Damijan Podversic,289.98,4.1,3736,Italia
+217,Pavillon Blanc du Château Margaux,Pavillon Blanc du Château Margaux 2008,2008,Bordeaux,0,Château Margaux,290.0,4.3,3620,France
+218,Camille Hommage Blanc,Camille Hommage Blanc 2018,2018,Coteaux Champenois,0,Louis Roederer,295.55,4.3,58,France
+219,Pur Sang,Pur Sang 2007,2007,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),295.95,4.3,3673,France
+220,Saint-Aubin Premier Cru 'Les Murgers des Dents de Chien',Saint-Aubin Premier Cru 'Les Murgers des Dents de Chien' 2015,2015,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',0,Jean-Claude Ramonet,297.0,4.2,337,France
+221,Beaune 1er Cru 'Clos des Mouches' Blanc,Beaune 1er Cru 'Clos des Mouches' Blanc 2017,2017,Beaune 1er Cru 'Le Clos des Mouches',0,Joseph Drouhin,298.1,4.4,3117,France
+222,Buisson Renard,Buisson Renard 2009,2009,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),299.95,4.3,2144,France
+223,Pavillon Blanc du Château Margaux,Pavillon Blanc du Château Margaux 2017,2017,Bordeaux,0,Château Margaux,300.0,4.3,3620,France
+224,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2013,2013,Corton-Charlemagne Grand Cru,0,Michel Juillot,303.9,4.5,513,France
+225,Kirchenstück G.C,Kirchenstück G.C 2021,2021,De Palts,0,Dr. Bürklin-Wolf,304.5,4.6,428,Deutschland
+226,Puligny-Montrachet Enseignères,Puligny-Montrachet Enseignères 2020,2020,Puligny-Montrachet,0,Olivier Leflaive,304.75,4.3,949,France
+227,Tradition Chardonnay,Tradition Chardonnay 1998,1998,Südtirol - Alto Adige,0,Terlan (Terlano),304.75,3.8,3480,Italia
+228,Hermitage Blanc,Hermitage Blanc 2012,2012,Hermitage,0,Domaine Jean-Louis Chave,313.0,4.5,1578,France
+229,Pessac-Léognan Blanc (Grand Cru Classé de Graves),Pessac-Léognan Blanc (Grand Cru Classé de Graves) 1998,1998,Pessac-Léognan,0,Château La Mission Haut-Brion,313.0,4.3,1185,France
+230,Brézé Saumur Blanc,Brézé Saumur Blanc 2017,2017,Saumur,0,Clos Rougeard,313.0,4.5,1380,France
+231,Le Mont Damné Chavignol,Le Mont Damné Chavignol 2015,2015,Sancerre,0,Didier Dagueneau (Louis-Benjamin Dagueneau),317.0,4.3,810,France
+232,Le Mont Damné Chavignol,Le Mont Damné Chavignol 2018,2018,Sancerre,0,Didier Dagueneau (Louis-Benjamin Dagueneau),317.0,4.3,810,France
+233,Pavillon Blanc du Château Margaux,Pavillon Blanc du Château Margaux 2018,2018,Bordeaux,0,Château Margaux,320.0,4.3,3620,France
+234,Les Tremblots Vieilles Vignes Puligny-Montrachet,Les Tremblots Vieilles Vignes Puligny-Montrachet 2012,2012,Puligny-Montrachet,0,Hubert Lamy,325.0,4.2,861,France
+235,Hermitage Blanc,Hermitage Blanc 2010,2010,Hermitage,0,Domaine Jean-Louis Chave,325.0,4.5,1578,France
+236,Ribolla Gialla,Ribolla Gialla 2009,2009,Venezia Giulia,0,Gravner,325.45,4.3,7060,Italia
+237,Ribolla Gialla,Ribolla Gialla 2008,2008,Venezia Giulia,0,Gravner,325.45,4.3,7060,Italia
+238,Puligny-Montrachet 1er Cru 'Les Demoiselles',Puligny-Montrachet 1er Cru 'Les Demoiselles' 2012,2012,Puligny-Montrachet 1er Cru 'Les Demoiselles',0,Michel Colin - Deléger et Fils,326.2,4.2,172,France
+239,Les Tremblots Vieilles Vignes Puligny-Montrachet,Les Tremblots Vieilles Vignes Puligny-Montrachet 2015,2015,Puligny-Montrachet,0,Hubert Lamy,331.0,4.2,861,France
+240,Les Tremblots Vieilles Vignes Puligny-Montrachet,Les Tremblots Vieilles Vignes Puligny-Montrachet 2014,2014,Puligny-Montrachet,0,Hubert Lamy,331.0,4.2,861,France
+241,Chablis Grand Cru 'Moutonne' (Monopole),Chablis Grand Cru 'Moutonne' (Monopole) 2016,2016,Chablis Grand Cru 'La Moutonne',0,Domaine Long Depaquit,332.4,4.3,2218,France
+242,Initiales B.B. Bourgogne,Initiales B.B. Bourgogne 2014,2014,Bourgogne,0,Domaine Bernard-Bonin,340.8,4.1,536,France
+243,Pavillon Blanc du Château Margaux,Pavillon Blanc du Château Margaux 2011,2011,Bordeaux,0,Château Margaux,345.6,4.3,3620,France
+244,Grande Cuvée I Terlaner,Grande Cuvée I Terlaner 2020,2020,Südtirol - Alto Adige,0,Terlan (Terlano),346.15,4.5,416,Italia
+245,Initiales B.B. Bourgogne,Initiales B.B. Bourgogne 2020,2020,Bourgogne,0,Domaine Bernard-Bonin,346.15,4.1,536,France
+246,Bourgogne Aligoté,Bourgogne Aligoté 2019,2019,Bourgogne Aligoté,0,Domaine Coche-Dury,349.0,4.1,756,France
+247,Chassagne-Montrachet Premier Cru 'Les Caillerets',Chassagne-Montrachet Premier Cru 'Les Caillerets' 2018,2018,Chassagne-Montrachet 1er Cru 'Cailleret',0,Jean-Claude Ramonet,349.0,4.3,429,France
+248,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 1995,1995,Corton-Charlemagne Grand Cru,0,Louis Latour,349.95,4.4,5809,France
+249,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 2005,2005,Elzas,0,Trimbach,350.0,4.5,4138,France
+250,Meursault,Meursault 2020,2020,Meursault,0,Domaine des Comtes Lafon,353.7,4.3,1775,France
+251,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien' 2013,2013,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',0,Hubert Lamy,355.0,4.2,314,France
+252,Le Mont Damné Chavignol,Le Mont Damné Chavignol 2014,2014,Sancerre,0,Didier Dagueneau (Louis-Benjamin Dagueneau),365.0,4.3,810,France
+253,Chassagne-Montrachet Blanc,Chassagne-Montrachet Blanc 2019,2019,Chassagne-Montrachet,0,Jean-Claude Ramonet,365.7,4.1,2448,France
+254,Meursault 'Les Narvaux',Meursault 'Les Narvaux' 2018,2018,Meursault,0,Pierre Girardin,365.7,4.4,246,France
+255,Pur Sang,Pur Sang 2006,2006,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),365.7,4.3,3673,France
+256,Chassagne-Montrachet Blanc,Chassagne-Montrachet Blanc 2018,2018,Chassagne-Montrachet,0,Jean-Claude Ramonet,365.7,4.1,2448,France
+257,Saint-Aubin 1er Cru 'En Remilly',Saint-Aubin 1er Cru 'En Remilly' 2015,2015,Saint-Aubin 1er Cru 'En Remilly',0,Hubert Lamy,366.0,4.3,2308,France
+258,Bourgogne Chardonnay,Bourgogne Chardonnay 2019,2019,Bourgogne,0,Domaine Coche-Dury,367.0,4.3,1907,France
+259,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien' 2012,2012,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',0,Hubert Lamy,367.0,4.2,314,France
+260,Saint-Aubin 1er Cru 'En Remilly',Saint-Aubin 1er Cru 'En Remilly' 2018,2018,Saint-Aubin 1er Cru 'En Remilly',0,Hubert Lamy,367.0,4.3,2308,France
+261,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien' 2015,2015,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',0,Hubert Lamy,367.0,4.2,314,France
+262,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2017,2017,Corton-Charlemagne Grand Cru,0,Louis Latour,371.52,4.4,5809,France
+263,Hermitage Blanc,Hermitage Blanc 2019,2019,Hermitage,0,Domaine Jean-Louis Chave,375.0,4.5,1578,France
+264,Bourgogne Aligoté,Bourgogne Aligoté 2020,2020,Bourgogne Aligoté,0,Domaine Coche-Dury,375.0,4.1,756,France
+265,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2017,2017,Corton-Charlemagne Grand Cru,0,Vincent Girardin,376.05,4.4,1928,France
+266,Ermitage l'Ermite Blanc,Ermitage l'Ermite Blanc 2008,2008,Hermitage,0,M. Chapoutier,379.0,4.5,296,France
+267,Saint-Aubin 1er Cru 'En Remilly',Saint-Aubin 1er Cru 'En Remilly' 2011,2011,Saint-Aubin 1er Cru 'En Remilly',0,Hubert Lamy,379.0,4.3,2308,France
+268,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien' 2007,2007,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',0,Hubert Lamy,379.0,4.2,314,France
+269,Puligny-Montrachet,Puligny-Montrachet 2012,2012,Puligny-Montrachet,0,Domaine Leflaive,379.0,4.4,9042,France
+270,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 2000,2000,Elzas,0,Trimbach,380.0,4.5,4138,France
+271,Pavillon Blanc du Château Margaux,Pavillon Blanc du Château Margaux 2014,2014,Bordeaux,0,Château Margaux,385.0,4.3,3620,France
+272,Hermitage Blanc,Hermitage Blanc 2018,2018,Hermitage,0,Domaine Jean-Louis Chave,385.0,4.5,1578,France
+273,Bourgogne Chardonnay,Bourgogne Chardonnay 2017,2017,Bourgogne,0,Domaine Bernard-Bonin,386.4,3.9,31,France
+274,Clos Des Perrières Meursault 1er Cru,Clos Des Perrières Meursault 1er Cru 2020,2020,Meursault Premier Cru,0,Albert Grivault,386.4,4.3,1461,France
+275,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 2018,2018,Corton-Charlemagne Grand Cru,0,Domaine Ponsot,390.0,4.5,201,France
+276,Meursault 1er Cru Sous Le Dos d'Ane,Meursault 1er Cru Sous Le Dos d'Ane 2011,2011,Meursault Premier Cru,0,Domaine Leflaive,391.0,4.3,1797,France
+277,Ermitage l'Ermite Blanc,Ermitage l'Ermite Blanc 2011,2011,Hermitage,0,M. Chapoutier,393.3,4.5,296,France
+278,Puligny-Montrachet,Puligny-Montrachet 2020,2020,Puligny-Montrachet,0,Benoît Ente,396.75,4.3,949,France
+279,Sancerre 'Clos la Néore',Sancerre 'Clos la Néore' 2017,2017,Sancerre,0,Edmond Vatan,398.0,4.4,704,France
+280,Blanc,Blanc 2019,2019,Château-Grillet,0,Château-Grillet,400.0,4.4,2082,France
+281,Saint-Aubin 1er Cru 'En Remilly',Saint-Aubin 1er Cru 'En Remilly' 2014,2014,Saint-Aubin 1er Cru 'En Remilly',0,Hubert Lamy,404.0,4.3,2308,France
+282,Saint-Aubin 1er Cru 'En Remilly',Saint-Aubin 1er Cru 'En Remilly' 2012,2012,Saint-Aubin 1er Cru 'En Remilly',0,Hubert Lamy,404.0,4.3,2308,France
+283,Meursault 1er Cru Sous Le Dos d'Ane,Meursault 1er Cru Sous Le Dos d'Ane 2009,2009,Meursault Premier Cru,0,Domaine Leflaive,404.0,4.3,1797,France
+284,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 1998,1998,Elzas,0,Trimbach,404.0,4.5,4138,France
+285,Bourgogne Chardonnay,Bourgogne Chardonnay 2020,2020,Bourgogne,0,Domaine Coche-Dury,404.0,4.3,1907,France
+286,Criots-Bâtard-Montrachet Grand Cru,Criots-Bâtard-Montrachet Grand Cru 2016,2016,Criots-Bâtard-Montrachet Grand Cru,0,Domaine Roger Belland,404.0,4.5,507,France
+287,Le Cloud Blanc,Le Cloud Blanc 2019,2019,Bourgogne,0,Domaine Prieuré Roch,410.4,4.0,831,France
+288,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 2014,2014,Elzas,0,Trimbach,412.85,4.5,4138,France
+289,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc 2011,2011,Chassagne-Montrachet 1er Cru 'Morgeot',0,Jean-Claude Ramonet,413.9,4.4,1717,France
+290,Les Clos Chablís Grand Cru,Les Clos Chablís Grand Cru 2009,2009,Chablis Grand Cru 'Les Clos',0,Vincent Dauvissat,414.0,4.5,1766,France
+291,Gaia & Rey Langhe,Gaia & Rey Langhe 2006,2006,Langhe,0,Gaja,415.8,4.5,5951,Italia
+292,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien' 2010,2010,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',0,Hubert Lamy,416.0,4.2,314,France
+293,Bâtard-Montrachet Grand Cru,Bâtard-Montrachet Grand Cru 2019,2019,Bâtard-Montrachet Grand Cru,0,Domaine Faiveley,420.0,4.4,350,France
+294,Pessac-Léognan Blanc (Grand Cru Classé de Graves),Pessac-Léognan Blanc (Grand Cru Classé de Graves) 1990,1990,Pessac-Léognan,0,Château La Mission Haut-Brion,425.0,4.3,1185,France
+295,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 1995,1995,Elzas,0,Trimbach,425.0,4.5,4138,France
+296,Charlemagne Grand Cru,Charlemagne Grand Cru 2020,2020,Charlemagne Grand Cru,0,Domaine de la Vougeraie,432.4,4.5,204,France
+297,Blanc,Blanc 2004,2004,Château-Grillet,0,Château-Grillet,432.4,4.4,2082,France
+298,Meursault Blanc,Meursault Blanc 2015,2015,Meursault,0,Domaine Roulot,440.0,4.3,779,France
+299,Vieilles Vignes Saint-Aubin 1er Cru 'Clos de la Chatenière',Vieilles Vignes Saint-Aubin 1er Cru 'Clos de la Chatenière' 2016,2016,Saint-Aubin 1er Cru 'La Chatenière',0,Hubert Lamy,440.0,4.2,1251,France
+300,Meursault 'Les Corbins',Meursault 'Les Corbins' 2020,2020,Meursault,0,Vincent Dancer,443.1,4.3,404,France
+301,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 1982,1982,Elzas,0,Trimbach,446.0,4.5,4138,France
+302,Sancerre 'Clos la Néore',Sancerre 'Clos la Néore' 2013,2013,Sancerre,0,Edmond Vatan,446.0,4.4,704,France
+303,Blanc,Blanc 2005,2005,Château-Grillet,0,Château-Grillet,450.0,4.4,2082,France
+304,Pur Sang,Pur Sang 2001,2001,Pouilly-Fumé,0,Didier Dagueneau (Louis-Benjamin Dagueneau),451.95,4.3,3673,France
+305,Puligny-Montrachet Premier Cru Les Combettes,Puligny-Montrachet Premier Cru Les Combettes 2017,2017,Puligny-Montrachet Premier Cru,0,J.M. Boillot,451.95,4.4,586,France
+306,Bourgogne Chardonnay,Bourgogne Chardonnay 2016,2016,Bourgogne,0,Domaine Coche-Dury,457.7,4.3,1907,France
+307,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc 2007,2007,Chassagne-Montrachet 1er Cru 'Morgeot',0,Jean-Claude Ramonet,457.7,4.4,1717,France
+308,Chevalier-Montrachet Grand Cru Blanc,Chevalier-Montrachet Grand Cru Blanc 2017,2017,Chevalier-Montrachet Grand Cru,0,Bouchard Père & Fils,460.0,4.4,1291,France
+309,Meursault Blanc,Meursault Blanc 2019,2019,Meursault,0,Domaine Roulot,464.0,4.3,779,France
+310,Chevalier-Montrachet Grand Cru,Chevalier-Montrachet Grand Cru 1990,1990,Chevalier-Montrachet Grand Cru,0,Château de Puligny Montrachet,464.0,4.5,436,France
+311,Sancerre 'Clos la Néore',Sancerre 'Clos la Néore' 2016,2016,Sancerre,0,Edmond Vatan,464.0,4.4,704,France
+312,Chevalier Montrachet Grand Cru Les Demoiselles,Chevalier Montrachet Grand Cru Les Demoiselles 2017,2017,Chevalier-Montrachet Grand Cru,0,Domaine des Héritiers Louis Jadot,470.0,4.5,620,France
+313,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2003,2003,Trebbiano d'Abruzzo,0,Valentini,471.5,4.4,5875,Italia
+314,Trebbiano d'Abruzzo,Trebbiano d'Abruzzo 2002,2002,Trebbiano d'Abruzzo,0,Valentini,471.5,4.4,5875,Italia
+315,Clos Sainte Hune Riesling Alsace,Clos Sainte Hune Riesling Alsace 2017,2017,Elzas,0,Trimbach,471.5,4.5,4138,France
+316,Chassagne-Montrachet Premier Cru 'Boudriotte' Blanc,Chassagne-Montrachet Premier Cru 'Boudriotte' Blanc 2009,2009,Chassagne-Montrachet 1er Cru 'La Boudriotte',0,Jean-Claude Ramonet,472.4,4.3,1904,France
+317,Chassagne-Montrachet Premier Cru 'Les Ruchottes' Blanc,Chassagne-Montrachet Premier Cru 'Les Ruchottes' Blanc 2013,2013,Chassagne-Montrachet 1er Cru 'Les Grandes Ruchottes',0,Jean-Claude Ramonet,472.4,4.4,1533,France
+318,Meursault 'Les Grands Charrons',Meursault 'Les Grands Charrons' 2020,2020,Meursault,0,Vincent Dancer,472.4,4.2,202,France
+319,Criots-Bâtard-Montrachet Grand Cru,Criots-Bâtard-Montrachet Grand Cru 2015,2015,Criots-Bâtard-Montrachet Grand Cru,0,Domaine Roger Belland,476.0,4.5,507,France
+320,Puligny-Montrachet Premier Cru 'Champs-Canet',Puligny-Montrachet Premier Cru 'Champs-Canet' 2016,2016,Puligny-Montrachet 1er Cru 'Champ Canet',0,Jean-Claude Ramonet,479.7,4.4,452,France
+321,Scharzhofberger Riesling Auslese,Scharzhofberger Riesling Auslese 2012,2012,Wiltingen,0,Egon Müller - Scharzhof,480.0,4.6,1690,Deutschland
+322,Bourgogne Aligoté,Bourgogne Aligoté 2013,2013,Bourgogne Aligoté,0,Domaine Leroy,487.0,3.9,1060,France
+323,Cuvée du Kalimeris Corton-Charlemagne Grand Cru,Cuvée du Kalimeris Corton-Charlemagne Grand Cru 2016,2016,Corton-Charlemagne Grand Cru,0,Laurent Ponsot,488.0,4.4,115,France
+324,Pessac-Léognan Blanc (Grand Cru Classé de Graves),Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2001,2001,Pessac-Léognan,0,Château La Mission Haut-Brion,491.05,4.3,1185,France
+325,Les Preuses Chablís Grand Cru,Les Preuses Chablís Grand Cru 2008,2008,Chablis Grand Cru 'Preuses',0,Vincent Dauvissat,498.0,4.4,1015,France
+326,Breg Bianco,Breg Bianco 2006,2006,Venezia Giulia,0,Gravner,499.0,4.3,3038,Italia
+327,Meursault-Genevrières Premier Cru,Meursault-Genevrières Premier Cru 2007,2007,Meursault Premier Cru,0,Domaine des Comtes Lafon,498.0,4.4,681,France
+328,Meursault-Genevrières Premier Cru,Meursault-Genevrières Premier Cru 2008,2008,Meursault Premier Cru,0,Domaine des Comtes Lafon,498.0,4.4,681,France
+329,Meursault-Charmes Premier Cru,Meursault-Charmes Premier Cru 2013,2013,Meursault Premier Cru,0,Domaine des Comtes Lafon,498.0,4.5,2810,France
+330,Pessac-Léognan Blanc (Grand Cru Classé de Graves),Pessac-Léognan Blanc (Grand Cru Classé de Graves) 1996,1996,Pessac-Léognan,0,Château La Mission Haut-Brion,500.0,4.3,1185,France
+331,Meursault-Genevrières Premier Cru Cuvée Baudot,Meursault-Genevrières Premier Cru Cuvée Baudot 1963,1963,Meursault Premier Cru,0,Hospices de Beaune,500.0,4.4,863,France
+332,Chevalier-Montrachet Grand Cru Les Demoiselles,Chevalier-Montrachet Grand Cru Les Demoiselles 2021,2021,Chevalier-Montrachet Grand Cru,0,Louis Latour,500.0,4.4,542,France
+333,Chablis Premier Cru 'Butteaux',Chablis Premier Cru 'Butteaux' 2005,2005,Chablis 1er Cru 'Butteaux',0,Raveneau,498.0,4.5,2961,France
+334,Meursault-Genevrières Premier Cru,Meursault-Genevrières Premier Cru 2006,2006,Meursault Premier Cru,0,Domaine des Comtes Lafon,498.0,4.4,681,France
+335,Meursault-Genevrières Premier Cru,Meursault-Genevrières Premier Cru 2004,2004,Meursault Premier Cru,0,Domaine des Comtes Lafon,498.0,4.4,681,France
+336,Corton-Charlemagne Grand Cru,Corton-Charlemagne Grand Cru 1962,1962,Corton-Charlemagne Grand Cru,0,Domaine Rapet,499.0,4.4,2201,France
+337,Meursault-Genevrières Premier Cru,Meursault-Genevrières Premier Cru 2013,2013,Meursault Premier Cru,0,Domaine des Comtes Lafon,498.0,4.4,681,France
+338,Bienvenues Bâtard Montrachet Grand Cru,Bienvenues Bâtard Montrachet Grand Cru 2012,2012,Bienvenues-Bâtard-Montrachet Grand Cru,0,Jean Claude Bachelet & Fils,500.0,4.4,192,France
+339,Chablis Premier Cru 'Forêt',Chablis Premier Cru 'Forêt' 2008,2008,Chablis 1er Cru 'Forêts',0,Raveneau,492.0,4.4,598,France
+340,Bâtard-Montrachet Grand Cru,Bâtard-Montrachet Grand Cru 2020,2020,Bâtard-Montrachet Grand Cru,0,Louis Jadot,500.0,4.4,1093,France
