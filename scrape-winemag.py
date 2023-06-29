@@ -14,9 +14,6 @@ import pandas as pd
 
 
 if __name__ == "__main__":
-    # wine_cols = ['Winery','Wine','Rating','Review_Count','Region','SubRegion']
-    # wine_cols = ['wine brand name', 'wine name', 'year', 'style name', 'regional name', 'varietal name',
-    #             'region', 'winery', 'price', 'rating', 'no. ratings', 'acidity', 'fizziness', 'intensity', 'sweetness', 'tannin']
     wine_cols = [
         "wine brand name",
         "wine name",
@@ -38,7 +35,7 @@ if __name__ == "__main__":
     # min_price = str(152.81)  # 5 red
 
     # min_price = str(0)  # 0 white
-    min_price = str(18.51)  # 1 white
+    # min_price = str(18.51)  # 1 white
     # min_price = str(41.76)  # 2 white
 
     # min_price = str(0) # 0 rose
@@ -60,15 +57,13 @@ if __name__ == "__main__":
                 # "page": x,
                 "price_range_max": "500",
                 "price_range_min": min_price,
-                # "wine_type_ids[]": "1",  # red
-                "wine_type_ids[]": "2",  # white
+                "wine_type_ids[]": "1",  # red
+                # "wine_type_ids[]": "2",  # white
             },
             headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0"
             },
         )
-
-        # print(r.text)
 
         results = [
             (
@@ -91,21 +86,8 @@ if __name__ == "__main__":
                 # t["vintage"]["wine"]["taste"]["structure"]["sweetness"],
                 # t["vintage"]["wine"]["taste"]["structure"]["tannin"]
             )
-            # (
-            #    t["vintage"]["wine"]["winery"]["name"],
-            #    f'{t["vintage"]["wine"]["name"]} {t["vintage"]["year"]}',
-            #    t["vintage"]["statistics"]["ratings_average"],
-            #    t["vintage"]["statistics"]["ratings_count"],
-            #    t["vintage"]["wine"]["region"]["country"]["name"],
-            #    t["vintage"]["wine"]["region"]["name"]
-            # )
             for t in r.json()["explore_vintage"]["matches"]
         ]
-
-        # for t in r.json()["explore_vintage"]["matches"]:
-        #    print("newline\n")
-        #    print(t)
-        #    print("end newline\n")
 
         temp_df = pd.DataFrame(results, columns=wine_cols)
         wine_df = wine_df._append(temp_df, ignore_index=True)
@@ -118,12 +100,8 @@ if __name__ == "__main__":
         with open("white1_" + str(x) + ".json", "w") as fp:
             json.dump(wine_dict, fp, sort_keys=True, indent=4)
 
-        # dataframe = pd.DataFrame(results,columns=['Winery','Wine','Rating','num_review', ])
-
     print(wine_df.shape)
     print(wine_df.head)
-    # wine_df.to_csv('test.csv')
-    # Explore Columns To Include
 
     wine_df.to_csv("white1.csv")
     print(min_price)
