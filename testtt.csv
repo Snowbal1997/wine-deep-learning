@@ -1,0 +1,51 @@
+,wine brand name,wine name,year,region,type,winery,price,rating,no. ratings,country
+0,Bordeaux,Bordeaux 2015,2015,bordeaux,0,Château de Lavagnac,4.1,3.5,694,France
+1,Graves Rouge,Graves Rouge 2011,2011,graves,0,Château de Callac,4.5,3.7,2748,France
+2,Les Blousons Noirs Malbec,Les Blousons Noirs Malbec 2020,2020,cahors,0,Vinovalie,4.5,3.6,218,France
+3,Cuvée Prestige Bordeaux,Cuvée Prestige Bordeaux 2018,2018,bordeaux,0,Duchesse de Berry,4.64,3.3,681,France
+4,Chateau du Barail Bordeaux,Chateau du Barail Bordeaux 2021,2021,bordeaux,0,Les Hauts de Palette,4.9,3.3,351,France
+5,Bordeaux,Bordeaux 2015,2015,bordeaux,0,Château Haut Bernin,4.9,3.2,268,France
+6,Graves Rouge,Graves Rouge 2013,2013,graves,0,Château de Callac,4.95,3.7,2748,France
+7,Bordeaux,Bordeaux 2009,2009,bordeaux,0,Château La Fleur Saint-Jean,4.95,3.5,144,France
+8,4 Saisons Cabernet Sauvignon,4 Saisons Cabernet Sauvignon 2021,2021,vin-de-pays-doc,0,Vignerons Catalans,5.0,3.4,267,France
+9,4 Saisons Merlot,4 Saisons Merlot 2021,2021,vin-de-pays-doc,0,Vignerons Catalans,5.0,3.6,235,France
+10,Malicieuse Syrah,Malicieuse Syrah 2022,2022,cotes-catalanes,0,Les Vignerons des Albères,5.05,3.2,32,France
+11,To Bi or Not To Bi Merlot - Grenache,To Bi or Not To Bi Merlot - Grenache 2022,2022,languedoc,0,Arnaud de Villeneuve,5.2,3.3,64,France
+12,Bordeaux,Bordeaux 2021,2021,bordeaux,0,Château Lacoste Garzac,5.25,3.4,1860,France
+13,Bordeaux,Bordeaux 2018,2018,bordeaux,0,Château Grand Rousseau,5.34,3.5,1174,France
+14,Bordeaux Rouge,Bordeaux Rouge 2014,2014,bordeaux,0,Marquille,5.4,2.6,103,France
+15,Les Cardounettes Rouge,Les Cardounettes Rouge 2017,2017,vin-de-pays-doc,0,Foncalieu,5.4,3.3,507,France
+16,Malbec,Malbec 2019,2019,mendoza,0,Santa Írene,5.4,3.0,470,Argentina
+17,Les Cardounettes Rouge,Les Cardounettes Rouge 2018,2018,vin-de-pays-doc,0,Foncalieu,5.4,3.3,507,France
+18,Cuvée Collection Bordeaux,Cuvée Collection Bordeaux 2017,2017,bordeaux,0,Seigneur de La Tour,5.4,3.1,1502,France
+19,Les Ramières,Les Ramières 2020,2020,vaucluse,0,Piaugier,5.5,3.6,80,France
+20,Le Petit Balthazar Merlot,Le Petit Balthazar Merlot 2021,2021,vin-de-pays-doc,0,Pierrick Harang,5.5,3.1,497,France
+21,Bordeaux Rouge,Bordeaux Rouge 2017,2017,bordeaux,0,Château des Léotins,5.61,3.3,2310,France
+22,Vieilles Vignes Grenache,Vieilles Vignes Grenache 2021,2021,cotes-catalanes,0,Les Vignerons des Albères,5.65,3.8,73,France
+23,Bordeaux,Bordeaux 2020,2020,bordeaux,0,Château Grand Rousseau,5.71,3.5,1174,France
+24,Malis Rouge,Malis Rouge 2020,2020,cotes-du-roussillon,0,Abbe Rous,5.75,3.5,137,France
+25,Côtes du Rhône Rouge,Côtes du Rhône Rouge 2016,2016,cotes-du-rhone,0,Domaine Martin,5.9,3.6,835,France
+26,No. 7 Tannat - Merlot,No. 7 Tannat - Merlot 2018,2018,cotes-de-gascogne,0,Uby,5.9,3.6,1609,France
+27,Côtes du Roussillon Rouge,Côtes du Roussillon Rouge 2022,2022,cotes-du-roussillon,0,Château Montesquieu des Albères,5.9,3.8,25,France
+28,No. 7 Tannat - Merlot,No. 7 Tannat - Merlot 2022,2022,cotes-de-gascogne,0,Uby,5.9,3.6,1609,France
+29,Le Petit Clamens,Le Petit Clamens 2021,2021,southwest,0,Château Clamens,5.903333333333333,3.5,107,France
+30,Graves Rouge,Graves Rouge 2014,2014,graves,0,Château de Callac,5.94,3.7,2748,France
+31,Les Grains Pinot Noir Cuvée Rare,Les Grains Pinot Noir Cuvée Rare 2017,2017,vin-de-pay-s,0,Marrenon,5.99,3.5,900,France
+32,Gavroche Rouge,Gavroche Rouge 2021,2021,vin-de-pays-vignobles-de-france,0,Château l'Ermite,6.0,3.8,79,France
+33,Bordeaux,Bordeaux 2020,2020,bordeaux,0,Château Gabelot,6.0,3.9,158,France
+34,Caringole Rouge,Caringole Rouge 2021,2021,cotes-de-thongue,0,Domaine la Croix Belle,6.0,3.7,1396,France
+35,Bordeaux Rouge,Bordeaux Rouge 2020,2020,bordeaux,0,Château des Léotins,6.03,3.3,2310,France
+36,Bordeaux Rouge,Bordeaux Rouge 2021,2021,bordeaux,0,Château des Léotins,6.13,3.3,2310,France
+37,Bordeaux Rouge,Bordeaux Rouge 2019,2019,bordeaux,0,Château de l'Esperance,6.13,3.5,230,France
+38,Squerda Côtes du Roussillon Villages 'Lesquerde',Squerda Côtes du Roussillon Villages 'Lesquerde' 2022,2022,cotes-du-roussillon-villages,0,Semper,6.2,3.7,259,France
+39,Vaucluse,Vaucluse 2019,2019,vaucluse,0,Domaine des Pasquiers,6.25,3.4,334,France
+40,Syrah,Syrah 2021,2021,vin-de-pay-s,0,La Belle Angèle,6.25,3.3,1127,France
+41,Merlot,Merlot 2020,2020,vin-de-pays-vignobles-de-france,0,La Belle Angèle,6.25,3.3,719,France
+42,Clos du Bois Anjou Rouge,Clos du Bois Anjou Rouge 2019,2019,anjou,0,Deux Vallees,6.3,3.6,76,France
+43,Château de Cach Cuvée Lagrave Haut-Médoc,Château de Cach Cuvée Lagrave Haut-Médoc 2018,2018,haut-medoc,0,Henri Musso,6.3,3.7,146,France
+44,Domaine de la Garrigue Bordeaux,Domaine de la Garrigue Bordeaux 2018,2018,bordeaux,0,Château Gros Caillou,6.3,3.0,127,France
+45,Syrah - Merlot,Syrah - Merlot 2022,2022,languedoc-roussillon,0,Domaine Deshenrys,6.37,3.3,281,France
+46,Bordeaux,Bordeaux 2019,2019,bordeaux,0,Chateau Lamothe Castera,6.42,3.3,844,France
+47,Bordeaux Rouge,Bordeaux Rouge 2021,2021,bordeaux,0,Château Talmont,6.44,3.5,683,France
+48,Bordeaux,Bordeaux 2021,2021,bordeaux,0,Bel-Air,6.44,3.5,10196,France
+49,Le Galapian,Le Galapian 2012,2012,cotes-du-marmandais,0,Château de Beaulieu,6.45,3.6,66,France
