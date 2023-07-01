@@ -1,0 +1,1106 @@
+,wine brand name,wine name,year,region,type,winery,price,rating,no. ratings,country
+0,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+2,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+3,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+4,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+5,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+6,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+7,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+8,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+9,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+10,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+11,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+12,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+13,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+14,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+15,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+16,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+17,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+18,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+19,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+20,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+21,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+22,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+23,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+24,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+25,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+26,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+27,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+28,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+29,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+30,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+31,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+32,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+33,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+34,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+35,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+36,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+37,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+38,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+39,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+40,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+41,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+42,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+43,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+44,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+45,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+46,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+47,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+48,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+49,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+50,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+51,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+52,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+53,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+54,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+55,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+56,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+57,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+58,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+59,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+60,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+61,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+62,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+63,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+64,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+65,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+66,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+67,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+68,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+69,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+70,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+71,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+72,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+73,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+74,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+75,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+76,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+77,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+78,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+79,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+80,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+81,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+82,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+83,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+84,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+85,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+86,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+87,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+88,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+89,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+90,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+91,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+92,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+93,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+94,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+95,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+96,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+97,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+98,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+99,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+100,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+101,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+102,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+103,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+104,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+105,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+106,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+107,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+108,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+109,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+110,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+111,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+112,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+113,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+114,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+115,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+116,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+117,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+118,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+119,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+120,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+121,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+122,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+123,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+124,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+125,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+126,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+127,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+128,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+129,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+130,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+131,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+132,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+133,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+134,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+135,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+136,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+137,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+138,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+139,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+140,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+141,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+142,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+143,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+144,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+145,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+146,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+147,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+148,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+149,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+150,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+151,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+152,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+153,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+154,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+155,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+156,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+157,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+158,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+159,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+160,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+161,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+162,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+163,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+164,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+165,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+166,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+167,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+168,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+169,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+170,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+171,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+172,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+173,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+174,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+175,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+176,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+177,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+178,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+179,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+180,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+181,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+182,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+183,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+184,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+185,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+186,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+187,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+188,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+189,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+190,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+191,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+192,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+193,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+194,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+195,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+196,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+197,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+198,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+199,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+200,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+201,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+202,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+203,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+204,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+205,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+206,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+207,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+208,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+209,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+210,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+211,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+212,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+213,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+214,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+215,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+216,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+217,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+218,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+219,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+220,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+221,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+222,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+223,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+224,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+225,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+226,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+227,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+228,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+229,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+230,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+231,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+232,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+233,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+234,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+235,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+236,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+237,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+238,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+239,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+240,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+241,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+242,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+243,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+244,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+245,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+246,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+247,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+248,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+249,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+250,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+251,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+252,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+253,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+254,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+255,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+256,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+257,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+258,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+259,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+260,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+261,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+262,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+263,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+264,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+265,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+266,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+267,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+268,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+269,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+270,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+271,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+272,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+273,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+274,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+275,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+276,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+277,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+278,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+279,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+280,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+281,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+282,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+283,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+284,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+285,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+286,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+287,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+288,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+289,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+290,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+291,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+292,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+293,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+294,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+295,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+296,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+297,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+298,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+299,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+300,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+301,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+302,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+303,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+304,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+305,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+306,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+307,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+308,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+309,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+310,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+311,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+312,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+313,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+314,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+315,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+316,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+317,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+318,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+319,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+320,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+321,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+322,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+323,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+324,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+325,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+326,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+327,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+328,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+329,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+330,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+331,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+332,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+333,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+334,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+335,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+336,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+337,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+338,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+339,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+340,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+341,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+342,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+343,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+344,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+345,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+346,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+347,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+348,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+349,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+350,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+351,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+352,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+353,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+354,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+355,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+356,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+357,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+358,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+359,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+360,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+361,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+362,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+363,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+364,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+365,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+366,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+367,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+368,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+369,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+370,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+371,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+372,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+373,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+374,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+375,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+376,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+377,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+378,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+379,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+380,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+381,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+382,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+383,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+384,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+385,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+386,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+387,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+388,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+389,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+390,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+391,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+392,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+393,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+394,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+395,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+396,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+397,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+398,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+399,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+400,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+401,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+402,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+403,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+404,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+405,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+406,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+407,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+408,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+409,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+410,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+411,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+412,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+413,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+414,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+415,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+416,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+417,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+418,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+419,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+420,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+421,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+422,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+423,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+424,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+425,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+426,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+427,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+428,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+429,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+430,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+431,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+432,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+433,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+434,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+435,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+436,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+437,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+438,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+439,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+440,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+441,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+442,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+443,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+444,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+445,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+446,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+447,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+448,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+449,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+450,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+451,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+452,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+453,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+454,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+455,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+456,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+457,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+458,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+459,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+460,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+461,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+462,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+463,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+464,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+465,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+466,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+467,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+468,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+469,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+470,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+471,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+472,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+473,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+474,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+475,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+476,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+477,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+478,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+479,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+480,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+481,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+482,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+483,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+484,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+485,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+486,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+487,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+488,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+489,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+490,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+491,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+492,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+493,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+494,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+495,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+496,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+497,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+498,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+499,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+500,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+501,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+502,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+503,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+504,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+505,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+506,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+507,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+508,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+509,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+510,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+511,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+512,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+513,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+514,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+515,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+516,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+517,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+518,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+519,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+520,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+521,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+522,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+523,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+524,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+525,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+526,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+527,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+528,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+529,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+530,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+531,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+532,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+533,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+534,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+535,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+536,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+537,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+538,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+539,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+540,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+541,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+542,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+543,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+544,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+545,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+546,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+547,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+548,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+549,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+550,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+551,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+552,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+553,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+554,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+555,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+556,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+557,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+558,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+559,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+560,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+561,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+562,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+563,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+564,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+565,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+566,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+567,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+568,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+569,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+570,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+571,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+572,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+573,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+574,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+575,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+576,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+577,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+578,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+579,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+580,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+581,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+582,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+583,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+584,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+585,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+586,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+587,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+588,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+589,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+590,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+591,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+592,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+593,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+594,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+595,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+596,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+597,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+598,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+599,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+600,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+601,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+602,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+603,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+604,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+605,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+606,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+607,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+608,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+609,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+610,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+611,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+612,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+613,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+614,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+615,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+616,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+617,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+618,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+619,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+620,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+621,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+622,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+623,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+624,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+625,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+626,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+627,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+628,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+629,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+630,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+631,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+632,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+633,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+634,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+635,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+636,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+637,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+638,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+639,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+640,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+641,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+642,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+643,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+644,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+645,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+646,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+647,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+648,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+649,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+650,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+651,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+652,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+653,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+654,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+655,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+656,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+657,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+658,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+659,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+660,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+661,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+662,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+663,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+664,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+665,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+666,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+667,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+668,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+669,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+670,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+671,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+672,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+673,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+674,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+675,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+676,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+677,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+678,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+679,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+680,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+681,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+682,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+683,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+684,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+685,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+686,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+687,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+688,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+689,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+690,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+691,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+692,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+693,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+694,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+695,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+696,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+697,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+698,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+699,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+700,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+701,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+702,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+703,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+704,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+705,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+706,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+707,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+708,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+709,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+710,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+711,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+712,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+713,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+714,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+715,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+716,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+717,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+718,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+719,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+720,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+721,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+722,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+723,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+724,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+725,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+726,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+727,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+728,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+729,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+730,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+731,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+732,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+733,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+734,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+735,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+736,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+737,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+738,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+739,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+740,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+741,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+742,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+743,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+744,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+745,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+746,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+747,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+748,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+749,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+750,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+751,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+752,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+753,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+754,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+755,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+756,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+757,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+758,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+759,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+760,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+761,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+762,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+763,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+764,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+765,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+766,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+767,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+768,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+769,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+770,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+771,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+772,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+773,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+774,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+775,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+776,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+777,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+778,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+779,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+780,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+781,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+782,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+783,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+784,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+785,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+786,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+787,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+788,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+789,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+790,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+791,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+792,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+793,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+794,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+795,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+796,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+797,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+798,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+799,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+800,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+801,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+802,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+803,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+804,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+805,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+806,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+807,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+808,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+809,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+810,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+811,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+812,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+813,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+814,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+815,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+816,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+817,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+818,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+819,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+820,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+821,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+822,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+823,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+824,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+825,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+826,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+827,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+828,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+829,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+830,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+831,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+832,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+833,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+834,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+835,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+836,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+837,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+838,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+839,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+840,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+841,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+842,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+843,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+844,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+845,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+846,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+847,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+848,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+849,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+850,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+851,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+852,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+853,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+854,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+855,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+856,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+857,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+858,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+859,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+860,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+861,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+862,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+863,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+864,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+865,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+866,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+867,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+868,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+869,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+870,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+871,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+872,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+873,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+874,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+875,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+876,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+877,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+878,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+879,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+880,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+881,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+882,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+883,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+884,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+885,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+886,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+887,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+888,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+889,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+890,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+891,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+892,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+893,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+894,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+895,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+896,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+897,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+898,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+899,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+900,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+901,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+902,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+903,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+904,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+905,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+906,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+907,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+908,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+909,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+910,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+911,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+912,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+913,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+914,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+915,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+916,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+917,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+918,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+919,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+920,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+921,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+922,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+923,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+924,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+925,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+926,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+927,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+928,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+929,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+930,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+931,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+932,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+933,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+934,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+935,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+936,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+937,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+938,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+939,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+940,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+941,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+942,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+943,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+944,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+945,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+946,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+947,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+948,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+949,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+950,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+951,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+952,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+953,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+954,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+955,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+956,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+957,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+958,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+959,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+960,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+961,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+962,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+963,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+964,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+965,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+966,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+967,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+968,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+969,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+970,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+971,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+972,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+973,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+974,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+975,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+976,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+977,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+978,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+979,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+980,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+981,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+982,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+983,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+984,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+985,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+986,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+987,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+988,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+989,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+990,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+991,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+992,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+993,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+994,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+995,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+996,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+997,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+998,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+999,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1000,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1001,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1002,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1003,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1004,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1005,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1006,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1007,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1008,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1009,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1010,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1011,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1012,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1013,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1014,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1015,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1016,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1017,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1018,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1019,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1020,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1021,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1022,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1023,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1024,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1025,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1026,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1027,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1028,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1029,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1030,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1031,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1032,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1033,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1034,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1035,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1036,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1037,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1038,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1039,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1040,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1041,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1042,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1043,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1044,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1045,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1046,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1047,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1048,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1049,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1050,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1051,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1052,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1053,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1054,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1055,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1056,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1057,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1058,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1059,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1060,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1061,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1062,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1063,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1064,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1065,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1066,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1067,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1068,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1069,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1070,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1071,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1072,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1073,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1074,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1075,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1076,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1077,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1078,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1079,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1080,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1081,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1082,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1083,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1084,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1085,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1086,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1087,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1088,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1089,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1090,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1091,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
+1092,Blanc,Blanc 2018,2018,bergerac,0,Château Le Perrou,3.95,3.5,25,France
+1093,Muscadet-Sevre et Maine Sur Lie,Muscadet-Sevre et Maine Sur Lie 2020,2020,muscadet-de-sevre-et-maine,0,Domaine du Montru,3.92,3.4,200,France
+1094,Sauvignon Blanc,Sauvignon Blanc 2015,2015,central-valley,0,Anakena,3.95,3.3,2427,Chile
+1095,Muros Antigos Loureiro,Muros Antigos Loureiro 2021,2021,vinho-verde,0,Anselmo Mendes,3.89,3.7,4640,Portugal
+1096,Chardonnay,Chardonnay 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.99,0.0,0,France
+1097,Sauvignon Blanc,Sauvignon Blanc 2022,2022,vin-de-pays-doc,0,Domaine du Peras,3.29,3.5,95,France
+1098,Terres d'Orb Blanc,Terres d'Orb Blanc 2021,2021,vin-de-pays-doc,0,Roquebrun,3.5,3.3,34,France
+1099,Blanc,Blanc N.V.,N.V.,macedonia,1,Tsantali,3.99,2.8,25,Ελλάς
+1100,Planalto Reserva Douro Branco,Planalto Reserva Douro Branco 2020,2020,douro,0,Casa Ferreirinha,3.14,3.8,36022,Portugal
+1101,Graševina Tradition Grand Selection,Graševina Tradition Grand Selection 2017,2017,continental-region,0,Vina Antunović,3.714814523546037,0.0,0,Hrvatska
+1102,Sauvignon,Sauvignon 2021,2021,vin-de-pays-doc,0,Olivier Lacour,3.89,0.0,0,France
+1103,Chardonnay,Chardonnay 2019,2019,vin-de-pays-doc,0,Olivier Lacour,3.89,3.2,58,France
+1104,Côtes De Gascogne Classic,Côtes De Gascogne Classic 2019,2019,cotes-de-gascogne,0,Domaine du Tariquet,3.5,3.5,11981,France
